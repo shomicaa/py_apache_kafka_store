@@ -6,12 +6,12 @@ from pathlib import Path
 Path("logs").mkdir(exist_ok=True)
 
 PROCESSES = [
-    ("producer",   [sys.executable, "producer.py"]),
-    ("producer-consumer",   [sys.executable, "producer-consumer.py"]),
-    ("audit",      [sys.executable, "audit_consumer.py"]),
-    ("audit_dlq",  [sys.executable, "audit_dlq.py"]),
-    ("consumer",  [sys.executable, "consumer.py"]),
-    ("dashboard",  [sys.executable, "-m", "streamlit", "run", "dashboard.py"]),
+    ("producer",          [sys.executable, "-u", "processes/producer.py"]),
+    ("producer_consumer", [sys.executable, "-u", "processes/producer_consumer.py"]),
+    ("audit",             [sys.executable, "-u", "processes/audit_consumer.py"]),
+    ("audit_dlq",         [sys.executable, "-u", "processes/audit_dlq.py"]),
+    ("consumer",          [sys.executable, "-u", "processes/consumer.py"]),
+    ("dashboard",         [sys.executable, "-m", "streamlit", "run", "processes/dashboard.py"]),
 ]
 
 procs = []
@@ -32,7 +32,7 @@ try:
             rc = p.poll()
             if rc is not None:
                 print(f"✖ {name} exited with code {rc}. Check logs/{name}.err")
-        time.sleep(2)
+        time.sleep(0.001)
 except KeyboardInterrupt:
     print("\nStopping...")
     for name, p in procs:

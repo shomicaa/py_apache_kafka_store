@@ -1,0 +1,1596 @@
+[PRODUCER] ORDER_CREATED order_id=64ab23c0-ca7f-44fe-b345-27785575ca2b color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=22600ce5-6230-4677-acf8-89e911373d46 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=52035146-0d2c-49f0-a553-53bee6f362af color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=f2a736f7-13c9-4169-bff9-0c1a03f993c3 color=pink size=M qty=1
+[PRODUCER] Sent invalid message order_id=d45aead5-0fc9-4065-8f5b-5d996005fc49
+[PRODUCER] ORDER_CREATED order_id=988c5672-661e-49f7-a9fc-599f9b6b52ee color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=ae1d4f4d-c349-4ac8-b90e-da4ab6f0eed1 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=52e042bc-69ae-4470-9224-d22ca2f57a56 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9306cee1-d079-4c90-896f-6fa76806f9ce color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=d5e879a2-6da9-459c-a0b7-f302f4040dcb
+[PRODUCER] ORDER_CREATED order_id=b3094f72-c5c8-473e-a013-955a68d6b642 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=c2e74576-1cc1-4776-a9d4-539b870758e6 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=cc3b5e55-e4d6-45b5-bd3c-eaeb2c8f56c9 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=6be99c08-2ca7-434f-8b6e-8868ebf59875 color=red size=L qty=1
+[PRODUCER] Sent invalid message order_id=af756cd0-8c95-427e-a816-f406cac80f41
+[PRODUCER] Sent invalid message order_id=6e1b4bc3-5aa6-405c-b7d2-6bf73b92c311
+[PRODUCER] ORDER_CREATED order_id=baef94e3-e5f1-4e82-a0eb-2700974795fd color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=6d9ba367-e85a-4197-a4d1-7eadb9f67654 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=48f8536b-3deb-40d6-9c98-984b134f2ecd color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=f096e4b7-5e8c-473d-b208-58320f8730a2 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=e1795285-5895-45d9-bd98-4ba2abb909c6 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=face9e56-aa1a-48bd-82c3-5e109325c762 color=black size=L qty=1
+[PRODUCER] Sent invalid message order_id=3783074e-daa3-48f5-b866-d0cbdfae9356
+[PRODUCER] ORDER_CREATED order_id=0011cf1c-4c5c-4a0a-80b2-ce4e4ef3319d color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=f374c739-9a74-480d-bb09-d47839e5d0b0 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=e4a1a39e-e6b5-48f0-8202-381228e05f38 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0395c035-e160-4db7-a8a3-8c2e80b62ddb color=black size=L qty=2
+[PRODUCER] Sent invalid message order_id=1f8642c9-7327-4e27-98d0-5eb89b84ce2d
+[PRODUCER] ORDER_CREATED order_id=8533460c-c2fc-4efb-8cb9-69c93f1664a8 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c77d84c4-034a-46e6-b9ea-339b939af600 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=fb9ec28e-dd2c-4776-9594-995778ef4f67 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=15b60e5f-fd0e-47bd-bc22-40d7a86fd41f color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=56a8b254-d1a7-4459-a75e-d2df39af61d1
+[PRODUCER] ORDER_CREATED order_id=bf06ec37-e9c8-437f-ac02-99bda2217a98 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=318a5174-56d9-4df4-8187-5bf0800a746b color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ebaf467c-621f-4508-940f-00138fcb77a5 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=0f929cc6-b275-4fe5-aed3-ef578d174a13 color=black size=L qty=1
+[PRODUCER] Sent invalid message order_id=f5e32494-8f2e-4168-bac9-497d5fc483ce
+[PRODUCER] ORDER_CREATED order_id=c4147bbe-bbbe-41a7-97b9-15e731286fb6 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=db2a33c1-9acb-4af9-bc14-e8f367024130 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=94adbdaf-e78a-4c91-99dc-cc578b712d28
+[PRODUCER] ORDER_CREATED order_id=d34725d8-e50c-4afb-9768-5579840fdb32 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=c40ab3d9-5207-496b-abca-a94d24b3d027 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=1e79b955-0b9d-4b45-9917-caaa36a5736b color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=04990b33-c658-4ed3-baf0-a4bf6ec05f65 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=4179f43e-e694-4371-836e-0bb3f743852d color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=a195f948-6f03-41ee-bf01-fdd90a6f578e color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=778d6352-69e1-428b-a9a3-1c23e45a1d4c color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=32cca131-7cbd-4ddb-b07d-29aa935f2667 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=e5f0ead9-ae18-4e9e-b5cb-0eed2af49305 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=3aae4cdb-a6c5-4bea-805c-4ae0c3e14749 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=6fad56fa-48b6-44c1-b98a-32d7cdd09bc3 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=da6ef04e-d704-4bb5-b01f-29cc406c9ca2 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=884306be-3252-4385-b5d0-e000be435b38 color=black size=L qty=3
+[PRODUCER] Sent invalid message order_id=de264f58-1b6f-4c01-b487-5fbeb7304432
+[PRODUCER] ORDER_CREATED order_id=e284b084-e106-481f-888b-ec6753920089 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=011699fe-bf97-4206-809d-387b4e2c6323 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=e806763d-9090-44c4-8f3d-afdff93aa0e7 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=5c4145da-c663-44c3-bbcd-c3048371bf20 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=8dc64b97-8a19-43f1-b7b2-bfd9d8a7ff48 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=31b40614-1209-494e-8736-c9c1c34d6b19 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=75f316e5-8eb9-484c-80f5-9b83f0baac03 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=823f28ee-925c-4523-9e73-c153ea900a93 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=5ef5f029-848c-48f8-9afd-7dde1ddbb2e0
+[PRODUCER] Sent invalid message order_id=26527f9a-2f6a-446b-acc0-d5263b492da3
+[PRODUCER] ORDER_CREATED order_id=f9e8a476-3524-420e-bfc8-3a627a2d26eb color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=6939fa64-2154-484e-9763-9613ec38c4cc color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=a1248192-fd83-4c2b-9f8f-4ee3af23dfab color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=54c5b5d1-a242-4d0b-9f84-0a5ad2f4f52d color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9ab7e6ef-8788-49e0-a3bd-081414278b9c color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=14697918-ec92-4824-871d-18f4e197e82e color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9880cd06-321a-4588-8fb8-73a6094973be color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=5a6658ae-2dec-4075-bcb9-2429acffd9e8 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=df1ff6a2-afd8-4f52-8dd0-168a003b3ac8 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=55952b93-7d9a-4c52-8de9-0a9c8d771c4c color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=7e01177d-aca7-403e-9f21-b6589e9fc616 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=bf9fbed7-8d90-4303-ad7d-1401ef05c8f1 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=45c289c0-899b-4e89-84d8-f2d1ef8f552f
+[PRODUCER] Sent invalid message order_id=fe77199e-a527-40ec-840c-563371edb399
+[PRODUCER] ORDER_CREATED order_id=39f79438-0c37-4e17-af8a-504caf9daf17 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=89c9dfb3-00f7-4a1b-934f-c63bf66fd2ff color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=e8e23c92-686f-4542-9fa8-fcda47528d18 color=white size=M qty=1
+[PRODUCER] Sent invalid message order_id=fd5deb09-d5e9-4a11-9767-da0c084ef181
+[PRODUCER] Sent invalid message order_id=6cbe0f06-bbd9-45cd-8027-af4bbad7f36b
+[PRODUCER] ORDER_CREATED order_id=a4779d8f-5386-43e8-93b3-39931328f7d2 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=714a4f11-4bfb-416e-a58e-def088cbbf70 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=ed7c231f-7941-4621-b1ba-f55a657b520f color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=5ac03d33-e685-48ea-b67a-6a7190f60aef color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=7376f255-8ca1-4496-b812-5c7c5b0fd33b color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=7e2297cf-4a70-4e58-94b7-faf02b500f92 color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=187c1c5a-00a6-43b9-b784-dc1031ab3579
+[PRODUCER] ORDER_CREATED order_id=977f884a-0af4-432f-8dfe-025be935027f color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=0bbe02af-f34b-48e2-b0b2-0b9af36cab4f
+[PRODUCER] ORDER_CREATED order_id=f9937b80-89a0-48b6-9394-a6701ffdf144 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=70a53e86-d775-4aaf-b52b-16501997db15 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=5714d37a-2842-40b8-a8d1-f059b1ea28ad color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=55777b06-3133-46aa-b7d4-852d41d1aa98 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=e62ffad7-5694-4cbb-ba6d-61d70a93e15b color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=06fff854-2eb2-44f1-9704-ebb8b9aaa3ae color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=bc0da2ff-520d-4724-9633-40c79037a72d color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=5cd46ba8-a0cb-46c5-8d74-4c7bb29635a7 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=a1d23e81-9dbd-447e-b19b-f536a712a619 color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=4e4d154c-49ab-4411-840e-4fdd799163c3
+[PRODUCER] ORDER_CREATED order_id=d0b15a11-eaa0-4f44-afce-0407b1a7de6d color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=d8fc29a2-d1b3-471e-b91d-88e7f1e22809
+[PRODUCER] Sent invalid message order_id=7d78a94e-1f6c-49f9-8c6c-f6a44b9a474d
+[PRODUCER] Sent invalid message order_id=62db1734-bfb9-4666-b38c-e4f5ac344070
+[PRODUCER] Sent invalid message order_id=7ea9b447-8d95-407f-977a-f07488ac580c
+[PRODUCER] ORDER_CREATED order_id=d86824db-81da-4fbd-a91c-e37796385a18 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=6660d808-0091-4da1-a61d-1ec61d6d37df color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=4a6822ff-2ccd-4e56-a067-90f8d59100a5 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=d356a570-6714-4780-8fb6-69bcdd80990f color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=9dfadb76-01a5-4f2f-871f-5c608ea17d13 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=46b72ba5-05de-4670-8fac-33c124284699 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=7de1cdad-be8c-45f3-95da-d5fbddb1720c color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=a3351ab7-bdcc-4917-9ae4-2b69017af14f color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=641f8c67-3528-462f-b74f-190c353c1787 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=c96e279b-0b70-4261-9cec-1ac77474137a color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=248f6732-c60f-4044-8f18-035b910d9343 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=34c8cdbc-7356-4f8c-9bea-67c44913ae43 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=c7f639f6-99f9-459a-8f52-608f00e7457a color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=93e77030-436a-4db8-9d70-87884df9aa1d
+[PRODUCER] ORDER_CREATED order_id=d6e39720-a431-4748-bc7c-be063c62c877 color=red size=XL qty=1
+[PRODUCER] Sent invalid message order_id=442efe98-d86a-4a3e-a5d6-5cfc0bdb40aa
+[PRODUCER] ORDER_CREATED order_id=693a85c5-05c0-440a-bbe1-5137e364c889 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=0e503b17-b4c5-4d83-9cee-873b30025142 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=fe645681-51e8-4c75-8224-c20650c1d2e0 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=71387e04-ac13-417b-a4f8-6c8cb88f9519 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=3fe36c11-96e3-4c6d-9947-9b9c7090f3c9 color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=d92c44c7-53f6-4ba3-ac47-904468601c63
+[PRODUCER] Sent invalid message order_id=3e112bed-a3f7-4eb5-a12b-a93a1a5a7d77
+[PRODUCER] ORDER_CREATED order_id=55195afb-6e35-40c3-933d-61e1d4d3c632 color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=8042f04d-f6d6-48e0-81d4-ed3a317e9818
+[PRODUCER] ORDER_CREATED order_id=3b1a70bf-28a0-4caf-8d7b-3b52de37ac0c color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=63d7ee1b-dabc-4eac-ab69-dd6db7dfd296 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=d24b2b26-e4ba-4a61-9728-6f34fd3638ec color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=fd614b81-1f21-47c5-b8f0-e0728bd43670
+[PRODUCER] Sent invalid message order_id=f70f4525-ad2c-41d8-8b58-58e75ea40d32
+[PRODUCER] ORDER_CREATED order_id=7afc6108-a049-4247-9a6c-56b867e967f7 color=black size=L qty=1
+[PRODUCER] Sent invalid message order_id=815407f1-7a93-4c1d-b82d-74cb865a5ef6
+[PRODUCER] ORDER_CREATED order_id=8848dce3-973a-46ab-a046-1cea8820f971 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a96c1aa2-8ffc-43e8-8b34-d39e36477dc6 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=caa7e40a-d93f-4590-adb4-69ded7f4c909 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=ab245c65-7e0f-4aa4-a6af-2024d07cc7d9 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=0bea5061-5e3a-4e53-ab55-c1b12393c1b0 color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=253cf76b-d79e-4256-baa7-1b4960d95ae8
+[PRODUCER] ORDER_CREATED order_id=851fba89-5a08-40d9-afad-178c3da5d945 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=465fc690-d49a-4a32-aa66-ef728ab8b7ee color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8efb9644-ff7c-4cc8-a6b2-a2952e9b902d color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=1a21495a-de9e-44a6-9ea6-4d35b2f17a44 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=761d83b8-6394-4e7f-809f-9c1092023543 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=86e9acf5-b496-4b90-b1a0-84feb40c089f color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=b7affa5c-7309-468f-833b-c5de4ba05f02
+[PRODUCER] Sent invalid message order_id=d586c3a4-8ed8-4a6b-a14a-eb6c93d157f5
+[PRODUCER] ORDER_CREATED order_id=c4fb2da4-06e9-4a96-9b6f-3b6c2920f116 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=b747106f-567b-436c-9e90-49c4bab50971 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=faee0020-1252-43a6-953b-0a9752bd7a3c color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=b3a76ef8-5b8e-4c94-b77a-ab083b7618b1 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6a2ee076-3126-418e-b3a6-5e3e37c419f9 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=55c0b98d-135a-4a15-9353-c50415991b56 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=20234c52-50fb-4a0a-b039-e6e3d50f4ba5 color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=3e3585e1-92d6-4d8c-8985-50370ab52ad5
+[PRODUCER] ORDER_CREATED order_id=449abdbd-1cee-4d43-a8ec-ab6921d748c5 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=3a7295ec-e0ec-4622-b284-00d0f81cc90d color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=ec2bc28f-4873-4cb9-83a5-bbcd859fe47f color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=1e409d6e-ce06-4a58-931e-fb0500d57ce6 color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=984ffdc9-d226-4fdc-8d20-404e7c0150d6
+[PRODUCER] ORDER_CREATED order_id=6ec66bd1-8a36-4cb5-b658-864f47c748a7 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=cade8650-3e98-41bb-a0c4-5863747fe3f1 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=b0a58136-d675-49f1-87d5-311fc4aef065 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=bcc9406a-cf3c-48b5-9436-e5075892a488 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=b82c0e50-2e2a-4a1c-b1f3-07271a4903d9 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=85167be7-9aad-4aa1-8659-83cb8c6c664f color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=27d38072-9d03-46e1-9225-5e6a7c4101f5
+[PRODUCER] Sent invalid message order_id=b0ce9223-10d4-4090-8c9d-84cba4a3b253
+[PRODUCER] Sent invalid message order_id=4e0da141-d36f-4959-986b-e3c53c5a47a6
+[PRODUCER] ORDER_CREATED order_id=0c9342af-934a-4548-a9ce-7fd8df8a18a3 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=40433242-5a97-4306-934b-c936e788ceab color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=7332ef52-3c85-4dbe-a2d9-69863841146b color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=3a84cc00-3f84-47d0-a034-5700c284815d color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0fcfa1bf-d2ad-4874-ae0b-9090ac3de3ed color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=49cb785d-6de4-4867-b1bd-f0d8f34dbfa4 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=01aa658a-5a63-4dce-889b-9a54d650a13f color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=d209cb55-3c6e-477c-ade6-19a34354d44a color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=69d49d27-a075-434a-9315-5a3e74602d1e color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=1e200394-964c-4d61-8a0f-91826e729c88 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=56bd39ab-0eed-4f07-8f20-d6867168fc8d color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=111bec91-cde6-4aa5-9dae-384cc23ed715 color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=3d9ee44a-cd8a-4722-b356-03ee2a1b4cbf
+[PRODUCER] ORDER_CREATED order_id=e49c32fd-6710-46e8-af18-db49f754925e color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=cc0c7892-016e-46a2-abda-0d94a91359e4
+[PRODUCER] ORDER_CREATED order_id=e5a2ba57-65a7-4d82-ad9f-fb2bce9e2273 color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=ec34623c-dc5b-49ea-bebe-0591eb9cac30
+[PRODUCER] ORDER_CREATED order_id=f7532123-e02c-4fc1-82a3-1aaefab006bb color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=01b0bfd7-f367-4f6e-984f-6cb4963e23c0 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=81c8ac22-eff7-4bf9-9393-617d48f1abbf color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c71ca6fd-2ec8-4d7e-b027-0ed02abe7df2 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=adf6b112-8f24-471d-826c-6f737b2f47c6 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=ad9828f8-5921-4c8c-95b0-aded3b5af2da color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=b18af120-684c-4126-abaf-ba6e6e41b051
+[PRODUCER] Sent invalid message order_id=29864ce4-3d1a-47c4-a836-ee878b99028b
+[PRODUCER] ORDER_CREATED order_id=cc319645-a906-45f9-a23d-a814007983ff color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=5b63b272-9a01-4a85-9f9d-ff3504eaeab9 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=a06182b8-27dc-4de0-922d-b51b27c5b406 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=b2ec4a31-970b-4abb-90e4-e983357785aa color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=48df4acb-d4e8-490a-9fc9-da087ad20487 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=e941c2ef-98b1-46f2-acec-251a3333cf74 color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=f8337fdb-0a56-45ff-97fb-1754c180b74d
+[PRODUCER] ORDER_CREATED order_id=23802d97-eb25-4f75-9186-54051ac42071 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=6ad9916a-838e-44de-916a-e8809fcc0329 color=white size=L qty=3
+[PRODUCER] Sent invalid message order_id=5db2c98c-fce5-4dd2-8e7c-019ae8e01dac
+[PRODUCER] ORDER_CREATED order_id=fc1666a4-f4d5-4030-8944-ae136b2d1683 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a94ff0b3-69be-49c2-ad51-57a10b3ff13c color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=1cc0d7d3-9914-47f8-9cea-a3b01e9bfabb color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=77b74b77-4a4f-4fb3-99d8-4da4f30c2eb1 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0a93d1fd-a492-46a3-8923-d08777d8509b color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=2fa6b459-db8b-4d41-98e0-5104fba2c921 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=5a286425-8d5f-4d73-a412-8541638e9482 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=de8e8864-931f-46f8-9ce9-e1714071298f color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=59019658-4b33-410c-b845-4479a40bf779 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2f1bbdcb-92b3-45e1-b82a-70ee9e5e5af8 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=ecccfbc8-4983-42e4-8c24-247b3a6b465c color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=4c2cbc32-cf5e-4f88-8029-36755bb92ea4
+[PRODUCER] Sent invalid message order_id=6c6847ab-68e9-48a1-a942-3abe5bd238df
+[PRODUCER] ORDER_CREATED order_id=c92a0754-3b67-4219-8126-e50241128005 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=8cf6c89a-d4f3-4aeb-9b23-53d8f10fff81 color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=cc725b9b-95d1-4d40-a251-f57673e1fbde
+[PRODUCER] ORDER_CREATED order_id=5ed8f2c3-2fd9-4d9d-acb3-4655473f0030 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=438351dd-d1b3-485e-940a-1a612f162ddf color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=2fd92d2a-0600-4d08-808a-966d34ec6ad0 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=1e451892-56b8-48e7-a581-de7c0b406876 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=5febb2c9-740a-48e3-aa54-908826d64871 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=8d752c47-1c98-499a-92ae-21fe7b8b24d9
+[PRODUCER] ORDER_CREATED order_id=b27d9bb9-40b1-4f0c-aa00-8c3fc115ffff color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=49ef8580-5ddc-42eb-ad64-febf157637fb color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=e49ac109-8d59-473e-98a7-c52611ce76f9 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=959e9897-d080-48ac-8306-830ea5eb654e color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=b48f5ec0-e068-477c-ae63-2fb59dfd49b2 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=1884b332-627a-4480-bcce-8c268a2f4139 color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=bf220311-a977-49ed-a6e6-7dafffd0013a
+[PRODUCER] Sent invalid message order_id=16a1e973-9be7-4c68-ac48-acdb56dd43d9
+[PRODUCER] ORDER_CREATED order_id=ba83f234-4ed2-453e-b6cb-826990935afb color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=b2f63519-41ee-48cb-8425-4c1bd303595e color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=2251c281-d691-4129-89a0-715e11d7cd9f
+[PRODUCER] Sent invalid message order_id=9af73d55-287b-4467-b6f7-2260693ce608
+[PRODUCER] ORDER_CREATED order_id=5754fb73-e882-4ac1-a2ca-bd75a35090e2 color=black size=L qty=3
+[PRODUCER] Sent invalid message order_id=31319e8f-6be1-40ba-84c0-4de302d75008
+[PRODUCER] ORDER_CREATED order_id=068d53fc-bd5a-463b-86b0-688179a15d57 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=544f70b9-900d-4f45-8fe4-bf09e9988553 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=151a8277-ef3b-44cb-991c-4c0709c39853
+[PRODUCER] ORDER_CREATED order_id=4e90e052-857f-473f-a76e-764faa8182b8 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=3393ffa0-9f26-42d5-a771-bfb408392aa0 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=b5d54c8c-3be7-4ec0-99e4-8c1f481ba6c3 color=red size=XL qty=3
+[PRODUCER] Sent invalid message order_id=38489b4a-119f-4aa5-a116-76230cb70244
+[PRODUCER] ORDER_CREATED order_id=15deb46a-9aac-4749-8b34-d65282692b4e color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=588ca485-ac12-448f-8a91-5038bc0b9503 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=9b4089ab-68aa-4fbe-81df-263c55b7eef9 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=cdaafda9-76b4-4f6a-9f59-32b0d95aa52b color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=7c6f8940-b62d-43e6-8c6b-566845ffff03 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=123081e7-625c-4f04-827f-2687b1e1e73c color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=f17c6526-7089-49b4-a584-cbd128b4ef1b
+[PRODUCER] ORDER_CREATED order_id=9a1545f3-7716-44fd-bf93-7cbcd1cc1d04 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=64f8fff5-6f72-49d6-a1c4-c602e0ad1d33 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=e410aa12-2847-41b3-8018-f1228165306a color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e962ced3-35a7-4f93-8122-c2269e3c69f2 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=4d2d70f6-3f4d-4ad9-a77f-662be6a642e7 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=5a2c5c5a-6797-4e67-95f9-e258bfd678c1 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=cca788bd-d0f8-4850-a4c2-03b1ccd3cb71 color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=5d4a5d34-2ff5-4983-a1c9-082973a21b99
+[PRODUCER] ORDER_CREATED order_id=831bc346-919d-48d7-a4c7-960b5ccbf9f7 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=598c75fe-78c5-4e9f-9b14-5dfd4389be47 color=red size=L qty=1
+[PRODUCER] Sent invalid message order_id=f59b0cf0-aa07-4a52-b6b6-2840cdb78622
+[PRODUCER] ORDER_CREATED order_id=04150b8b-7d8d-4b69-8621-20d6e61664c6 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=ef67d607-73e1-4e73-bdb4-b8f7d141de05 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=3c84c554-934c-4ebf-b15d-aa06510d300f color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=e58e490a-0053-427a-bb9f-af33a77a5715 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=f74c1685-ad62-4171-aabf-300876e8b660 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=f21e19bf-d963-4581-848b-4ec4c1c24a98 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=1370c996-00d4-4377-8bb7-1ce4269e7b2a color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=49bcae0e-6284-40a6-85f0-3d4d1480f8d9 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=299facbe-e4f3-4367-85be-2da23054d135 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=d2054d64-6247-408a-a357-77b78fb558e6 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=a9c39391-e613-4143-9cd8-70b9c54ab70e color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=662c0d24-f6af-4370-9bc7-904ed8e1dc33
+[PRODUCER] ORDER_CREATED order_id=d896d796-285c-4276-a363-f0c0d01816a7 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1e2bb301-fdc1-4340-a5cd-ffc7c1ed5c1d color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=d55c6b22-0244-4ef1-bd61-024aa408174b color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=ebdfa14b-3a49-4037-a458-e59a957d982b color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=9c6fbba6-216b-4677-b790-46f2cae874f3 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=faebc9c0-a57e-404e-bfe8-c641f3e05fdb color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=b6d66a1c-9881-4c86-b1fe-b2db511ea220 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=588a1c94-7cd1-44ca-b2bf-4adad680d702 color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=47992266-8992-448c-a1ec-5683d8e4f3fd
+[PRODUCER] ORDER_CREATED order_id=28c387bf-3ce6-4704-9703-6dba104e29db color=pink size=XL qty=2
+[PRODUCER] Sent invalid message order_id=39e9ec8d-5088-48ed-b1e3-a74dfd096ae7
+[PRODUCER] ORDER_CREATED order_id=94c79906-8b62-4658-9c12-f9656a91b34f color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0c57389f-9a19-4863-8256-a54a9b506ab5 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=c9e8fa57-1934-492f-a1f1-f88faa2412bf
+[PRODUCER] Sent invalid message order_id=559b9184-0f0d-48d0-ba1e-d7cd84bd79c8
+[PRODUCER] Sent invalid message order_id=4df57fbb-ceeb-4798-9d90-039dab1fb2bf
+[PRODUCER] ORDER_CREATED order_id=3579f769-962b-404e-a821-14916c986d5e color=pink size=L qty=2
+[PRODUCER] Sent invalid message order_id=6af6a0f1-28b2-4df1-856a-4e7d191270e9
+[PRODUCER] ORDER_CREATED order_id=2b1620d9-257c-4b17-be22-f2a4ee2a92be color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=1bdfc681-e200-423b-9c1b-0bbe2eba8380 color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=a3b776cf-5114-4bf2-9b07-335e0e03f076
+[PRODUCER] ORDER_CREATED order_id=ca88799f-44e3-48db-8761-65a2acf9a82b color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=9c8f8a5f-7067-43e7-8143-704a89e757e1
+[PRODUCER] ORDER_CREATED order_id=2a878695-929e-4e54-8b16-fb88cd3f973a color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=601a736a-1df6-474c-9673-a585ed762670 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=687c9352-d3eb-4991-99ed-8bc7599d7c4d color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=384a04f5-9858-4a26-81d0-08f477ec9086
+[PRODUCER] ORDER_CREATED order_id=d673823b-ccd0-45dc-95ad-9ec91d520353 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=b38f22d3-c051-4900-abe6-0709c970ea83 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=35b817f5-dd47-4cd8-a7ab-ba5246f8b36d color=white size=M qty=1
+[PRODUCER] Sent invalid message order_id=86d3fbde-f43c-47e6-bdca-d83ece2f7ee8
+[PRODUCER] ORDER_CREATED order_id=f886b2c8-572b-4100-bbb2-2000157a212e color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=72918002-0020-4198-aeea-1d0d89dcd306
+[PRODUCER] ORDER_CREATED order_id=3a35a8bb-9837-4d9a-8c38-fe999b6d1de7 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2e0b80fa-48ec-40c3-88e6-3bcc65e129ae color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=2ae7f14f-143f-4681-bd07-0beba97fab95
+[PRODUCER] ORDER_CREATED order_id=bb708104-0761-4fe2-8705-cc141a33752d color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=d3edd486-d237-4c5d-b690-60efcdd1873d color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=eef24f9e-1c33-4d65-9400-83de97490341 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=f82870e0-df17-4e9d-85f6-6205e7e58e9b color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=ae3aa63a-ae8c-4328-823f-3442ba3716a3 color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=ea534b45-bd69-4a63-b746-1be28a16037e
+[PRODUCER] ORDER_CREATED order_id=7a2f4cf1-1aee-49c9-96e6-dea4a396c41e color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=d4b1b224-5ce2-4981-b42d-a56769179e93 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=8169003b-33b3-4e13-98ba-38b7f426a11a color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=bccac305-4aa9-4c9e-a00f-58e22163dea0 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=4bd57106-8c67-4342-b019-03686917708f color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=5ec0c30b-8536-4ca0-8d1e-c67b0c587795 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=0dbdd8d7-33e8-4789-92a7-bd49290c3b06 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=c5d6f201-3bf4-41f0-9317-9b40f0198686 color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=fbb34937-d4b8-4e99-8ef1-fbcc85d31384
+[PRODUCER] Sent invalid message order_id=54178696-1491-425c-aebb-847c8d18f25a
+[PRODUCER] ORDER_CREATED order_id=7592861f-87b2-411d-b043-58a6619dabb0 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=5e087889-6e7b-4edc-b578-bdea78d30df3
+[PRODUCER] ORDER_CREATED order_id=14afae55-87d6-41c5-b37b-61e056c8db8a color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=4643c8d7-49a5-44a4-8c3a-ccd73f5593ec color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=46c04bad-a227-4e4f-bde3-f5fe8b33d700 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8b0ac79b-9668-4c28-9cc9-380eaa7f7ebb color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=493aee7f-2258-4ae4-8782-868d26dfc5ff
+[PRODUCER] ORDER_CREATED order_id=ecd75548-1347-417d-bf87-534a1deafd42 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=f9927877-4eb6-45b7-b78e-26e11ad62952 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2861ad40-9955-498b-8b65-9ab4ae7f43f1 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=25d66cb7-29d9-4009-b98f-5a45cfbaa077 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=4d94f4bf-85f1-43d9-b467-28895131b9fb color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=aa7a2fac-52f0-48cb-b79d-9f431a6b8175 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=6164c89a-0ec0-4999-a3b8-f597fd60bd57
+[PRODUCER] ORDER_CREATED order_id=bc3bc8f4-9197-4555-b5c8-88867606ecce color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=9fee7b5a-5d4c-4d56-abb7-d683601e6ce3 color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=a2b64381-0906-47c9-a4c6-9c172bb43019
+[PRODUCER] ORDER_CREATED order_id=497db112-2b55-4a9f-a93b-e59fce68473d color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=4d125535-6cf4-4c95-bc02-b0b014238b63 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=ea90ab66-f7e7-488d-b9e9-2ffa30a6325a color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=13f6107f-c82e-4bdf-8f74-b79dbf9b7e02 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=fe358103-74e8-43be-a462-7db0cdaa3bb0 color=black size=L qty=3
+[PRODUCER] Sent invalid message order_id=af367210-c972-4f33-85bb-7a49a37695d7
+[PRODUCER] ORDER_CREATED order_id=446d23c5-63c3-482e-9249-bc1b991ed3fd color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=488e0eb0-2774-4515-a9b6-e443bb03be6f color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=27d0545d-73e9-443a-9954-1fd00456e0ea color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=38bdcbaa-e1ee-4720-9e31-43df178ea6eb color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=55e77e11-9260-48d0-b3d9-112a399e59f2 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=535f2918-0d95-4f38-946d-3d9fe44f1cc2 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=f79dc34b-3cd7-43d1-a24e-2df8320fa0c2 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=f27a3f4f-bbd7-43b2-bb61-7331827b8a3e color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=991ab516-3e0c-4bd0-8910-19ced511c2df color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=e53bdb2b-2776-4f8e-a000-f77999d1432c color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=cda16c24-c79e-4bcd-8801-a6591aa3fd7c color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=a5a5ac24-b9e7-4d3f-96fd-f5c3de3da5ca color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=5abf0a4f-f306-400b-aaed-c409b18ef34c color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=31680235-5f1a-4071-b908-8b2a0124ad69
+[PRODUCER] Sent invalid message order_id=9ece8677-d5af-4a4b-a3ca-1135b970b6ea
+[PRODUCER] Sent invalid message order_id=844f8028-9f3e-43d9-a7a1-8a17dcf04a57
+[PRODUCER] ORDER_CREATED order_id=be795ce8-03c3-4753-bf6f-f83cfeb4764d color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=88659719-6e75-4919-87df-38407c56df4a color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=6afa6552-d0a3-48af-8ecc-77b00da360aa color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=763b0f85-e343-491f-bea7-9603ae436987 color=pink size=L qty=2
+[PRODUCER] Sent invalid message order_id=79c39e6f-06a0-463b-beb7-6671ace8c648
+[PRODUCER] ORDER_CREATED order_id=2dd6e2d8-3afb-4dec-a9dd-c0776b30f764 color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=0e940f98-867b-42fb-81bb-c5920c31fa92
+[PRODUCER] ORDER_CREATED order_id=1e7d2dcd-a55d-4ac0-ac70-225de690f827 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=033d4180-c737-4c0d-b506-4efb995b4d14 color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=140858f0-7e9f-4d1c-8bd8-ca1e3f88201a
+[PRODUCER] ORDER_CREATED order_id=543e4e05-fda5-44e3-beb1-30a5d35a1e7e color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=558f9da9-de8e-495b-af61-c221fdf5ae67
+[PRODUCER] ORDER_CREATED order_id=25077d94-df51-4ac6-abc7-b9c8c32f6679 color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=e93839fe-cbda-4bba-92b4-9807dcbe3c58
+[PRODUCER] ORDER_CREATED order_id=395c8fd5-24f1-4b2a-9e12-f220f601e9f4 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=a2bab499-120d-4e27-9255-e33d7cb97c5a color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=1dcd6635-0721-4f57-84aa-ea5ffc2bfb8a
+[PRODUCER] Sent invalid message order_id=10398c83-a7fc-41df-9235-fe68a5b0a717
+[PRODUCER] ORDER_CREATED order_id=03087b6f-1194-4ed1-b4e3-c4227d5e6fb4 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=0301ef64-74ed-43af-9348-bb5713a8bbe6 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=62104e5a-4bfb-4494-9215-d8c96735ef29 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=2a9ec509-9482-48ca-8fa4-97c6d0f9b450 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=d6368636-6dc0-4dd7-8c6a-6f53a423ce7e color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=7b4a4585-f3be-4658-a4a4-ac74a0279238 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=c11d39b9-4769-4ed7-880d-26821dcd8c21 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8c81d3f8-e83f-4ae6-882e-cbede32dc04e color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=2d076310-fb5e-4a21-9f82-b193016da8c7 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=9898e950-d689-4809-aca4-0e2cf3f8c7de color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8bae2cb8-c794-4a11-bfdd-a7eba286cde6 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=c156717c-36e9-422b-bf8f-790792707acd color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=68fd3d28-92d9-4855-9dee-4c1cf14536c8
+[PRODUCER] ORDER_CREATED order_id=78e8c3d7-83c9-4e63-82cf-50b30d97f566 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=d360aac0-d727-4cd7-9036-febfbe3d5f4f color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=d39fd07e-d07d-40ea-a61e-13d8c00419df color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0e4a27c7-2231-4575-8466-e4996dcb0263 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=318f8f18-dba5-499b-b58b-81a8f74d0d78 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=e49f97d4-5ffd-40a1-ba2f-3ce9c38fc9d3 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=008de9a5-62ce-4234-b674-632c5dc161ad color=black size=XL qty=1
+[PRODUCER] Sent invalid message order_id=1898d888-0253-42a1-ae7c-9e6695c89e8e
+[PRODUCER] ORDER_CREATED order_id=f430010c-9d11-45f2-99d0-a3488f7c0172 color=red size=XL qty=3
+[PRODUCER] Sent invalid message order_id=58515cde-ed86-424f-a6af-76ecf98b8e68
+[PRODUCER] ORDER_CREATED order_id=17d492d8-a62d-48e6-94f0-51504d0aae71 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0b0d89b0-754b-42b3-82c5-fbf19088ad50 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=647fde1d-70f7-4f01-b775-509828c0ce63 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=2a9177df-8225-435e-a12b-4769e855d63a color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=d704aaed-2243-463c-bac1-be7708aa4bba color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=ff904de4-91b8-4797-b8f9-0e562f7c093c
+[PRODUCER] ORDER_CREATED order_id=5c2e6310-fc7d-490f-b020-3fa9205ab8c3 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=d26d6f8f-4219-4187-8fd6-b41564a5c883 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=f3f0ed55-2af7-4b76-af5b-9137692ad916 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=cd6d3dfe-5772-4fcb-9fc2-75e16b9a502a color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=3b557471-c652-4288-a49d-d86e9ce0c09d color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=fdac978e-6e28-4700-87c4-c2bb466ced39 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=f0a10fb2-070b-460e-b32a-a4ac59e68dda color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=b0f5e9e9-aa33-426c-ad23-cd6b7cca3496 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=8ed965a0-fef8-42e4-b5e4-4ba4b53ae75b color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=52274a2d-71f1-456d-b105-52a004cfb5ca
+[PRODUCER] ORDER_CREATED order_id=2454bd86-d141-447a-9fa5-3fbd4c0dbaed color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=cb00c03c-64e5-4957-a9b8-9137dc5db03e color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=7c79357a-7d76-4150-88a1-789d28a7d053 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=711b6e5e-8910-4f47-bb7c-49d67ba1fca1 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0b82c06f-42a1-4a71-822a-990207cc1bb5 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=3ffcc037-9466-426a-8a90-2a72a9c8e83b color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=254e3a85-4e1d-4eb5-9576-80f3553ba8a6
+[PRODUCER] ORDER_CREATED order_id=3052e20f-930a-4764-94ba-7209dffbd719 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=a7c93bbe-e0e9-4e45-8b45-3e6f33b43315 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=fe3c667a-e166-44b4-99f2-3c746f966c95 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=f7b3067e-3e83-41a2-abf2-d89dfc32bba8 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=877ffca9-3914-4b81-bb66-801dd9e61aec color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=5c72eac3-f9d8-4560-9a13-4f2776ad0974 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=85cec64e-a48d-4c26-b194-ff804649d2a8 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=d49eefdf-81a7-4b56-ae65-e0f4618ea634 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=d8d8fdd2-b10c-4612-b923-9a35cac2dc6d color=white size=XL qty=3
+[PRODUCER] Sent invalid message order_id=e604d387-eb52-4a8f-9150-2ab8a42070cb
+[PRODUCER] ORDER_CREATED order_id=c9741fab-e6d9-422e-afa4-4935b6bd4cef color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=57da74c4-a918-4250-94d6-7b9ed63369d0 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c96a6830-218d-4b8c-93eb-978fce2d701e color=white size=M qty=1
+[PRODUCER] Sent invalid message order_id=505e94ad-a512-4ed0-9fef-c4d53506af93
+[PRODUCER] Sent invalid message order_id=89836b8a-1722-4b37-a385-5af83e58dd71
+[PRODUCER] ORDER_CREATED order_id=4551e8d4-46f4-4515-a3de-b24ca9dc09a8 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=d526d804-1c65-4093-86db-80d596047280 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=5e067630-eb28-4e06-bf7d-78b4fafa6215 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=5f03aba7-4596-4882-ae3d-b5aad3dc64fd color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=ebac4387-9c70-4a00-af17-eb8732e0b0a1 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=38fbb602-8f4d-4404-a363-8ca43efa43dd color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=9e5ab0dc-6aec-4ce4-bc60-5ff3d6c19676 color=black size=L qty=2
+[PRODUCER] Sent invalid message order_id=554d49fb-c08d-4c9c-8c06-982042259d36
+[PRODUCER] ORDER_CREATED order_id=a8269ea0-a109-452e-b03a-ec5e80a71a24 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9d3f4686-c9bb-4432-8d97-904d3f0f9f07 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=d993d35f-7e2d-487c-963f-30cc08edc40f color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=e0b553cd-ab18-4aa7-90f3-d4bfa5c0391b color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=f9400b75-eec2-4a57-9969-2965c3404156 color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=8fd90a1a-c9e0-43d6-af09-3a324a6c74fc
+[PRODUCER] ORDER_CREATED order_id=f03a555e-85dd-4e2a-a674-f6d344a7929f color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=92aedcf4-9632-4824-b881-0aaa880abf1b color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=94b40b25-ed34-42ab-9f84-8a93cb492d8b color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=16b48fac-0ac9-4141-8e5f-511e23d65c9f color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=9a2825dd-8c19-43e8-b387-4d2311c1e167
+[PRODUCER] ORDER_CREATED order_id=11dc2d05-f8de-4347-8413-5fa98c2bdb01 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=74fc0498-edfd-4825-965c-7f0cf97f6123 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=4fbe292b-bd12-4f49-8e60-18f7a213d4ec color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=58949f55-1f61-498f-afd8-61208d43a9d0
+[PRODUCER] ORDER_CREATED order_id=599af0c0-03cd-4f7c-8d52-323077639f8e color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=24f9610b-1431-4def-bad3-a80a13b185fc color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=7f2e9f10-976d-441e-86e5-d1af166028d3
+[PRODUCER] ORDER_CREATED order_id=7dade50c-5954-4950-888b-253dea03a4ae color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=5e33fed4-ae80-4ca6-8ee4-5e8534c464f7
+[PRODUCER] ORDER_CREATED order_id=3c9a84f1-709b-4786-bbc7-f3ce4daf6001 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=5c391e6a-a659-41e0-9331-886a5df8e1d8 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=24a599e7-5437-448a-82d5-ed89aab7a3f1 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ea665972-dbba-498f-9fac-273fc5875add color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=54101b55-7f8f-4f1a-aa26-6f7fb22e7d6e color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=bad2e92c-445f-4992-9f97-a1f92bd368b0 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=81425069-47c3-4614-af1c-336f7b3ef5d3
+[PRODUCER] Sent invalid message order_id=defd74d5-5e82-43a4-a126-6b6efa427044
+[PRODUCER] ORDER_CREATED order_id=f896ffae-8db1-4adc-be1c-351037193446 color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=50897387-72f0-4fd5-a227-f0f62212b946
+[PRODUCER] ORDER_CREATED order_id=59a4d010-eae3-4eab-9d8f-adb136396c78 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=75a664e8-a3be-4ed1-937c-cedd673edf8f color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=6863d070-7615-4be4-8c4f-12e0c5fa449f color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=b1ad3735-2698-4465-806b-81f4d5e224de color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=a3069d92-e57b-4ba2-a653-6a7f2a32face color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=ed9ecf8a-c672-4f86-9449-9156dbdc3bb1
+[PRODUCER] Sent invalid message order_id=ff12ade1-b5bd-4e60-bb01-7c6136105375
+[PRODUCER] ORDER_CREATED order_id=0e22442c-4e38-4815-b50b-b4c9a8aa0a91 color=white size=S qty=3
+[PRODUCER] Sent invalid message order_id=ae126270-9772-4c00-a1c6-13e357591899
+[PRODUCER] ORDER_CREATED order_id=153c15a0-4197-42b8-91c9-071f6ae1750e color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=dc06552a-0c1b-4266-b026-2b750b4f707d color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=3ed9d258-92b4-46da-a8ed-8821b8f6b201
+[PRODUCER] Sent invalid message order_id=6e670c65-1470-4f20-8741-286dd3cf6abd
+[PRODUCER] Sent invalid message order_id=7ad84290-ca87-40a3-b831-88a61414524c
+[PRODUCER] Sent invalid message order_id=41571b47-1f11-4134-a755-a415cf28d177
+[PRODUCER] ORDER_CREATED order_id=73b39fda-646c-4f4a-9606-2c3108d3f5c8 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=50aff97b-4694-4113-949b-e7f665dcea1b color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=ba7060d0-b7e9-462b-b8b1-9603942a2ce6 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=2104b4ee-3a60-4c4a-86ec-e7e882d13f1a color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=6a97d060-a648-4762-a0f5-973a2fcdc218 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e71f17fb-be63-4285-a520-381439182e2e color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=4cbc9dc2-e078-418a-9353-3e82cbb0de1a color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=7f76aa46-0ecd-42f7-8437-b4641b1d9f76 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=5b9d821b-387f-49c9-8fde-119d2d65777c color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c7939038-1b78-404f-aa04-dacfed7f3cbc color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=470dbcf2-211f-4101-9f0a-1a009683e140 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=86e8d256-b915-4c68-9e29-8d744691ab9f color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=ad6eebde-0343-438d-8994-e149355e4b0c color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=b3bfae93-5b35-4092-a255-848709d8290f
+[PRODUCER] ORDER_CREATED order_id=f903d7f7-7fa2-4175-ad3d-253d5f59ca21 color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=9e18df33-5a98-4a3a-ad73-2351a0b5eb06
+[PRODUCER] ORDER_CREATED order_id=c52f4edb-b151-43bf-afdb-e5543ef517fc color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=76ce7460-f31f-4205-9836-c78a55297fc2 color=red size=XL qty=3
+[PRODUCER] Sent invalid message order_id=de09b09a-359d-46be-9ae1-55881e1cc02d
+[PRODUCER] Sent invalid message order_id=dc6d1023-ebb5-466d-9d41-167abac221b7
+[PRODUCER] Sent invalid message order_id=951a17c7-e391-446e-9c16-519315380d95
+[PRODUCER] ORDER_CREATED order_id=dd0efc39-bcab-4356-a01f-b728de2b48b8 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8e67a679-5eef-44ad-9c1b-dcd77fb895ef color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=bc8ff509-317c-444e-a253-054c35b633a4 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=bb8fafae-3e52-4f8d-8265-a299c9d4dde6 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=127f7527-89c8-4dcd-8f7a-ccdb0f3e089c color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=3fb1603c-bbd4-43a1-8cd0-1043cef00711 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=24a79682-836c-468d-8133-7ea44e82ca6c color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=30b7eeb5-98ef-49a4-b456-bc3420918a3f color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=9a8c0b9e-afd9-449e-a742-3fb9157cd907
+[PRODUCER] ORDER_CREATED order_id=808d53d5-3eba-49d7-9841-472d5a52a598 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=a207ffe7-2389-4684-a7b1-527abefadd2e color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=e85d588a-f6e2-420a-a893-fab5a4b83a08 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=335533e7-2fa2-4619-86be-9f9d56dc201b color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=1447116f-b0c5-4cc6-8717-3f2e965a8834 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=e08ea5db-a713-4635-b246-2cce9c71e959 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=7987aece-7c62-4856-b43a-c31ac094d072 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=deb7596a-19f1-4d17-a7de-88933bb0c5e6 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1af61591-336d-41d8-aaee-5e1d47fdca25 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=d941944e-b35d-4f51-ae73-f47e2890057f color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1d6d1037-3089-4bc3-aee4-9430fabe71ff color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=921b4a7e-6ef2-41b7-b160-5c9426ee9663 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=fdbd9879-3cad-4bb7-b61a-f2171618e32b color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=c9358eee-d884-4f9d-92b0-56a915b334cf color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=afc736c6-ce5b-4453-aa9b-4c54f8ca6af9 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=8ae2f6ab-2d9c-4095-905c-db4669a8ab63 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=9b3b6504-55df-4c83-8fdc-d34e35cfef2a color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=41e67005-7926-44a0-956a-fc13c28df93d color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=520a96cc-ced1-468a-a168-410ed45a458d color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=758ba03d-0911-48dc-8ebd-5205e77eb4d3
+[PRODUCER] ORDER_CREATED order_id=d71e7f9e-71dd-4e9b-ace6-688ea1a45ea2 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=e45422b6-7f6d-4377-b633-8cd1cc58c3f4 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=06b949ee-b62f-4191-a154-a860311cb989 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9ebd0bf5-5009-4f7f-a128-a915b758721b color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=7ef2d3fd-65dd-43ff-bef8-b9527ff01e0a color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=f294d485-52cf-4e15-80ed-80b9f5c97e0e color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b4f25ade-0130-488e-9037-8d64e1f71d2f color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=c083cc04-ddb9-45c4-8d94-5e29863b8315 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=55bd82ff-f13c-4947-a3a8-a83d63871a61 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=ba7bdd02-93c6-4186-9b85-92e9a6088fe1 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=e6575299-a1c8-44d4-8bf3-633a37b71fff color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=108089c1-d5ee-40e4-b8ea-05cef8e20aed color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=67d46b26-a7fd-4a49-95b9-ce5bbab256fc
+[PRODUCER] ORDER_CREATED order_id=48e530e9-2ea4-4ee5-9e20-2ba33c576d08 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=054b42ef-92de-4307-9ef8-0300e21782f0 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=596a6fdb-dacd-4273-b1c2-7228082efc9b color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=91b2a860-7d49-4dd9-8165-910c9bec8856 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=c9bd3623-3615-4082-96d1-25c762ff0325 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=a45da13f-7ec4-48eb-9f81-cf9360f465ed color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6969954a-b093-46db-994b-8fcec64d3ebb color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=54a7975c-6d9c-49f3-b9ca-099705658f4e color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=08da9b21-644c-4db1-8e91-a438b00a4c7a color=red size=XL qty=2
+[PRODUCER] Sent invalid message order_id=3e3a7c7c-90d3-484f-a0da-c5fcee85bf68
+[PRODUCER] ORDER_CREATED order_id=d2491c46-0ebd-47bb-851f-d4eb2f0578eb color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=190b4e68-fb85-4af5-8f6f-fd1b19d5f909 color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=cb01c1e4-611f-4994-aabd-a7b42d9db6a6
+[PRODUCER] ORDER_CREATED order_id=afa9b9c2-a008-4675-b947-179f6ae60ce9 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=29b2bee5-4b4b-4465-8100-ce8ed7d6926e color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=47f71045-cc7d-49c5-9faf-ba869fc9c9de color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=9c239621-7115-4c81-a756-5042dc2c4237
+[PRODUCER] ORDER_CREATED order_id=f4b08cce-e000-4f11-807e-8de3e7e9cc3d color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=987bed42-f660-40db-a8e7-31fd273171df color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=55a382e1-329e-4d28-a5e2-0302814f8f3b color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=b4f53647-c343-435c-8db9-f2b68f01090d
+[PRODUCER] ORDER_CREATED order_id=d2c9f916-baa7-402b-a29e-c7b37955c6c2 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=4171bc5e-4d1c-4176-ad44-b8c884a07836 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=c3e44fab-75f2-40d2-9b7d-0adbd7ed759c color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=7b67f273-6df3-49cd-a50f-be56e5a28189 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=a4f0d81c-a631-4b3a-972f-9f6a50774d2f color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=4bcda88f-df1c-4351-b89f-e0ce9b1dd4b4 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=63e8dbab-85c4-470d-b1e9-8979faac5ed8 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=64db0ffb-2f76-4242-82b5-b214ccf67c3a color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=b24c76e4-daf1-4589-9d77-5a38faede3f5 color=white size=S qty=2
+[PRODUCER] Sent invalid message order_id=23ea27b1-9106-4261-9aef-cc9613be890a
+[PRODUCER] Sent invalid message order_id=8a321d50-7a75-439c-b80d-608f2301dd7c
+[PRODUCER] ORDER_CREATED order_id=a687077d-f69b-402a-b6da-94e7fd810d31 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=ff54bba3-5f77-4fe6-b444-ce299247f0fe color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=6bc1f998-7683-4ded-a254-2df65b88c03d color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=0146d362-bc2d-4a42-8d47-e671e5272344 color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=db15549d-8b88-4315-a922-6e929393bbb9
+[PRODUCER] ORDER_CREATED order_id=c21cf610-3c04-4df7-be5e-8851bb593bc1 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=a1e779a5-d30d-4c4c-92bc-ae0af3d3c3ca color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=6a14425f-6185-4fe3-b5ee-58c1d74548e9 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=7f664092-7d2d-40f5-b7d4-584a9ffeabba color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=6c9414e8-02b5-494c-bc76-a49376076d70 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=f51f129e-b0b3-4627-90dd-75f4034d933d color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=62b3f5d3-5454-41d4-903a-d8f57f969151 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=d04bc18d-295f-4b8f-acc8-7e0891a330ae color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6a285e74-d1c2-4917-8bb9-c7f8a7beb953 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=6766e469-9b1f-4404-bd14-8cd475816c4c color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=6e094e63-cf69-468e-8b32-7b4552c03df7 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=759175c9-c69e-4dc0-bfe2-4540d285247b color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=af8c79cf-dac5-4242-a831-8bcb4d08fda3 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=28fc0d69-1864-4185-96f5-1047cc070d94 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9b4935ba-fa3a-49f0-a722-ae5e67158aba color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=f1415319-2277-4296-a007-ca2d070f6ae5 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=af8d592b-f3d6-4b8b-b996-bdea166c9e66 color=black size=XL qty=3
+[PRODUCER] Sent invalid message order_id=969d8886-824b-4473-b3e1-ff097c789dbd
+[PRODUCER] ORDER_CREATED order_id=8852c421-2046-49ea-92e8-3f6c85ad989b color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8f2b3372-cb62-4fd1-bd28-ebbb9400b9c9 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=32f2f567-2755-4141-a7d3-e87d301f18f9 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=fdfb0e6b-8635-45d8-8c17-b577c408d1f4 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=bac00ef8-a977-4824-9c48-1c132a6e1a4d color=pink size=S qty=2
+[PRODUCER] Sent invalid message order_id=d2a2801f-7ad1-4e44-8988-c631051a2a22
+[PRODUCER] ORDER_CREATED order_id=a992b079-f17c-4b03-a60d-ae14e7ce3b2e color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=b1d1a013-a546-433a-b2e4-48282a85a975 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=5a42787e-767f-4af1-94e1-e33a9e1b1f95 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=339ace27-81f3-4c6c-93e0-05da81be38e4 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=41957f37-2586-4e3e-9d97-e2af1a0e19d0
+[PRODUCER] ORDER_CREATED order_id=c8450ea7-d977-4a5d-80a0-b5e90b092753 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=28c50606-6d71-4c19-bc20-645ac21128ea color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=83fb2b7a-f398-4951-9722-bf883622175a color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=f6e60851-bb17-4333-9737-1b358c72e56c color=black size=XL qty=1
+[PRODUCER] Sent invalid message order_id=9f561f52-daa4-4f65-ab6e-5f17260c918f
+[PRODUCER] ORDER_CREATED order_id=0e292b02-ae12-4614-bd60-6740b259ac08 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=a41a720a-fcee-4d44-b9c0-8cb2ff0d30b7 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=f2ab71ee-75a7-474f-8076-8af59e29fc8f
+[PRODUCER] ORDER_CREATED order_id=45614bc8-a2a5-4ec2-b033-db651b57d72d color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=81ad8929-0eb2-4ef7-9a4c-5f4a13048f8b color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=3b93e833-037c-41f2-9da2-cfa3db729527 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=1bdc73d8-19e7-4745-ab86-ae23c3d91786 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=e7fff3d6-d4ae-44dc-852c-f1e2ac66f37c color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=b8aecdcf-7893-4f1f-94f7-dc14de203767
+[PRODUCER] ORDER_CREATED order_id=b762e83b-1b38-4ef0-a931-600f20e9bcc7 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=39f944dc-f20f-456c-8c42-4870ae0c1c53 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=51f53b65-0e10-443f-a5f7-7de60d71b0e6 color=white size=S qty=2
+[PRODUCER] Sent invalid message order_id=d3b2b100-5f7c-4521-8f52-558716761c6e
+[PRODUCER] ORDER_CREATED order_id=571203d3-c72f-430b-b3f4-a25e5fdc6f9d color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=40b49bf1-1aeb-4c0c-8a20-dd3a4ea4554e
+[PRODUCER] ORDER_CREATED order_id=473c0570-523f-4a16-8fb5-3e5e33034a98 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=63805f43-1946-49cc-929b-8471220ae635 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=abfbb29c-c5e0-4c95-a574-d61e442d3de9 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=b8f52bf3-8983-4a1d-b650-9c61ef9caf08 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=395632f0-d2cd-4eb0-a68d-a480949579aa color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=eeead16d-66af-4742-b147-3c659b20b9b9 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0f0a057f-0232-4738-ab5c-c88215ba9c0d color=red size=XL qty=1
+[PRODUCER] Sent invalid message order_id=94a1d5d5-e571-48ad-ac8f-3128fe359f76
+[PRODUCER] ORDER_CREATED order_id=1a93293f-0ee6-4cdc-8ce5-2f72223fe7bd color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=7a2beac1-c34d-49ac-94b6-32b4f5191f37 color=red size=XL qty=2
+[PRODUCER] Sent invalid message order_id=ab6d3867-658c-4539-8b46-f0e1cb6a8f83
+[PRODUCER] Sent invalid message order_id=f4808177-75d7-44e0-85c8-ddf491628b94
+[PRODUCER] ORDER_CREATED order_id=e5bf2a71-df0d-490f-986a-489ce0330293 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=2dc096c7-25c1-45ac-9b79-8bde702e420f color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=a12c3fff-883b-4da2-8cb3-e52b7ef7ca44 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=ab268413-196f-41f4-80fe-ff355f877d54 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=6c897d52-46db-4d4b-87a2-fc4533232b46 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=a9fa0d8d-417b-4e7c-b3af-86e56b974032 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=8936f985-120a-4cf0-b167-f5b6f4f87a91
+[PRODUCER] ORDER_CREATED order_id=f23b1493-7d98-4119-a7c3-6b0d0e4384fc color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=2c9e3535-b5cb-4143-bb2d-69f377bbc76e color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=4850042c-228f-44a0-8f54-14f21ca50973
+[PRODUCER] Sent invalid message order_id=5c87e800-fa25-417a-bc24-4620f1153e37
+[PRODUCER] ORDER_CREATED order_id=6c7a5405-a3b0-4317-a109-959a208b83ee color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2a5ee42f-1224-4ab3-92aa-fd27a845aa91 color=white size=S qty=3
+[PRODUCER] Sent invalid message order_id=35e98d8a-df65-4ca1-a968-7b9f9acfdb51
+[PRODUCER] Sent invalid message order_id=bb785643-8170-49e0-a4ef-f2c94fe34ce3
+[PRODUCER] ORDER_CREATED order_id=5e2b029f-088b-4b43-85b6-0202ed7c3267 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=e8758642-bfc7-4272-86e3-4f770a7ce398
+[PRODUCER] ORDER_CREATED order_id=1c2e833f-4966-4751-8eaf-69eb543f4474 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=3f31bd30-e143-42bc-aea1-3aab4d1bc7a9 color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=e91e0040-da04-40a4-a121-44d8981367e8
+[PRODUCER] ORDER_CREATED order_id=0da57315-9f19-4dfa-a06a-1c6163dbd7f2 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1f325e89-6957-49c2-a779-0389f1a71196 color=pink size=XL qty=2
+[PRODUCER] Sent invalid message order_id=f1a4be94-a1f7-4ccd-8039-eb86d557781a
+[PRODUCER] ORDER_CREATED order_id=8552938e-f494-41d0-b595-5472ae985d82 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=32ed8fbc-7c93-4b26-aa50-795cba3eaba4 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=1c44499e-b2f0-476a-b05c-40dd90fe70dd color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=98cbf89e-499a-4190-9469-9cf9fe0214d2
+[PRODUCER] ORDER_CREATED order_id=b381ab8c-9272-47f1-8ba9-60e44082a62b color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=852aab97-81eb-4fc8-92c8-44a62740e0dd color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=11cdb6fc-0b33-4285-88b2-a55cb5f7224a color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=1dd73652-9245-4505-95d8-09d3a5439817 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=d87d33e7-035d-4073-8f7c-ff68204b7ef7 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=eb2f8e8c-0c3f-4179-b648-bf17d2607e28 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=f35ffd5f-1921-49a5-842a-b9aed6941bc2 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=2b650973-b586-4ac7-9ae3-aa5623b698c0 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=664bf00d-8cae-416c-b89a-eb4848cf1254 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=eb1066d7-493d-4740-8dda-c598db719789 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=d20ef83f-b930-47fa-8c0d-82bb951a6077 color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=6588e316-1a9c-409f-adee-a6b8e2b3d98f
+[PRODUCER] ORDER_CREATED order_id=2df511c7-a370-4738-86c0-5bad3e30dd64 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0c1e15cb-fa31-42d8-8c6b-19dcf900c976 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=77b83515-9e22-4bbd-a557-12979db32d1a color=red size=L qty=2
+[PRODUCER] Sent invalid message order_id=66c3f236-f00b-45ad-8d2f-ba66ae08f486
+[PRODUCER] ORDER_CREATED order_id=faba8fb3-8450-4617-9633-a45ccb059bbf color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=4203ba5d-8fea-4b70-aa38-ca0a9e34d70d color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=2f4da915-307c-48c3-8a71-6477cee77316
+[PRODUCER] ORDER_CREATED order_id=5093af03-da97-4fd2-9012-3325e77f259c color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=865844da-d5ee-44ed-a330-42c868e85b62 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=b18ad2ee-95d3-40c6-be94-d6de49b9aa4d color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=a18511e5-09a5-42a3-9682-4dba48c43398
+[PRODUCER] ORDER_CREATED order_id=f91bbd27-468f-4f51-81bd-8aba938ec536 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=75fbfb7c-06dc-42e3-a064-e697d9d0368a color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=5f9fc27d-c252-4c1e-9a13-9433dbb2e295 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=17e25556-971d-4ac1-8f68-45acd36ac0fa color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=14fb5c47-33f1-4eb4-93f4-1253536c4369 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=ace4518e-1706-4de8-974a-b8c4ef0b16be color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=34564088-0c25-4331-b8f5-11862d2be52c
+[PRODUCER] Sent invalid message order_id=df8306da-4fa3-4d4b-9b19-812f292f575c
+[PRODUCER] ORDER_CREATED order_id=aaba637a-b38f-43b8-803b-b8c4b39d806d color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=2c2a950f-2998-456e-b23d-121146ef0b63 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=65fc3a74-372d-4f33-b630-c7d7b80035b3 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=5904dafe-94db-45be-8b52-2ca79c309235 color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=d14bf5d2-3a88-4ec1-ba7b-e86a638b3838
+[PRODUCER] ORDER_CREATED order_id=263e6a68-0eeb-4df3-87cc-54ce6d4e3014 color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=20248125-c888-45b0-9d4a-3fb3c56c52ed
+[PRODUCER] ORDER_CREATED order_id=354380c6-5108-4d62-9c48-e37e9bc61a86 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=1bb285c0-9995-4fc9-bebe-71cc5434cbd2 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=e25925ca-230e-41a8-a2bc-92541395511d color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=80b14a7f-a2d2-47e2-8626-3f76e27cedec color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=3a85723e-f11e-478b-b67f-d6e816ae2c12 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=6c17c4c7-44d4-417b-855a-294c066cfaec color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=4a18d799-7050-4864-81e0-cdc622e0c827 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=3b21e95b-24e8-4400-b540-8e2ae1f0776f
+[PRODUCER] ORDER_CREATED order_id=4b3a0661-beaa-46c2-970d-9643bd3170e5 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=0ac68458-becf-4fb6-b27d-9cedd2fd3d1e color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=443d2704-eaf6-4549-a81a-60ef5aa820d9 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=b4d0f80c-d993-427b-841c-e217f3a1e470 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=1a64af9f-9dc7-404a-b5ca-226573fa6fb7 color=red size=L qty=1
+[PRODUCER] Sent invalid message order_id=b14b3213-5e81-4ef5-b429-93ecb0d3659e
+[PRODUCER] ORDER_CREATED order_id=91bc7034-3459-4b9a-beaf-e33391263216 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=1674c720-4035-4014-94e5-039fdbff3dea color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=60b5295c-747e-4f8f-93cb-50657b149a95 color=white size=L qty=3
+[PRODUCER] Sent invalid message order_id=8c2ebd50-6789-4ae3-bfbf-13937bac4510
+[PRODUCER] Sent invalid message order_id=7d5d04f7-6f59-45b4-b4f9-b00c04a7a600
+[PRODUCER] ORDER_CREATED order_id=55a66588-aa5c-4829-8fea-e7103d546f04 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=cf736223-90a4-4daf-b66d-d2679d865327 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=e03bf185-ab04-4047-96a0-1626a99be23f color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0144a828-e637-4261-aeae-2c326a9ceca6 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=14c18f3a-de14-4f95-8296-d0c86066c649 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=df4d53be-29cb-4ff8-b960-eb4ec92c12b8 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=2745895c-6aa4-487d-8f4c-77e04d70dda4 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=d38de4b1-6455-4488-857e-cdf079b60ae6 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=299c34bb-12ef-488f-82c6-c1d4ad24a979 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=b26b7f71-d7c9-4234-8ec1-aeb3d3103a08 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=f06e5271-e827-4837-bae8-c53592392781 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=6e09c758-1fe4-4082-9152-7327f56c4e47 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=0e12264b-c09b-43fa-b6dc-d59984856e4e color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c33a1903-ae45-402f-a28a-4237d365a6db color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=69841f7f-993f-48ea-80d8-8de0908a2e06
+[PRODUCER] ORDER_CREATED order_id=68f517da-c0f3-48d4-b5c6-83af8988665c color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=a39239f8-4e53-455a-8905-d1a0b72c4bc8 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=0f761888-dee6-4d5f-8117-ee76bfb8ac1f color=white size=M qty=1
+[PRODUCER] Sent invalid message order_id=b0412361-539d-4653-bd0b-e32c08cad03e
+[PRODUCER] ORDER_CREATED order_id=7b5d4998-480e-4a0c-8205-720858b551a6 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=0ca1faab-194c-4ff5-889c-c824016d8ff9 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0e93eefb-8681-4bd3-8eff-c2d07da6745a color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=96f1d9f5-baba-4712-ab29-fedb088cd40a color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=fa064069-aa49-457a-8b1a-4e16aea89106 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=d2787787-a08e-4faa-be9e-c8179c0a082e color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8dbdff70-d57a-465d-b3b0-d59dae9f608e color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=3219e8ab-e691-41bb-b3e6-5244487b4b82 color=white size=S qty=2
+[PRODUCER] Sent invalid message order_id=33bf33fe-b8bc-4c91-ac76-d3c5ad68b65a
+[PRODUCER] Sent invalid message order_id=b465784c-f7e0-40ab-ac2c-0cc7a47a6e05
+[PRODUCER] ORDER_CREATED order_id=bbcb7876-a92e-4af5-bf7f-d43bf9eb7b95 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=dc794a71-f164-42f3-ac88-7d5ff33e9d66 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=ecaa6470-b18f-4d00-9128-cbcdf7d48e69 color=pink size=S qty=1
+[PRODUCER] Sent invalid message order_id=c8307d77-8e7c-486a-b5a0-ddad309f1714
+[PRODUCER] ORDER_CREATED order_id=1ecab76e-4be1-4d03-a91f-6a32a3a771a3 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=b777f863-ff71-4919-ab85-5dd359755c39 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=5ed474ae-2256-46ff-ad99-2464077b14bd color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=8b33b6ff-80bd-4c83-beee-298449ab4538 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ec571763-629b-492b-8623-573436a93269 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=806cc2cd-51db-461d-b9de-dc4ac1e226dd color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=0984803b-3f01-489c-95eb-c7a737f0521b
+[PRODUCER] ORDER_CREATED order_id=c6ccab50-49da-4cc7-9144-1ed9e5754a4b color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=5779f593-76e8-42f4-8d33-e8d14ad651e1 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=1e8fcefc-00b5-41e0-9e95-1ceae62b569a color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=1f045ade-fafa-40cb-bc86-ddf59e7f54be color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=e6da13d4-0a9e-4fb6-a7d1-41233e978a7a color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=f05bc0e9-d628-4ce2-8577-42a53d8fca35 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=af51f75e-6e37-47fa-9c65-ab16950a0515 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=2e68940a-5a3f-41a8-b18e-7a648b5a111d color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=ee94b810-2edf-4c3c-b410-37a237fc0908
+[PRODUCER] Sent invalid message order_id=2cb9b39f-4140-4bc9-a726-6f97737acab3
+[PRODUCER] ORDER_CREATED order_id=97e1529e-aef7-48dc-ac31-f551ebc4b76c color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=d74d8227-b9dc-4948-8fbc-843867856643 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e8a072f9-47db-4cc1-abfa-8d3d3a613dda color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=dc3f2e3c-df00-4655-ac0f-b1859385f4a3 color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=6faf2162-315f-408e-a50e-82d6f040bec0
+[PRODUCER] Sent invalid message order_id=4fd92820-c00e-4946-86bb-2d76c21479f5
+[PRODUCER] ORDER_CREATED order_id=00450a4b-7bbd-4f84-9618-b0e3b2a43448 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=175ccd66-d79b-45c9-8be0-2be30bf0b785
+[PRODUCER] ORDER_CREATED order_id=254f20ac-d2a6-4be3-8438-f8661baebf5f color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=c33b5d8c-b18b-4450-b417-578fda003dc3
+[PRODUCER] ORDER_CREATED order_id=139ca631-ee75-44db-beb3-8b2260a11c97 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=217cbf1f-7853-4cdd-87f2-94cd820e4a6f color=black size=XL qty=1
+[PRODUCER] Sent invalid message order_id=f42f2c9e-97e8-45d1-84f2-bd6ccbece2a0
+[PRODUCER] Sent invalid message order_id=2557da55-b9a7-4924-9c0a-26620bf5fdbc
+[PRODUCER] ORDER_CREATED order_id=327fc57a-1be3-41a7-b2fd-25443255d2af color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6e36ebf5-ec9b-4d3d-b86c-500ed75b4bd1 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=38350c14-dff3-429b-b68c-a5e870aed8ca color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=c0fc92de-81bf-46b1-bba6-6ad2e96cf9dc color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=2694b130-5439-49b4-9028-bfcfa4c9a7bd color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=91398ed2-e758-4059-8544-fa4f61fc72d9 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=f39bbe53-2f54-46e7-8339-2f729a0eee95 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=a7e57398-8dc5-4fd6-8139-bb7da499cb08 color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=00f02c4f-0751-4023-aad7-f02ab534102a
+[PRODUCER] ORDER_CREATED order_id=a0d98390-b130-471e-b3ac-6e2b2ac41444 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=70a31565-7041-4598-8c45-141a4606f405 color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=dd989093-183a-4ad7-adf9-48b7f3b8e568
+[PRODUCER] ORDER_CREATED order_id=601f66e6-5d48-4749-ad4c-082b21b3a21b color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=a5076c6a-5cd9-4fa3-baa9-808451e72d8e
+[PRODUCER] ORDER_CREATED order_id=a97075b7-51a2-4b41-8fe6-adf136c1e4d8 color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=28201e9c-63f4-4cd7-b655-434205602127
+[PRODUCER] ORDER_CREATED order_id=3b0a16a4-d05b-4b7a-8d8f-b471f364693c color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=ce3e13e1-d3f7-48a6-97b0-5d8a7bdf40a5
+[PRODUCER] ORDER_CREATED order_id=16ce8f17-7366-4244-b8a4-6526c7522936 color=black size=S qty=2
+[PRODUCER] Sent invalid message order_id=c2eb4d6a-78f6-4020-b89f-32a52569b681
+[PRODUCER] ORDER_CREATED order_id=dca7d44c-bab8-403f-a8b3-e936f3660650 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=0bf246a3-2025-480b-879b-44376b8f27f7 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=21b6b909-d54b-4c26-a459-42ef33af2072 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=fe3bc8a2-19b9-4b1c-8b10-8d7584d10198 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b0761c88-f85e-4c23-a657-8d7184f3c13d color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=397a070f-5f84-4103-b48f-9669762ee517 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=86528e06-c7f7-4eca-8852-e3eddce83279 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=79007e09-c951-40f9-8f9e-c4eec80b43ef color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=2e211e07-3c89-468c-b19e-fdd60807cbfb color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=e4971f38-570f-40bc-ba71-eef8b3c9c8d1 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=14c99b0f-79c2-4ef7-8047-e9c2aa8f74aa color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=e86ed294-d0c5-416d-88b3-120eb3a5bca3 color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=555dac0a-8cdb-40c6-b831-e1c94c24a57f
+[PRODUCER] ORDER_CREATED order_id=046983fc-bf20-4032-a893-8a522ab6289d color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=dd341060-235a-4e68-b26c-a32de0d00125 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=cbc9a9c8-d41e-4ef8-9d80-5fe27a9b7558 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=af60443d-3504-43da-82ee-eddd0e555ad6 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ee69cf6f-a5b9-4bfd-8d7b-a568d2b3a4c7 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=baacb71a-2f2b-434c-bfe9-b97d0f23a366 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=547edeb3-610b-4947-b962-72375a0a6a15 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=2f752e49-844c-4965-9648-d229702b5373
+[PRODUCER] Sent invalid message order_id=91102adb-fbc1-4d11-9dd3-a227f821a0d8
+[PRODUCER] ORDER_CREATED order_id=ff86dbf3-2889-4211-aaf0-a335a451e91e color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=371c951e-a861-4ae0-90fe-0b44d62e5caa color=red size=L qty=2
+[PRODUCER] Sent invalid message order_id=c6e59541-aa50-47c0-ae8a-8e9873a59b8c
+[PRODUCER] ORDER_CREATED order_id=04c54587-e416-4084-b48a-a11fd74f25c2 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=f7ad1055-8e94-4f57-a67e-af4f8cefef46 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=9ec72e56-5431-4689-b05e-872683b855f4 color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=58d4f358-e6e5-44c8-990a-f262bca19f7a
+[PRODUCER] ORDER_CREATED order_id=869af2d8-53fd-4014-949a-b857e42fa955 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=74e2c39a-5437-47d9-b01b-877e5ea119aa color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=91186bc3-985c-41d3-b185-8e398817ad49 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=ad0dd195-f713-4e2a-ab4a-b6c2a25d1975 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2a26a65e-ce61-47a0-b159-91d42b83885d color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=80c805a2-ece7-44d8-876d-6494e4cd3f88 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1b7180ec-4abb-4197-8566-2414ebbc7dd5 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=4a5f16fc-fc73-4ec9-bff1-29a7641d7726 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9e1d40b5-cffb-452a-861b-aa95037adbc6 color=black size=L qty=3
+[PRODUCER] Sent invalid message order_id=d89d0f44-7158-467f-b792-334bb70eadd3
+[PRODUCER] ORDER_CREATED order_id=869b8169-7271-4d12-a282-0a2fb9798d93 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2d8e3800-fd32-4e77-a037-8dd7b62ae83d color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=4e792c51-4618-4e31-9ae7-57c3cccb0a3b color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=512263dd-30cc-4018-ae6c-c557919b447c color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=e6790568-6e81-4e55-b43b-51237e879e90 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=14f6c14e-a4c1-495f-ac74-79a707967363 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=5729c9a0-d1be-4bde-9a78-1f12939db54c color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=767e1b23-df3d-4af8-9fd5-7c1c8f143e12 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=79d53fe8-b41e-4a70-afd8-f0337f2fcef6 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=d6c20a6b-7298-4f4c-ac37-a91de21f64ed color=red size=L qty=2
+[PRODUCER] Sent invalid message order_id=0eb50d72-3563-46a4-8efc-2b0661e5f64e
+[PRODUCER] ORDER_CREATED order_id=bf13e4ef-7aba-49ae-aa9c-2991d23726f9 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=aa61a009-1720-4f1e-9c25-ee7c6fe04c9c color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=796fee5f-c841-4b36-b30d-ebd01e8a58c9 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=8b5a6924-f640-44ca-a548-9707a060b85f color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=25fca669-0fab-42f0-93cc-1c09445db2bf color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=861f20e3-fdbd-4c49-9e2d-ba0fc6d13eed color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9cdc1109-a018-419f-b1c8-5e2aa23ef2b2 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=61dc1927-8bed-43a6-a94b-040478f1d410 color=red size=XL qty=1
+[PRODUCER] Sent invalid message order_id=58b9d6a0-194c-483a-87f0-245b39161e95
+[PRODUCER] ORDER_CREATED order_id=816dd8ef-1471-4598-8644-5cacc5e465c8 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=c4478d2f-f1f8-4334-864d-e4a0fa192470
+[PRODUCER] ORDER_CREATED order_id=4676e3dd-62e7-418a-806e-e74f03364638 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=0c748510-80d3-4a46-aae6-69e65803f7c7 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=cdee94f9-9393-409b-a341-1aa20c81b11f color=pink size=XL qty=1
+[PRODUCER] Sent invalid message order_id=f8ef09c3-c78c-48dc-aba2-4a70325a37aa
+[PRODUCER] ORDER_CREATED order_id=05d4ff90-6be1-420c-ba07-9259d5ef2556 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=c52d966f-3950-4d6e-9d57-3238426e9d42 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=784ed4ac-ffba-4d5d-a6fe-20850e6a6a48 color=black size=M qty=2
+[PRODUCER] Sent invalid message order_id=4256c43e-de98-4b7a-8cfd-27b3f9dcd1be
+[PRODUCER] ORDER_CREATED order_id=b9482cfb-e9b9-47af-9acf-d1e6b51364c9 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=318fb586-1a8b-40a6-a60e-1140783f0023 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=06bd103f-0590-4135-b3d0-38c1764bdbfc color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=5c094006-0dbd-440f-b5da-cf75875c2356 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=95f26ae6-eea1-49e1-8c59-a70b4fe14828 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=0c5711e4-e801-4874-bed2-7f31194f615b color=pink size=XL qty=2
+[PRODUCER] Sent invalid message order_id=85b81b08-2bdc-4f4f-8792-87943586e342
+[PRODUCER] ORDER_CREATED order_id=7b7e6c64-ef8d-441e-b172-ce918d48d271 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=c94229a1-f7c0-4f62-8a80-9bde075eccd4
+[PRODUCER] ORDER_CREATED order_id=eec810e9-2305-4825-8a78-9db5ce9a168b color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=b74dc7bd-0162-4305-b419-fda33bb1510c color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=1db70217-6d16-4122-aafe-76e86e631a69 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=838c5ba1-7ed6-479b-af62-2883e90a08b7 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=ea9ba321-d41e-4151-afbf-fd6788486b10 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=8b54d9eb-1b0f-4d37-8373-512c177ca8a2 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=cc8047a0-a1c5-410b-8559-cad8ff39cfa1 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=5e75a9ca-4604-4ebd-8c09-cf71299d05ef color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=926b7c26-eab6-4ee3-bf57-b10f8b5d94e0 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=90603197-4be3-4794-93b4-61e4f3a1f363 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=27b3520a-661f-4fc0-92f4-ed2c241093cf color=white size=XL qty=1
+[PRODUCER] Sent invalid message order_id=37f8702a-ba94-4603-9966-67674a1ef192
+[PRODUCER] ORDER_CREATED order_id=fffbfc3f-b627-454f-9899-51ab9e4abd65 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=7d1ba2a1-a130-4246-b450-67b3d7b026cc color=pink size=S qty=1
+[PRODUCER] Sent invalid message order_id=dc9c11dc-719c-4240-a9b1-d574638675c7
+[PRODUCER] ORDER_CREATED order_id=f32e9087-2953-4107-939e-4bca4cb81de8 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=68b884c6-7fe1-4c54-934b-2c0d6c59f03e color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=a65136c2-b350-4b0c-ab1f-e526233e1d5c color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=73f6bebd-6588-4d73-97cf-94570418bc0c color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=655ebc4d-cdf7-49b6-9f65-456d558dded2 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=47c1d550-d8e5-44b5-a359-e6225470fed7 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=0c2715d9-ea7b-4e9b-a908-b8297c9305b5 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=6f7e24ff-47ec-420e-be5c-86f6fcd20ca0 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=966d4f93-53d9-42cb-974e-2e1b71eb8c63 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=db39b2e7-ce1a-4f49-b1e8-372f060e392e color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=5996cbdc-a628-418c-82ba-117e456315f0 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=cc56361e-199e-40a8-ba88-8eafec2548c3 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=21f54184-23ae-45d4-a906-3ab2e0298519 color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=c62a194c-e5b4-4630-9691-0c331f974595
+[PRODUCER] ORDER_CREATED order_id=6b1447dc-6f28-4f9d-87df-0964847c638b color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=8bd2e3e7-6b6b-4809-b19c-d26507cb4380
+[PRODUCER] ORDER_CREATED order_id=d0a76a4a-30bd-4205-87f2-f472862ec614 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=8e44ef11-2d3e-4769-890e-91ac45c5973b color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ea5f8310-db18-4462-8031-4839cec6fa9c color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=c725a19d-daf3-4c81-9e1d-a16387262027 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=45bb4ef1-6fd6-410f-b7ae-508fb305147c color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=10b2a2cf-d679-4b50-8384-6dc01dc2ff10 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=483567ef-d001-4538-8a27-1683fa5a1a1c color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=4fe7c42a-2ce6-4719-b070-22a52de209f4 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=ee3ec499-03e4-45de-b684-501e5c6cdbd5 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=9b893e6b-54c4-4f51-ac6c-912bb376574d color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b5f463a7-4e41-453e-8fa0-432ca4c8a9a1 color=pink size=S qty=2
+[PRODUCER] Sent invalid message order_id=7fab1c5e-391e-4712-806f-4952db1f9af8
+[PRODUCER] ORDER_CREATED order_id=5313018d-3b9e-49a5-bc13-c99ce0255bef color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=92e4a809-11c3-476f-b28a-46cab5bb1851 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=3b452189-0e98-4e0e-86b5-ccda66214383 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=93c9108f-f885-457f-a65e-f4e62ff88905 color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=706df6ed-ec62-49ac-9e22-fe92b292250c
+[PRODUCER] ORDER_CREATED order_id=6f6be726-736c-4c5f-8819-df93a17df481 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=709f7cc3-e9b3-4ed9-b708-ced07be503a5
+[PRODUCER] ORDER_CREATED order_id=9c0ca3f6-e51a-4c48-9b35-db69516dc341 color=red size=L qty=2
+[PRODUCER] Sent invalid message order_id=08de7c71-13ef-4d21-ac08-0d5d1d8daabb
+[PRODUCER] ORDER_CREATED order_id=a2b777fa-8b6e-4e01-8dc3-e900f7976183 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=c5890787-fa05-4d6e-a675-9d93f1d303ba color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=d5e03c8b-486b-41f7-b8a9-f6fd34fc5baf color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=3a57bca3-c1d9-4166-9918-ac433ba28f14
+[PRODUCER] ORDER_CREATED order_id=3284b6d3-7d16-404c-b271-bbdb1598ad06 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=59ab1021-b6d5-4507-87d5-7d684e92c32f color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=4b816bb0-f52d-47b9-9b72-7843d5dcd026 color=white size=S qty=1
+[PRODUCER] Sent invalid message order_id=80ccb4b9-c8f6-474e-bb59-796391092a1c
+[PRODUCER] ORDER_CREATED order_id=05b9512e-3ccc-45b5-92b5-60667a58eca5 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=35309158-6f3c-4a38-a36a-da6779980965 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ea76081d-c086-4482-87c2-032cbd9e5d42 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8ce427d3-1327-4493-a217-c9774a99ce66 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=e541cf19-5e4e-4cbe-8cbf-3053ff4d18fb color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=f39b34c1-5fea-4d59-9136-c7525e321ea8
+[PRODUCER] ORDER_CREATED order_id=ed51857a-f62c-4e88-9d15-f7c5ed1d36c9 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=5b6733db-abd6-4961-a1d1-eb9c4e0b6d8b color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=c34e0539-1e6c-400d-b29e-e9fbc12d3683 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b5491b07-e03c-4a71-a880-ae53c7fedf6d color=white size=L qty=2
+[PRODUCER] Sent invalid message order_id=1bd7678a-a590-4ffe-87c0-75a650c9a9bf
+[PRODUCER] Sent invalid message order_id=75fb83cc-fb00-4bae-8f70-fe5c8b6b63b4
+[PRODUCER] ORDER_CREATED order_id=e9600619-68c9-4c4b-aca7-488062e6b2d7 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=6d32b1cb-d55d-4880-84b0-24ddd2a3d0f7 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=be8f3173-0e26-4cb3-96cd-c8b69cf4b6c4
+[PRODUCER] ORDER_CREATED order_id=fbd8a00a-aba5-4a35-9354-5c6113a49002 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=30642c56-a790-4174-b474-f63e2e3efa9f color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=93a33719-fa8d-40a1-8598-48dae259b4b6 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=900d4a66-3469-4ac0-99f4-bfc3485951b3 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c5a65bd6-7779-406a-9c7e-4f4d74822f5c color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=7e7e2230-ebdf-4174-b235-95b5c87dda22 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=ceabe369-5fc4-4498-8cf0-f2215ecb232a color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=c5c23268-af81-4aa3-b5d5-de20de278cff color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=838795e4-9a81-465c-bee0-b22bced04bad color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=e6d82e90-4604-40fa-8382-46876a1ef466 color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=ead88eb5-019c-40bc-bfa3-c2b873432619
+[PRODUCER] Sent invalid message order_id=6f68295d-1488-4d49-9a23-8dc1d2089e09
+[PRODUCER] ORDER_CREATED order_id=ec29e5a3-65cb-4a8b-881a-15a678e77d36 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=cd2b1ac1-1017-46c3-9ad9-f1cb566bbb2a color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=e07fe9d7-a921-486c-a018-7b43bdd9fed2 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=fcefa551-06c8-4ee9-a5ca-e806835cc8d2 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a2b3f802-602e-44f6-a068-6ab22f57a7c7 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=569ed742-bdab-418c-8637-8d0b10efbd1a color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=5be5d3fe-afb0-43bb-a0f9-94b46a53041a color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8b58268c-1f3a-403c-b5f1-380dc81fd639 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=701bdc7c-9a5b-4113-8fdb-ba9e8e778e5a color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=80f1e3b7-1962-4b99-b0b5-5b8edfb50072 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=e2b0eceb-5987-419c-bf1e-feafb76e6f3c color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=f9d664d9-70e5-49c3-b5d5-fc05499f8e30
+[PRODUCER] ORDER_CREATED order_id=eb830778-6f82-4c93-9f9b-d7edeb0a6232 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=3460e6c9-ac93-4c9d-b463-0477ebe7683a color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=9e1bacf9-0202-420b-b08f-da403901b6be
+[PRODUCER] ORDER_CREATED order_id=3de36238-2d4a-4b17-9a8b-3f35eac6b323 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=5a5ee668-79b1-4601-a8e6-9c6f34f7e0e1 color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=52e499f7-1f26-4309-9641-d993956b1a91
+[PRODUCER] Sent invalid message order_id=9f21e833-ba48-4899-9429-8f975dee6797
+[PRODUCER] Sent invalid message order_id=dabe5d96-8651-46ed-a532-e18eab1ae9c0
+[PRODUCER] ORDER_CREATED order_id=caf20404-6459-4413-930c-22cbbdb1c427 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=4d18eb69-7b61-43cc-ae90-f6cfa89c188b color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=2134df3d-7652-42c8-9c92-29bdc3481c46 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=aa8394a2-8da1-451e-8e7a-fe04669bbf71 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=f28d9fa5-6c79-4c2e-82dd-293be422853c color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=85b13b48-f277-4fd4-af34-ec564d17a32b color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=e8b3afe8-8060-43d5-9da8-286a6255e720 color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=6a72eb75-4157-4f87-ac36-013cfd297db9 color=white size=S qty=2
+[PRODUCER] Sent invalid message order_id=b5121e22-ecac-4a99-a33c-4cad8d51d5b9
+[PRODUCER] ORDER_CREATED order_id=6722bcb3-0914-41c6-8e2a-69206727610c color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=481b1bcb-92f3-46d9-921b-2596e6c7e1d5 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=d8a1afb7-22a4-4cce-8495-a9f7bf6a9f69 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=3f3950d1-71fe-4fec-b6e1-71f4b16a3598 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=e358ba7a-4421-45a6-8dbf-fdc183fbee29 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c873dd17-5946-48eb-9d9e-707d1cd02c5c color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=bee763a6-7eab-44ed-9d2b-82c5a3c8f0ae color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=7cbc008b-68db-4dbd-af35-9324a26bd83f color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=aef567d2-ec3b-498b-b405-af8eb3d5b2d9 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=364cb7c4-fc41-4fff-9c2c-60af903cacca color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ff9aa426-9843-44fd-a60a-8b34b41a7a35 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=f395c1ba-dc4b-4bdf-8d9e-30ef1a5ae576 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=99397127-3535-4996-a960-3a51f687c45e color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=bbd5f245-44fc-4094-9af8-36188ae3fabe color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=2a13c9ab-8b86-4f9c-b976-00d93938ae54 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=1453cc4c-1535-467f-a6a9-8f08e63c1cec color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=1d693622-10d9-46cf-8d51-eef4472c670d color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=3182c767-e204-4104-ac3a-c45ae978519c color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c1edd085-55d9-472f-868f-abaae6af3ab3 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=f6b28a26-38ab-4709-9920-a6fde75feee5 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=edd23a41-b712-4f18-8c9a-81dcf7abe6b0 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=266db10c-a1c5-49aa-a234-4675610693d8 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=ac0c1144-154c-4871-afe9-c723d2888a14 color=white size=XL qty=1
+[PRODUCER] Sent invalid message order_id=e8b73618-93f1-472e-aeaa-4a206e41dd10
+[PRODUCER] ORDER_CREATED order_id=e8243ccc-7bfa-4fd7-8f4f-0c83a27158ac color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=99856e19-5391-4e92-95ef-dfd5ffb5897c color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=dff89055-26ac-43b0-bf04-1534db23279b color=black size=L qty=1
+[PRODUCER] Sent invalid message order_id=c60e4a71-a026-40a0-b67a-6c5b8c2603c9
+[PRODUCER] ORDER_CREATED order_id=a91669a5-aab7-4666-9aa8-26b3cdc7e208 color=white size=L qty=2
+[PRODUCER] Sent invalid message order_id=61f78983-4961-4771-94ef-349d01b8dc46
+[PRODUCER] ORDER_CREATED order_id=17eeaa79-472a-48c7-9db2-4774c074f991 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=c0a39d83-111e-4ccf-9f19-4b1983adf4a3 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=22cc2861-ee94-4728-84ed-c997a8aa53fc color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=f6ff7576-4c89-4518-ac69-69697863e8f4 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=53e6e238-91e0-4942-9c18-f380f87d066c color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=800e67eb-6c99-4247-8514-7f1fde5f2c4b color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=157556f9-9c5d-47cd-93aa-a20929337a4c color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=2936fafc-3cde-43e2-9504-b5c7e44b0568 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=dac6d8c8-cc1f-4d06-b56a-4a0dc78c8419 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0880b671-e03f-48ae-98b6-24635ee47f3c color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=664f2220-2ede-41de-bed2-2f3fd9dd34c0 color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=9261a509-cd09-49a2-9dfa-227f0e69ff86
+[PRODUCER] ORDER_CREATED order_id=025bdbdc-2c69-4eb7-81ff-7e717583ee47 color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=a0ebe43e-4ca3-4700-924c-dae2f609a5d3
+[PRODUCER] ORDER_CREATED order_id=8d6cf6c8-0ec4-4cf5-b2a1-015d4c94eea2 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ae32ff37-585d-40bf-a207-314b634c66ed color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=f649cf24-a876-4346-a995-fdd83cec84a8
+[PRODUCER] ORDER_CREATED order_id=72764c9a-4cc1-4803-8ee2-21b25e9fdb97 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=e7aa57fd-489d-4e14-9e8b-08214b038553 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=427c7509-082d-4174-a219-e531bf7952e7 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=5b40a1d5-8b7b-46f2-a1de-2317b2d58dda color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=9e3ae774-92e4-4535-bcad-0c620775365e color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=d40a83b4-e500-4363-9930-7981efdd4bec color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=b0ac099d-b109-4e42-8a51-f89f13dbbfe4 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=8de07224-6a60-4ff0-9fc6-9d94f8506086 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ead9f682-3721-47d0-bc65-2536273d2357 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=46be501e-f9f9-4401-ac65-5daec7f6912a color=white size=L qty=2
+[PRODUCER] Sent invalid message order_id=e650b190-3058-493e-ab84-8bafad4802b2
+[PRODUCER] ORDER_CREATED order_id=dcc9f88a-4523-4e43-a33c-b6a3c0a32ef2 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=a8a9983a-821d-4a14-af4f-d146752d187e color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=6fb42f9f-602b-4f3d-8711-5cb2d34bbb3f color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=315b78cc-3dd3-4596-bf47-3468158b7d34 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=277b1b05-8432-4f2e-882a-b733ff1ff688 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=7a55f164-b4ab-48ac-8c64-cc930c1023a8 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=13d2ac18-71a3-4a01-8201-f5daba8e5e64 color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=3e6eb40e-060a-41e3-9cb2-8c3060ef6d00
+[PRODUCER] Sent invalid message order_id=f6944b48-daa2-4b62-8448-02cf7979d18f
+[PRODUCER] ORDER_CREATED order_id=9b326edb-191e-4f2c-8302-a997676be8c7 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6204c065-dd53-410f-9cc9-08c79bce34e9 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=f048e681-4350-4a71-a02a-92449b3ff102 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=263bf27f-1823-4ce1-8c4a-bf70195cab4a
+[PRODUCER] ORDER_CREATED order_id=817d18d7-5a28-4bd5-aeb5-7de31c912052 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=cc2c894a-4314-43da-9daa-4f58603034c7
+[PRODUCER] ORDER_CREATED order_id=6318f7cb-6f3a-4aae-8238-f5a847c0bc12 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=f4c66c03-110b-48cd-940c-58d67a858a3a
+[PRODUCER] Sent invalid message order_id=77f05c59-320c-43ba-a07a-e9e41f68324c
+[PRODUCER] ORDER_CREATED order_id=fafede48-5cf0-4b66-8931-f550122e4a9f color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=f67de7ac-25e7-4f28-bd88-eaede6b00591 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=39b43ab3-c627-4498-a983-0e111dce4c1e color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=fcef0a06-3caf-4257-b3e8-650cb3b868c9 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=54880c2f-0f76-46d6-a48e-14a50378ef5e color=red size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=b8f4e1b0-0101-469f-ba90-643e2831edc4 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=385cd21d-4c70-4220-9083-2f5681fba3fa color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=fe64bdef-8793-44c6-8726-746863c6b07f color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=78f0212d-3f10-460c-8df1-cd59530a582f color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=330b3b11-eab9-417d-9e0f-c3afbdaa0268 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=20db766a-4341-450d-95ea-1417ca4d6525 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=681e8878-ac6b-4345-a835-2647dcdf3861 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=febe94c8-c7d3-4078-a6c4-9d1112813706 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9e5511d2-10ed-40f5-8f9f-a0038db29430 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=e86760db-5354-47e4-ac6a-b107b8121f49 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=b6a5618f-eb26-4f85-be8d-de1377f61275 color=pink size=M qty=1
+[PRODUCER] Sent invalid message order_id=5177af26-58f8-45da-947a-a681cb6f8ea5
+[PRODUCER] ORDER_CREATED order_id=3a221027-f5a5-4460-a587-8d276f380ecd color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=a9854475-a484-4398-b54b-04032139092a color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=79900cf6-4d49-4e51-b132-ddf8eed027b2 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=75ce5115-f77f-4ed9-b5e9-925085db1c29 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=95867a55-b822-4730-b44e-60e4d983b179 color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=a4287ed4-e21f-481d-9059-ec5771879033
+[PRODUCER] ORDER_CREATED order_id=78ff31be-efa1-4f27-a06f-7a5d86a57778 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=aff608c3-7318-48b8-adca-e0457fc943bf color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=0f337390-3df6-43d4-ad9d-9caf3d9e0378 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8bfd4543-5209-477f-a66c-4c4943eafa9d color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e900736a-1075-442f-b778-f8f0b76d1586 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=dcaf9166-41e6-4db7-969c-f9d45d435bc8 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=f35b83da-d12f-40dc-9236-0e5656fc9da9 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=04d1bffb-c141-4eef-875e-dc5e7eac71c9 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=d83a6168-41c9-41ce-9c71-55c37ef61d06 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=8c753687-cd40-413b-80e5-5bf835eff911 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=39f29817-fb38-4164-a273-caaaaa59cd01 color=white size=XL qty=3
+[PRODUCER] Sent invalid message order_id=f46c1c66-6dab-4397-80f3-fd59f54721e3
+[PRODUCER] Sent invalid message order_id=53a189b4-1516-4e3d-95c3-95cd3d66adf4
+[PRODUCER] ORDER_CREATED order_id=8abcde06-338c-4b63-a343-334fb4b1b0e7 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=e56a3565-2607-4651-8ae2-212f279bf4d4 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=79e545d0-99fa-4226-9393-10dfc82203c2 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=9f623109-f62c-4d95-a737-c2d8786695cf color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=7b74bc3d-c10c-48ed-83e7-c503706436c7
+[PRODUCER] ORDER_CREATED order_id=bbeee764-feaf-4f18-9b52-56fb4cae0a52 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=8786028b-24de-4301-b993-7fa1fcc37cde color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=5ca135b2-6537-4809-8feb-f05bea997a82 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=29469784-a0f5-4d7e-bf33-fa47925cba24 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=b8eaceb7-64bb-4de9-9148-94206479bde5 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=5a7652f7-ba24-4c57-8d2c-efd5f7c44df9
+[PRODUCER] Sent invalid message order_id=db69bd6a-38ee-4d62-8889-72a55dcea1a8
+[PRODUCER] ORDER_CREATED order_id=ab196d34-53c4-4664-a355-01ad6612ed74 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=a5255e50-a716-48f0-aa8e-740c8641e36e color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=76f67139-0104-4b9a-9a8f-7d11e1389038 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=ad8965c2-8efa-4bbb-b00d-e7470dd830e0 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=1446acbd-3bf9-4692-b695-8f1f550502d1 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=37537f99-94f8-4359-81ec-98f39fb4d937 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c2d929c6-8a9c-4247-b469-59c70609838e color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=6350ace9-8b5b-4039-b650-5353ea528d7c color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=485841fc-55bd-4fb3-aec0-d76a57cbf754 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=67808b4d-4bc5-4ab6-95a7-e1e1ead6133e color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=ab23d725-3089-4b01-9838-4df4fa90db5e color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8b3b2e11-eec2-48d7-879d-9088b3d9c77a color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=a048d861-cde4-49ae-8b2c-e1a72dcba839 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=fe0887ad-619c-4758-b0ed-cdc0865a8d08 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9408f62f-c794-4d42-81be-4a109e97bf47 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=0ed0c3f4-d54d-4f81-a3ee-eca056e01326 color=red size=L qty=1
+[PRODUCER] Sent invalid message order_id=39bbf054-0dd6-47c2-938c-763be5f02d68
+[PRODUCER] ORDER_CREATED order_id=735f36f2-9bb9-43fd-bdac-f0a39108c035 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=72b8bec5-ae1f-4e81-8945-9017e4f0db89 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=4f95c98f-26ec-4e6b-9a74-db89c2cf85e3 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=4dceb5c6-9ebf-448c-ab8d-1163c4e9e24f color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=7927b135-3e2e-49ab-94ad-0db51b6c9485 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=8ac73722-3577-4381-8375-e90345b06562 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=8b5a1431-8e83-4609-8096-c4155754c924 color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=3d409a64-fb28-457a-9170-d911d50bace6
+[PRODUCER] ORDER_CREATED order_id=bf22eb01-a3ae-4ee0-ba9a-3820938c3e9d color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=e2799aa3-3de1-4702-92a9-b356725c5d03 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=60f62f0f-c960-40c2-899a-4778e4b555b5 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=eb4e7091-848e-4a29-856e-830616f6f7d0 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=3c52dfdd-2cae-41a9-bbe0-9e4e054abb59 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=168107e9-8006-4d49-9751-e18e41e34eaa color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=51a88c3b-eef9-46d1-b8d9-fcf88bc17724 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=9fb3734c-086b-434f-b3bc-226219f537f1 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=2fafbb27-77ef-497a-b05d-ed9e59941cb6 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=8db45e1f-729c-4047-b6ca-d70a03241163 color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=f9550567-d0fa-4198-b4a2-723dda3a4487
+[PRODUCER] ORDER_CREATED order_id=fe8e6aac-b385-41bb-bb01-bb1e99ec71bc color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=2dca7883-ca9a-438f-993d-6c22d670de07 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=31443f6e-621b-4dad-96db-c988343d7c47 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=b19da71c-ed96-4592-b13a-d4bae80a16e4 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=116433d4-1562-45cb-9eee-fb2fb13f47e4 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=5bf020c6-dec5-40ef-95a5-1e094af003ff color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=675eb339-5475-4891-a509-a9c5fe6199f4 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=14f9c38e-ea8c-4179-bd5b-e8b192f0232a color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=521fff2a-9e8e-41cf-8db5-8da4aa0973ec color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=9e739d13-4dc7-415c-8e0b-9a70b97c9737 color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=c156ad70-f3a1-4f28-86b4-1d51ac521eda
+[PRODUCER] Sent invalid message order_id=4c02a872-ae68-4c41-bbc9-b2ee3c0d259c
+[PRODUCER] ORDER_CREATED order_id=58eb509b-cb25-4194-a338-485589a14ec2 color=white size=XL qty=1
+[PRODUCER] Sent invalid message order_id=1a5488ab-9894-4e1e-8f0a-5815083b0d0c
+[PRODUCER] Sent invalid message order_id=575fb411-c2f4-42cd-917e-4aa0eb1fc27f
+[PRODUCER] Sent invalid message order_id=04e0f3fd-a1de-47ca-a65c-75aeb9119298
+[PRODUCER] ORDER_CREATED order_id=749bfb14-9e4f-475d-a962-c23ee7eb4581 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=b5b07a14-086d-451a-ae8f-987e13ca1d28 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=b904a50f-c276-4401-9eb4-cfb05ad51188 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=76181dce-cafb-487e-941e-626a877170c0 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=c9138fd5-fee3-4f38-b95f-acb84b1b30ce color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=6f67a80f-a274-473d-bca6-e64b031981ec color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=d8581ad0-5ae6-40b6-af49-96a8369b7a45
+[PRODUCER] ORDER_CREATED order_id=a7b58635-a3ed-453b-b409-adc16d88bbcd color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=25ac1b38-5a31-4e23-912f-7a54b8c0b2d7 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=4bfd444b-80a6-4460-adf2-47cef85552fc color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6cd1c7fe-0fb1-4df1-896b-45bf6eae7f3d color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=63ff9937-cd0c-4a34-b4d3-d971ac89ed87 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=49ee56c5-5eea-42fe-9653-282ba3fcb390 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=503e25e0-4a6b-4a75-92b0-45ebb97ff17b color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=2865fc7f-2720-43cd-a2fe-d5dc2e18ee90 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=f77f54c9-6f64-4d98-86ad-c179bcfffb8c color=red size=S qty=1
+[PRODUCER] Sent invalid message order_id=7b7d346e-1ac1-41ba-b654-99acc1cec699
+[PRODUCER] Sent invalid message order_id=62edb43a-8e59-4202-8ea1-c8615cbb69c7
+[PRODUCER] ORDER_CREATED order_id=c46ee1a6-0cbc-40e2-93fd-867ba68335a4 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=4b0dbfa7-cd56-47e2-bbf7-bebf6dd5cb6d color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=119437d6-2087-4540-8f01-5947e1a9af5b color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=00bf03a3-46c8-4bf9-babe-e73fc2565784 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=9ac1c266-dcf4-4c75-b29d-e252e32b76f3 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c9d39fcb-6839-451d-9d98-a5320799a484 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=c77f89a8-3c2a-478a-b215-2a00484e0202 color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=3d353f0b-d25a-4da2-8baf-14620f347fd3
+[PRODUCER] ORDER_CREATED order_id=b2e88a3e-4d6f-4233-8541-e8a58422b2d1 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e427e3fa-07f5-4824-8aa2-08db762042bd color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=63addafd-8063-44a1-a82e-464a2ef223f8 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=680d6773-a790-4b2a-8a9c-4e6f57d4720c color=red size=XL qty=3
+[PRODUCER] Sent invalid message order_id=9a303c09-aafa-40e6-aa79-3d1884952b2f
+[PRODUCER] ORDER_CREATED order_id=052be7d0-ecbe-441d-9f37-47665e84a820 color=red size=S qty=2
+[PRODUCER] Sent invalid message order_id=6d8a189c-01f7-43af-9838-28b32354096d
+[PRODUCER] Sent invalid message order_id=34153cbb-eca7-4873-9a11-41396818b928
+[PRODUCER] ORDER_CREATED order_id=9d3851be-24f6-4694-ba99-d08e05e51174 color=black size=S qty=1
+[PRODUCER] Sent invalid message order_id=a6d3d792-aeb5-4cb4-9f6a-4a6b1bbc5825
+[PRODUCER] ORDER_CREATED order_id=10bf0cc0-e460-4749-a18f-da567ddd426e color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=d66f7995-1712-42b9-8708-b0b96aabc14f color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=a2ed42eb-8677-4a6b-a379-07223acc47d6
+[PRODUCER] ORDER_CREATED order_id=67456203-3f7a-4e83-91ef-4b125c58431b color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=af6b518a-e7e8-4d3d-9b21-12e53c9d518b color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=900f0bcd-433f-4220-bb84-797a4ac0e994 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=8f937c48-54d4-42cd-8dc8-24fc136d6638 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=4521889e-3882-4b22-b98f-f9a604732405 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=f27d6d4a-8c11-45dc-aba7-81adee1a8f28 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=22821025-b6ff-4d9a-8931-94eeb9cec7d2 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=eacd0f87-e73c-4c2b-806e-a709dac1c37c color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=da11dec7-4615-4001-806a-dd78a78d7635 color=pink size=M qty=1
+[PRODUCER] Sent invalid message order_id=9d704dc9-1711-47a9-9de6-49ed58e8dd8b
+[PRODUCER] ORDER_CREATED order_id=860beb28-b83b-49ed-90e4-b6554a48bcfa color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=a7c47b05-7276-40dd-905a-b7eb3881fcc4 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=2fd29232-288f-42f1-aafb-d5e17b088d96 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=5224a4c2-a27c-4483-9d3a-340cced1319d color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=bd720008-52b7-46a3-8343-7f67d10eedbd color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=bf7a2881-5ed2-42af-b069-f997c4c964e5
+[PRODUCER] ORDER_CREATED order_id=e88212b7-0af3-4949-98b4-0933d814ec91 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=6578316e-1836-4dfa-ac40-856577d1dd2b color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=db315bb9-f5fa-4d02-878d-7b55515329f3 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=26258b04-0df9-432d-9c34-b43662026795 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=af17de25-0307-4559-a186-08b35119f175 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=04acce3a-99dd-48d8-95d4-ec67d821565a color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=1456ecb3-4445-4999-b7d3-0e18f5e4da8d color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=bba0faef-01dd-48b5-af95-ad8bdb269376 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=3cb854b7-e97d-4ea0-8b14-d91d41fac213
+[PRODUCER] ORDER_CREATED order_id=2472af54-fccc-43d0-84fb-a3c3eca1c357 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=5cf3b3f9-d5c5-48bf-8525-ef9bf3f0408c color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=11d0e2d8-beec-4b48-8102-6c9aa895b603
+[PRODUCER] ORDER_CREATED order_id=3099377f-cef9-4751-8678-48a65fe4d759 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=865716db-cefc-41ef-9199-887e74b957af color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=90697772-2b47-4c56-849f-f4920def19f0 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=d01ac2ab-d4ad-41e2-b245-5e0bfe84d293 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=d9d33bfc-7a29-4257-bd90-e3e641417e68 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=7c26c46e-0e26-4e3c-a221-e5e549c13c1e color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=3149e206-16db-4d5d-8e6c-46745539527e color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=1a80b975-245c-4104-8e8b-7d25d7ef91e4 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=f2eb5ea4-db3b-4c27-805f-d4f7fe2cb379 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=0b6a049c-f0d7-42d4-8b15-df92c182067b color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=4850fb16-c37b-442c-868b-b98dd96bec3d color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=5a698b1d-47d0-4767-8823-ffda72dd9394 color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=b26d1f6f-c815-4025-8246-6041e2d89f55 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0338eccc-eed2-4f4e-8e5d-7b1ff1bac2b8 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=d090bd48-f2aa-4df1-8e17-381434bf2732 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=6b899bc0-8d46-4abf-8fc3-357e08a978dc color=black size=XL qty=3
+[PRODUCER] Sent invalid message order_id=dc9cba99-ef49-4541-aa5a-3934a5b1f65a
+[PRODUCER] ORDER_CREATED order_id=ae75c7bb-0471-4fb0-ae76-348e3bbac070 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=181e1664-841d-4efc-9c2c-41523749d02e color=black size=XL qty=3
+[PRODUCER] Sent invalid message order_id=de497446-99d7-455e-b0e4-c8ec27b86ba2
+[PRODUCER] Sent invalid message order_id=b38a5f03-5867-4012-9d67-d20b8469790d
+[PRODUCER] ORDER_CREATED order_id=8f3d7818-2e5e-41be-abb8-66b6a91d91c4 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=39083792-3f44-43f3-b231-c0293f71ea4b color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=eb6b34b0-c662-4ff2-9664-16f98cf9a365 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=ca54cf63-6918-4574-9315-efa3dda4467e color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=0ee70ecc-30c8-47af-89da-bc598a27b3f1 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=497cd9ea-8b68-4509-b05d-5fff656d469c color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=82141255-5a00-436e-b08c-292a49928092 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=94c15b77-096f-478f-8caa-d69faf8e13e1 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=779e831c-edd3-4d23-8aa3-f1d93d7e1ba8 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=cbaf6cc0-cb33-45b0-a45a-5c4a741d69b3
+[PRODUCER] ORDER_CREATED order_id=df1b146b-7b9e-430d-9d5d-22827c1f17c7 color=red size=L qty=3
+[PRODUCER] Sent invalid message order_id=df68b74d-6687-4697-a899-1348ffcdbbf2
+[PRODUCER] ORDER_CREATED order_id=6e49ec78-09c3-46bb-ae76-2a0f22dc44cc color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=d791e9c3-61f7-4180-b2aa-c3b87e32bf80 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=445529af-6589-4d32-ba3d-148ea0eaa436 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=7ef9bade-4df4-489f-b7f2-62d40c4a7fd7 color=red size=L qty=1
+[PRODUCER] Sent invalid message order_id=cc7d95d8-9122-4d71-80f2-18c44fafeefc
+[PRODUCER] ORDER_CREATED order_id=f5f093d6-2eb9-4deb-acb4-19f2f4d9dcf5 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=a86ca224-458c-4b8b-aa20-ef1d59e1d755 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=1dd9fbb2-37dd-4439-84e7-cb10c764aa5d color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0ea74750-8d56-4c69-84f4-b597f5c8f565 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=c2cad85c-d6ec-4adf-be22-0f8d3557fa18 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=2b537bc5-aec6-4d00-a4d8-9f6864a8e681 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=6a068b36-ab44-4f84-a196-402577e97136 color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=c0909841-98bb-4021-a74d-84f9f26252cd
+[PRODUCER] ORDER_CREATED order_id=aaca7e1c-907a-41ad-b7a9-7152cb448ce4 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=89d56e72-9e19-4ea2-acaa-cab701b76c3c color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=03cf189d-1989-4e2c-81d2-efd591a44f15 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=1e567c60-6037-4c85-a91a-d07ca6b47865 color=pink size=XL qty=3
+[PRODUCER] Sent invalid message order_id=d3a3d12a-8294-4fb3-8f23-5248bf17cc18
+[PRODUCER] ORDER_CREATED order_id=89a41f88-7e9d-48a1-a3b4-6229b3e7307e color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=476e4e18-7f5d-417a-ab2b-f8fab705dbc7 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=77f3c59a-cd97-4a00-af45-671cbd5747a6 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=f320080b-3aa8-4983-a56d-5016f45b8ac6 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=2039c676-e261-4a6a-b6dd-456d996b6fbc color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=e3a5f6f1-4a4f-4d8c-89a5-877478b33c66 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=2e56b69b-8d31-4053-8f8f-5204c4e17c1b color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=a37d5d79-7bc4-4475-b553-966481cea970 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=96f6e524-c60a-47bb-8acf-c2108f625185 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=e2e8bd93-71f6-4224-8a01-0080d6a4e26c
+[PRODUCER] ORDER_CREATED order_id=f737a35a-733d-4891-85de-eecbe8b901cb color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=06de1750-ef51-4171-9da5-84980d12ad6f color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=af771f82-8ea5-4a5b-b096-13d4e08dc49b color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6cdf23f2-68da-414f-ab52-350d3a981d14 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=274ece89-0d50-4341-8667-3248015e1851 color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=0f52e5fc-bc50-4dd7-9a80-f05c78b04de6 color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=b39bb5b7-2101-49c6-8b3c-2e17056c3904 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=d0c94f5b-2497-4e8c-81aa-50568a7466cc color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=240be15c-4bb3-4b3e-8c34-fb4b924ddaae color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=299eb9dd-b004-4f2c-983c-af9cd98f005d color=black size=XL qty=3
+[PRODUCER] Sent invalid message order_id=7125dcd5-28e8-464c-934a-f7a49a5fdee8
+[PRODUCER] Sent invalid message order_id=3b813173-5a98-4692-ae00-a175569780b5
+[PRODUCER] Sent invalid message order_id=fcde2bf4-f44c-448c-bd2f-a1c53b7f29d5
+[PRODUCER] ORDER_CREATED order_id=9fbcee58-9697-42a3-a812-aa06d9754c2c color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=4228ab79-cd13-4185-9aa4-592bce9c2516 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=f134264a-5b64-4380-90a4-50269ba8e947 color=white size=XL qty=3
+[PRODUCER] Sent invalid message order_id=1d576563-e126-4a13-96fd-86de3a741e77
+[PRODUCER] ORDER_CREATED order_id=955a1e8c-be90-4e93-a9ea-36330592a532 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=c5d7bc87-89d3-4b38-b099-df1dc77e41b2 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=d838bf3f-6700-4389-99c9-63a47b954d32 color=black size=XL qty=2
+[PRODUCER] Sent invalid message order_id=19f637cf-2517-4dc2-a6fc-c9d525487d71
+[PRODUCER] ORDER_CREATED order_id=dc85e9f8-4302-4eb6-b5a3-38633bc2bcbf color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=107828e6-fcdb-49e0-8a5b-baeee88df881 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=13d2961b-8936-4102-b484-dee09cdf66ec color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=610447db-1ed0-44b4-90bc-6261540938d3 color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=41cb6c38-9602-4045-b363-d4af8c097d30 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=79a2897c-2f1c-4d08-bebe-faf003fcdfae color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=877bb9e5-5b0b-451a-b3d3-64ffa91f023d color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=fde0a9b1-a370-4f4c-a5e5-31719eae1eeb
+[PRODUCER] ORDER_CREATED order_id=c2bf3bc0-fbdc-4052-82fe-3235346baad4 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=54554061-8f82-4bac-9f96-f882361e46ba color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=5cc12207-1d38-4dc6-a31b-06303f5bcd4e color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=a985eda8-efec-4f90-b2ca-93d5680d1a37 color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=0c282c88-9aff-4b69-a55e-fcb45eeec926
+[PRODUCER] ORDER_CREATED order_id=63eebcad-f6d4-466f-a2b1-26f57b3e71f9 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0e804bfd-e9b0-4e9b-9cd3-008fc6953529 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=7eda1623-6158-4d4e-889d-f7d50c113108 color=pink size=L qty=1
+[PRODUCER] Sent invalid message order_id=4e135d2a-4a57-49c4-ba30-90ad3717828c
+[PRODUCER] ORDER_CREATED order_id=7d6c0606-89e2-46dd-977d-15af279f1b33 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=7b40b16c-52f7-496b-b763-f6309469ac48 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=dd85714d-6110-45b0-81d6-596a0db378cd color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=8427e3fb-74da-46ae-9ff6-76e052edff09 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=8f5d036c-a0ce-4d25-b672-f55cfdc23cad color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=5e40a9f6-957d-4f5f-bfcd-569f809ee988 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=67c34718-7051-4271-aa73-0c57e41c6fba color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=29d398ce-bc54-4921-9ad5-0858013e88ca color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c6e062a7-1784-4500-a17c-8416909f244d color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=dec38af4-9919-4df6-9ad4-ab66458389fe color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=d510fa5e-2f80-470e-9bc7-0c23ed6641ad color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=c17543cd-eab7-4215-aefa-2cc07bd98318
+[PRODUCER] ORDER_CREATED order_id=9c23f09d-a857-4734-8a40-9b094cbe0390 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=c3dcf2eb-27f1-47a9-9c76-f435d55a004d color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=28098c3d-aa5f-42bf-b16c-701ce585c6d5 color=pink size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=d57d1ab1-aee0-40d1-8e88-eead235d41b2 color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=453a1c61-a2e9-4d71-94bd-f372b34fde7f
+[PRODUCER] ORDER_CREATED order_id=5fdf11b7-f6c6-4388-a15f-72be69ee88e8 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=9ad9fdce-6e86-479d-91c9-551b25f42b23 color=black size=M qty=1
+[PRODUCER] Sent invalid message order_id=48fe1a5a-67f1-4bc3-92a3-782eaebcf4e4
+[PRODUCER] Sent invalid message order_id=56dfe9b2-5d64-45e2-a1b2-39bca756ce32
+[PRODUCER] ORDER_CREATED order_id=f76fe7a1-d776-4d73-a785-e016d200c12a color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=72a567bc-6af1-47bf-a801-94332e5cf272 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=c38d1b7b-019d-4631-a1c3-22fbe5b67b2d color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=63d24855-f61d-48a1-b7ff-5201094dd942 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=abf7701d-59bd-4da6-9a55-1ee839cdc119 color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=0c0a570b-bbe6-49bd-bb40-3ef5708f5953 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=b9105914-5674-4dd2-89da-2fb2ea692d19 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=993130de-944c-4fb3-a6f3-297c211f0a3c color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=333b24aa-f1b3-4a08-ba9f-e64c5cf77101 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=6c875b81-a2ae-4c55-92ec-51ecb3a3820c color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=6bb8026f-8a51-4032-9b24-cf74c9720fc0 color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=0121af58-bf26-4f43-92bb-c2f7eaf5cf53
+[PRODUCER] ORDER_CREATED order_id=5bec6a9a-400c-41b9-b7a9-bb23bc906070 color=red size=S qty=3
+[PRODUCER] Sent invalid message order_id=0e34acb5-2f50-4d9d-a2df-2e9b45166b70
+[PRODUCER] ORDER_CREATED order_id=f4ce8112-dde2-461e-b9f2-c9d3b49466d4 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=8c8133f7-7bf0-41eb-909c-b258396a81b4 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=5d72f035-2e91-4a10-9e1c-9f8550b699d5 color=white size=S qty=2
+[PRODUCER] Sent invalid message order_id=6b7aface-20d6-4d38-b71a-beb41906975f
+[PRODUCER] ORDER_CREATED order_id=a6e72b2b-c787-4e3e-8182-e4a2651e7037 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=8de743d6-d9be-419d-bef3-cbdda690d044 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=58f86d86-2f22-4c0e-a9ef-cd960d5340d8 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=f2652d7d-99b1-473f-8133-1ec5ecd66c42 color=pink size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=5b908614-c99d-43f2-afb1-0d40ae79ebab color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=f5587f25-f482-4aab-bb08-b5728becbaf4 color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=6913ad4a-559e-4aff-a834-e354f8d400d7 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=ad6f1bfc-7e8b-4e40-bf10-0da2451be8d6 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a8ece069-d4ce-4cf6-bd6b-80d402fe4d5a color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=d63c4ced-4bc2-41cd-a851-faf3b465ee00 color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=0e8e9ce2-ffc2-4bdf-a106-f01ff6ee9abc color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=e8c29732-6d65-410a-b72b-b68e0f8e8603 color=white size=L qty=1
+[PRODUCER] Sent invalid message order_id=8d08e649-563a-47cb-aed7-a0518456e967
+[PRODUCER] Sent invalid message order_id=7507ec3a-1e6a-4aee-b99b-dea883cd1f71
+[PRODUCER] ORDER_CREATED order_id=9dbebd63-2f91-460b-accb-91035c56edb3 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=69b50b41-df1e-46b3-a52e-e5fcdeb95993 color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=94861e13-1ea9-4ece-8ab4-5727f5fa4651 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=8f0d8801-2f3d-4f80-84a7-551295c8f56d color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=18994951-8a9b-4243-8566-47361d2ced8b color=pink size=S qty=3
+[PRODUCER] Sent invalid message order_id=d33776e0-b751-466f-a6f3-c173c7017ca7
+[PRODUCER] ORDER_CREATED order_id=cf530ed8-e113-4615-a8ef-81923d9499e7 color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=0700320e-8fba-474e-a0e3-f11830e960e4 color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=e7d0e2b2-14d7-4177-8061-858c838b7996
+[PRODUCER] Sent invalid message order_id=a8708467-5490-446e-bd7d-d23e25aafce6
+[PRODUCER] Sent invalid message order_id=bdef3ca7-595a-4a45-afa8-9d94c541c1a1
+[PRODUCER] ORDER_CREATED order_id=678d225a-59a6-41a7-b6b2-a2667991f7fd color=black size=XL qty=1
+[PRODUCER] Sent invalid message order_id=202d4d12-6733-4a44-b24f-c5810b40b8c6
+[PRODUCER] ORDER_CREATED order_id=10e56391-0f5d-49bc-bc5e-a65d2e95626d color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=78963dba-5b6b-41d2-b349-9ee50a5d662d color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=02959847-6fe5-434c-bafe-ed4f20e24b29 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=27f0948b-2590-4d63-81de-bcf41f72d1fd color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a89baa5a-151e-4bfe-9f65-6e782ab7658c color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=c3dacd09-5044-4f9c-b8d3-d272e24c7de5 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=56a0013c-8980-4c7b-afb0-d2c0173765ca color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=3bb27ffe-4661-4686-947e-da043367acdf color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=f9e288aa-ecd7-49cb-b857-129c89d734a4 color=black size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9ff3cf4f-8fae-4fcf-ae82-4a1b6946b279 color=red size=XL qty=3
+[PRODUCER] Sent invalid message order_id=b6c839e8-ab24-4287-91a4-c8193a924b4c
+[PRODUCER] ORDER_CREATED order_id=599bf0f9-537c-4347-814d-f17d5a549893 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=d70bc076-d076-40ea-b4cf-65dbcb5dbf54 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=10b759c0-6e5a-4d2f-afc2-358337e38b94 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=63ceae7e-fabc-4fb2-82e0-62db400559a1 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=37a0a489-7e69-4300-a40b-17403469b5d4 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=53b8bb2e-5b4e-497b-989f-358c1afd30b7 color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=916a03a6-8837-41c4-805f-17044d4c7c7e color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=8b0ad7d8-889b-4638-b864-017978e73214 color=red size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=4a831f27-4a2e-4b9d-a66b-7da71d07b01d color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=c5242b9c-6a5d-47b5-8bae-8b463bfa3115 color=pink size=M qty=1
+[PRODUCER] Sent invalid message order_id=ec0a9e24-a4ed-4d05-b005-2c11ad92fc68
+[PRODUCER] ORDER_CREATED order_id=d4aa0d3a-11e2-4224-8a02-eb958d575046 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=5c911789-c197-4b3b-8a2b-466fa4d6912d color=red size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=d6338849-dad3-4d13-b6c9-6e42c91a1e84 color=white size=M qty=3
+[PRODUCER] Sent invalid message order_id=427e0eda-0009-42c0-a707-3615cc25113f
+[PRODUCER] ORDER_CREATED order_id=2905231f-3696-4314-a58d-f4be5b7510ac color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=3d3d77e5-4745-4aae-b229-3850d16cf8ad color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=8584b79d-0dfb-4d78-aa55-dc1fed72abb3 color=white size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=423e55cc-bcad-4f97-b108-0c328befeded color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=0210a742-7aee-4b50-9269-fb790b7589ba color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=5dc49c78-3411-4893-9b58-989be448f321 color=red size=M qty=1
+[PRODUCER] Sent invalid message order_id=389914f3-0599-46a2-a6f0-13a0ba925e53
+[PRODUCER] ORDER_CREATED order_id=5b65bfd3-037b-4b95-a488-cabde4866f2f color=white size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=8c3ca6c5-e897-4da7-b2e6-53627c3698b7 color=white size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=bb79e15d-a232-4f2f-8a39-8af83992e976 color=pink size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=1a1e3574-a60b-4314-9a3f-f54615d55f2c color=red size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=916b45c2-b38f-4b0a-8d73-c75aa00ad866 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=c73f38fc-92a4-441b-8153-bb1b566be9ab color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=90fcc80b-b423-4321-9af8-117550203917 color=black size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=53ac7993-15fb-4cc4-a12f-cebde8278d2e color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=db95a654-bde2-41b9-9740-3a69d001de24 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=536c9cc8-2757-4f7b-8c53-c7a580606f23 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=384cddf9-1217-4e9a-a8d6-894d3416d435 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=92b19f36-6a19-4182-8758-6a7270287623 color=red size=M qty=3
+[PRODUCER] Sent invalid message order_id=9de804fc-8091-475a-99e5-1b101c6580ef
+[PRODUCER] ORDER_CREATED order_id=a50c0321-e28c-4025-bd8c-f378359551ff color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=fe261b68-a388-404d-b038-5462d2206fde color=black size=M qty=3
+[PRODUCER] Sent invalid message order_id=80312343-a44c-4332-811b-a1dadca3bfc4
+[PRODUCER] ORDER_CREATED order_id=9d03e331-083d-4280-8a7e-dd28e7f5f7e2 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=3c0c988e-7227-413e-b2d4-80fa304b64cd color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=ed9cbe14-38c2-4127-96df-fe5444c11c99 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=54b5337e-c6a3-4ae2-b03b-22ff2fc62acf color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=dec2f4a2-1a7b-4c45-9209-28f73b502205 color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=96e69220-e751-43d5-8f87-4b362810977e
+[PRODUCER] ORDER_CREATED order_id=9c278cdf-9d6d-4a2e-a1b2-5644d4467173 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=f7c71da3-3b87-4464-a087-8ebb21af1022 color=white size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=5fa22caf-f531-4d41-95c7-02bf47798b4e color=pink size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=d552bb02-0368-4fcf-b5b8-be1c86319c5b color=black size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=b43b49b3-eaae-4bf0-9078-53a1044afb29 color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=e88efbd5-95eb-4c6c-92de-fc425adcdb17 color=white size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=63faa581-95d0-4dce-96c9-0d9c28bf26b8 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=fc64ae6f-daca-4225-8439-59ddb7a7cc08 color=pink size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=afc4ad08-9d19-46a8-ba2a-23be9b559aec color=red size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=9c6aabf7-b8c0-4154-9421-611b55c0d732 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=c9ba6e19-db55-43f3-8f02-af38f8aa7b3f color=white size=XL qty=3
+[PRODUCER] Sent invalid message order_id=9295f780-a798-4460-a075-9de90e302db6
+[PRODUCER] ORDER_CREATED order_id=146aaee7-55b5-4e2c-a844-781f27631d0e color=white size=S qty=3
+[PRODUCER] Sent invalid message order_id=38062ce4-83c9-40e0-9fe0-3c0b6716558e
+[PRODUCER] ORDER_CREATED order_id=7ed576ba-9140-4f7f-ae0d-875872d8bb09 color=pink size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=4872bd47-4452-4051-b581-77167bed6b55 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=f17374d3-937e-43f2-9e16-8225e0e5150e color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=3dcbb63e-988f-4791-b35e-dd348edb7c1f color=black size=S qty=3
+[PRODUCER] Sent invalid message order_id=1e3815fc-4550-4b89-9d5c-94701a8b3fc9
+[PRODUCER] ORDER_CREATED order_id=0896c425-f589-46dc-87a1-669c9d81500a color=red size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=b04bdb68-60ee-413f-b8c9-247a87d07766 color=white size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=9171bc59-9a96-4b8a-b05b-ff9f99de5f9c color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=a485012a-5ca8-4cd0-a255-791311477df4 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=f2b24864-78e6-4f86-945c-61ab944a32b0 color=black size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b40ed88a-48a4-4074-aef7-2550961d9439 color=black size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=cfe796a1-68ce-4121-a910-53aafc05982f color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=7170af8b-de40-4117-8278-bdd77c18b2dd color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=29edba6f-c20c-43e6-8330-73e133cb1833 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=7c128732-f379-4a10-9739-980b261fc10d color=black size=M qty=2
+[PRODUCER] Sent invalid message order_id=41240153-819c-42ae-b009-1812a51d134f
+[PRODUCER] ORDER_CREATED order_id=5d27c57b-28ba-429a-9617-466e53909eeb color=pink size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=3c064065-c79c-4440-8745-613ffeedbe2d color=black size=L qty=1
+[PRODUCER] Sent invalid message order_id=e79fe1dd-fe06-4571-82d9-9e29f64ae142
+[PRODUCER] ORDER_CREATED order_id=cc016b13-3368-45d5-a1cc-5df717a34df9 color=red size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=89a62ebf-2f99-4603-b878-5ac5cbb19465 color=pink size=M qty=3
+[PRODUCER] Sent invalid message order_id=567318f5-9a6c-4f63-8f2e-58c501ca046d
+[PRODUCER] ORDER_CREATED order_id=e4dff0b8-ce08-4864-8232-20eec7127ed1 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=b8568a1c-4ace-4521-a07c-57f64711d5a4 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=74ad0c3e-f4ab-4705-9462-92aeabf0f210 color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=a7546690-d144-4d8e-8e4c-2fafc52b91b7 color=white size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=cb35c612-2b12-4d46-8823-9e24c69d05e7 color=white size=XL qty=3
+[PRODUCER] Sent invalid message order_id=0c1aceca-d876-417d-95e4-05580e6639c8
+[PRODUCER] ORDER_CREATED order_id=73dc6bfd-7140-412a-b005-42f5e0143af8 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=1d6e1b8f-286f-469a-8eb5-e767faa015a2 color=white size=L qty=3
+[PRODUCER] Sent invalid message order_id=28c9043b-f1e3-4481-a7ce-491b870c1b6f
+[PRODUCER] ORDER_CREATED order_id=855c7fa5-b824-44b4-a556-fae7800ba7ba color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=5b910ad9-c35d-41a7-8323-5e5bc83004dd
+[PRODUCER] ORDER_CREATED order_id=3ac059fe-a3c1-4ff3-9f36-644ce0748d76 color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=96901f1a-ffb1-41b6-94e9-faaf5bb2df31 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=29edba07-ac78-4a84-8099-cc3deed1855b color=pink size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=94ce451c-6f76-49c7-9d86-13837c3c9b34 color=black size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=aedeb273-a6ad-44f8-95a2-bc3bac8852bd color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=b843d409-e828-4bd4-8f9b-630820df0396 color=pink size=L qty=3
+[PRODUCER] Sent invalid message order_id=ef6f9872-c04c-4a09-830d-b065267f377b
+[PRODUCER] ORDER_CREATED order_id=d82078e2-3a98-4107-a93e-056e653e5cda color=pink size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=5f49647d-50b9-4d3b-9ffd-99b68564a6f1 color=white size=M qty=2
+[PRODUCER] Sent invalid message order_id=2ef8b836-8297-497e-81fc-1a48cf078132
+[PRODUCER] Sent invalid message order_id=b503ea93-c762-43d4-abc3-d31d8e3521b4
+[PRODUCER] Sent invalid message order_id=63527cf5-223c-4370-a690-781569942877
+[PRODUCER] ORDER_CREATED order_id=566bbde7-c30b-4c58-86ef-c06de46055ce color=white size=XL qty=2
+[PRODUCER] Sent invalid message order_id=c6b876ee-88d0-450f-8874-c3a89aee8d13
+[PRODUCER] ORDER_CREATED order_id=75eb1365-6ea0-4981-8be3-380e7c607177 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=d5d017ba-0012-4f28-8c29-eddc3f231caa color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=318a08ff-06c4-4330-bd52-3f56ecca80a1 color=white size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=975bebbe-c3fd-491d-9f14-8bb1ea4830bb color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=048f6c12-c2e4-429d-b22f-ee65b2890b88 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=eea33db4-ebc9-459c-839e-0e67c537ac4b color=pink size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=b1670f53-ff1a-444b-a642-17a7cd5fe7bd color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=6db82e3d-6c04-42fd-963f-9f0da0ff6af3 color=red size=XL qty=2
+[PRODUCER] Sent invalid message order_id=06949c86-d280-447d-a68e-29c132ca6e06
+[PRODUCER] Sent invalid message order_id=eac5b399-bc9c-409a-a2ee-f60725039c8b
+[PRODUCER] ORDER_CREATED order_id=c9288b0f-3bd2-4860-8895-bb24c2b30a47 color=black size=XL qty=1
+[PRODUCER] ORDER_CREATED order_id=645bb442-ea46-413c-9e1a-059a377cdab8 color=red size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=1a470e8e-4e47-42e1-871e-3d93dd3f6298 color=black size=M qty=2
+[PRODUCER] ORDER_CREATED order_id=051b6533-a559-47ed-96d4-1c85b03a13c5 color=red size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=262453b1-c5ae-4f0c-8eae-23a8d1007820 color=red size=S qty=2
+[PRODUCER] ORDER_CREATED order_id=8da1a7ac-a10c-4161-ba79-d3f426a13e31 color=red size=L qty=3
+[PRODUCER] ORDER_CREATED order_id=855e4ab0-50ce-4e50-839b-d5b20f637e92 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=44648489-a74d-4dec-8df9-458d00fb041d color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=4b1c1c9e-9e87-454d-960f-b785b991ae0f color=black size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=4e0e8221-c93c-475a-959b-8bf432735def color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=45799b46-67b9-4bc8-9775-196349f63d96 color=black size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=2d96c19b-20b3-47fd-b9c6-af0b8be78f80 color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=2a6bf1ff-7c3a-46da-b7d2-d5344e3f8532 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=4dc60a2f-d45f-4f5a-b694-be06e41dd572 color=white size=L qty=2
+[PRODUCER] ORDER_CREATED order_id=08555498-7a72-4247-b302-db44c81f74c4 color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=cfd6e687-4736-4b43-92a0-ad41492261da color=white size=L qty=2
+[PRODUCER] Sent invalid message order_id=8d7a3144-cc35-43a6-aa6a-d7d075576f4d
+[PRODUCER] ORDER_CREATED order_id=922aecc0-8c91-4b6e-baf6-2f7fcf5a0cf7 color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=b1ff9759-1203-40e5-8249-e14bcb753004 color=white size=XL qty=3
+[PRODUCER] ORDER_CREATED order_id=4071dc33-a010-485c-adb6-675d178dce2a color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=5a2f3ca9-7c26-444c-bc06-e3638e8872b9 color=white size=M qty=3
+[PRODUCER] ORDER_CREATED order_id=32c4aca1-a46f-4e3d-93f9-27e2ae8c411f color=black size=M qty=1
+[PRODUCER] ORDER_CREATED order_id=2372a266-3e2b-4b33-b11a-41ed6ec207fe color=white size=S qty=3
+[PRODUCER] ORDER_CREATED order_id=91508226-0b16-4491-b701-7d5227fb2553 color=pink size=M qty=2
+[PRODUCER] Sent invalid message order_id=02d2ce05-7634-463f-9a3f-22cd0945feaa
+[PRODUCER] ORDER_CREATED order_id=ee8a85de-3147-48a8-aebb-ce65d5a11eb8 color=red size=S qty=1
+[PRODUCER] ORDER_CREATED order_id=84f04301-78c9-46ad-a50f-55c04fef01dd color=red size=M qty=2
+[PRODUCER] Sent invalid message order_id=cd418769-d676-4448-8b16-8c5cc3ca8c43
+[PRODUCER] ORDER_CREATED order_id=8f89ebcc-8366-4785-8aa5-d028e8c71337 color=pink size=XL qty=2
+[PRODUCER] ORDER_CREATED order_id=4d60e4cb-4c61-4516-a90e-9731d338460b color=pink size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=14069cdd-9f3c-4cc9-86de-3e25c28981da color=black size=L qty=1
+[PRODUCER] ORDER_CREATED order_id=49051b4e-975c-4e7a-8d44-873946ed6962 color=red size=M qty=3
