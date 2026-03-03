@@ -4,7 +4,10 @@ import uuid
 import random
 import os
 from datetime import datetime, timezone
+from dotenv import load_dotenv
 from confluent_kafka import Producer
+
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".env"))
 
 producer = Producer({"bootstrap.servers": os.getenv("BOOTSTRAP")})
 
@@ -20,7 +23,7 @@ while True:
         producer.produce(TOPIC_ORDERS, key=order_id, value="NOT A JSON")
         producer.flush()
         print(f"[PRODUCER] Sent invalid message order_id={order_id}")
-        time.sleep(2)
+        time.sleep(0.001)
         continue
 
     event = {
@@ -47,4 +50,4 @@ while True:
           f"color={event['payload']['color']} size={event['payload']['size']} "
           f"qty={event['payload']['quantity']}")
 
-    time.sleep(2)
+    time.sleep(0.001)

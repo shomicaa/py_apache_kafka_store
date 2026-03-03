@@ -2,7 +2,10 @@ import json
 import uuid
 import os
 from datetime import datetime, timezone
+from dotenv import load_dotenv
 from confluent_kafka import Consumer, Producer
+
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".env"))
 
 BOOTSTRAP = os.getenv("BOOTSTRAP")
 TOPIC_ORDERS = os.getenv("TEE_ORDERS")

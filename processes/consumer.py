@@ -1,37 +1,26 @@
 import json
 import os
-import sqlite3
 import uuid
 from datetime import datetime, timezone
+from dotenv import load_dotenv
+
+import psycopg2
 from confluent_kafka import Consumer, Producer
+
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".env"))
 
 BOOTSTRAP = os.getenv("BOOTSTRAP")
 TOPIC_INVENTORY = os.getenv("TEE_INVENTORY")
 TOPIC_DLQ = os.getenv("TEE_DLQ")
 
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "shop.db")
-
-con = sqlite3.connect(DB_PATH, check_same_thread=False, timeout=10)
-con.execute("""
-    CREATE TABLE IF NOT EXISTS orders (
-        event_id   TEXT PRIMARY KEY,
-        event_type TEXT NOT NULL,
-        order_id   TEXT NOT NULL,
-        ts         TEXT NOT NULL,
-        payload    TEXT NOT NULL
-    )
-""")
-con.execute("""
-    CREATE TABLE IF NOT EXISTS order_status (
-        order_id     TEXT PRIMARY KEY,
-        status       TEXT NOT NULL,
-        product_name TEXT NOT NULL,
-        quantity     INTEGER NOT NULL,
-        reason       TEXT,
-        updated_at   TEXT NOT NULL
-    )
-""")
-con.commit()
+con = psycopg2.connect(
+    host=os.getenv("DB_HOST", "localhost"),
+    port=int(os.getenv("DB_PORT", 6111)),
+    dbname=os.getenv("DB_NAME", "postgres"),
+    user=os.getenv("DB_USER", "postgres"),
+    password=os.getenv("DB_PASS", "postgres")
+)
+con.autocommit = False
 
 consumer = Consumer({
     "bootstrap.servers": BOOTSTRAP,
@@ -103,19 +92,28 @@ while True:
     reason = payload.get("reason")
 
     try:
-        con.execute(
-            "INSERT OR IGNORE INTO orders (event_id, event_type, order_id, ts, payload) VALUES (?, ?, ?, ?, ?)",
-            (event_id, event_type, order_id, timestamp, json.dumps(payload))
-        )
-        con.execute("""
-            INSERT INTO order_status (order_id, status, product_name, quantity, reason, updated_at)
-            VALUES (?, ?, ?, ?, ?, ?)
-            ON CONFLICT(order_id) DO UPDATE SET
-                status=excluded.status,
-                reason=excluded.reason,
-                updated_at=excluded.updated_at
-        """, (order_id, event_type, product_name, quantity, reason, timestamp))
+        with con.cursor() as cur:
+            cur.execute(
+                """
+                INSERT INTO orders (event_id, event_type, order_id, ts, payload)
+                VALUES (%s, %s, %s, %s, %s)
+                ON CONFLICT (event_id) DO NOTHING
+                """,
+                (event_id, event_type, order_id, timestamp, json.dumps(payload))
+            )
+            cur.execute(
+                """
+                INSERT INTO order_status (order_id, status, product_name, quantity, reason, updated_at)
+                VALUES (%s, %s, %s, %s, %s, %s)
+                ON CONFLICT (order_id) DO UPDATE SET
+                    status     = EXCLUDED.status,
+                    reason     = EXCLUDED.reason,
+                    updated_at = EXCLUDED.updated_at
+                """,
+                (order_id, event_type, product_name, quantity, reason, timestamp)
+            )
         con.commit()
         print(f"[CONSUMER] PERSISTED event_id={event_id} type={event_type} order_id={order_id}")
-    except sqlite3.Error as e:
+    except psycopg2.Error as e:
+        con.rollback()
         print(f"[CONSUMER] DB ERROR event_id={event_id}: {e}")
