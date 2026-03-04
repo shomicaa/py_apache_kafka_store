@@ -1,7 +1,11 @@
 import subprocess
 import sys
 import time
+import os
 from pathlib import Path
+from dotenv import load_dotenv
+
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"))
 
 Path("logs").mkdir(exist_ok=True)
 
@@ -16,6 +20,7 @@ PROCESSES = [
 
 procs = []
 
+# creating logs
 print("Starting services...\n")
 for name, cmd in PROCESSES:
     out = open(f"logs/{name}.out", "w", encoding="utf-8")
@@ -32,7 +37,7 @@ try:
             rc = p.poll()
             if rc is not None:
                 print(f"✖ {name} exited with code {rc}. Check logs/{name}.err")
-        time.sleep(0.001)
+        time.sleep(float(os.getenv("SLEEP_TIME")))
 except KeyboardInterrupt:
     print("\nStopping...")
     for name, p in procs:

@@ -1,352 +1,128 @@
 [AUDIT-DLQ] DLQ consumer started.
 [AUDIT-DLQ] Assigned partition 0 of topic 'tee.dlq'
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=5565f42b-1245-44fe-8c3d-5186e20899bd reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=f2a63eab-4670-4245-8e71-3f20b5bcc285 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=749e9534-0f21-4106-b407-0274777b3836 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=29850c6b-b518-4e7c-ba3f-3d9a1b4c1126 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c506eeb4-8232-4591-ab70-6751fd8b8991 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=65109471-4ef1-4218-a26d-672009c068e7 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c2698097-4b5a-4a58-b151-212e08690496 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=d47e47e8-97a7-45fb-832a-71e5fd6616ca reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=fd88bc57-95ad-4aa2-9eb8-5933453a1a9c reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=9cc52dbd-5b34-45f9-8a78-564b4ae35a55 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f86a82a6-f2af-475f-bb40-c06e3d921d30 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=9df7b0a4-c7f2-44e5-abe0-ce89f262d14b reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2d62cdca-a4c6-46b3-bda0-59515f5599d7 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=b274954e-916f-4da7-9b55-d8b618279c77 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=bff96fa4-8633-42f3-bb8c-e28c24c245b6 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=401b19f9-918a-406e-950c-ee280c1d9429 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b9642568-6f59-405e-8882-3218e2256fca reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=2618d05f-a5f9-447d-ba34-a10ce96baf77 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=6152d50a-d470-4b74-a674-636b066996f4 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=7f1f3bb8-ac83-4575-928e-01a5aaa96724 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=56d6432a-063b-4b4c-b20c-ef792da14306 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=d377fc40-e997-4ffd-9acd-f26eccda29a9 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b547a7b2-5492-4a08-a630-95e82436c6fc reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c7adf8f5-4cf6-4c9d-a3c0-d058df38f2ee reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1d37ac44-41ba-4ab1-b795-51d763a8f337 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=19f27b80-e178-4fad-b9fa-4c3fe3257512 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1829a771-4dff-487a-a104-db85d10a1765 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=9a96c337-5a3a-49a9-a07d-f5d36e18d4bc reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e0e321fd-5182-4f3e-a05b-0c80496dc5bb reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=d3665172-7bd0-4f3c-99ba-608c0c9ad7d4 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=82d6ddb4-7336-47cf-a8ce-3c304580aa4a reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=4577d1f1-c1b8-4f26-a5c9-3cf5f1c66b80 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ff77cd7a-b349-47ce-9cf2-680c8b20721b reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=94c8861a-4c32-4cc5-a6f9-245c19c68cf6 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b43a5d2f-ae25-4dbc-b9a1-9549d9c0dde1 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c6ed15e6-d415-454b-98e6-ec93e345aa64 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=38fbdd44-f7e7-4063-a16d-487fb7c4d719 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=840238be-7a47-401a-b742-0cbda8e23ea6 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=58593c5f-b7a1-4b03-8b5b-d0512d7ed5d3 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=deb6aa5d-b9fd-4e69-81b6-6268329aafa8 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=cbad82fb-156b-478f-96c0-cbcecdc51dff reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c060a8c9-600f-4bf6-b692-e05a3f7c6f91 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=319d9920-bf79-4a5c-8cf3-6af60d907e4a reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=7652b320-e35e-47b5-b9a1-b459e655f7ca reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2fa9fa97-bc6c-4fa8-9744-38331bb1182f reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=2f77fc52-1ecf-46d8-8687-73a66974f702 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=af593187-3183-4c7e-a8e0-31ee1e0dd210 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=e97de6de-4e46-4cde-a825-18a413a0f64b reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2ff37117-57da-4167-99f2-84f0ae677503 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=123e32c8-b09f-4fb6-98a3-0f83bfc122a4 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4fd69b1a-69b3-4f7d-bedd-e638aea62830 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=a390a683-ab3b-4dd1-9c6f-7f8e7d4e3b3d reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=d4bcc698-4e51-4188-9596-730fec28b4cd reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=1dcdfca5-db6e-49d2-877a-846f640e4a08 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=da9d25f4-fb81-4861-ba86-37760dadcec2 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=d2c82f63-4b73-4962-b629-399f1879a0b0 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4462aa85-ba35-4bd8-87ed-5de6ce8f8f91 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c1f55d8a-480a-4376-9b49-77863a0e5f4b reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c3dd0a09-563a-4348-900b-b0cb48f6f600 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=9f05f285-08e1-4ee2-850a-1fe5204c627c reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=d75776d2-ca19-4b41-8c41-9bbe84e806ec reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=59b85021-98e9-498d-a475-ca5f81526404 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c612f525-dc24-45af-9fb3-6eae66a2084e reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=82219dde-3c6b-49ab-81c5-c6a7ae103f04 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e3138875-a770-4dde-9a27-04c7ddbab9a1 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=79a60c72-09bb-4d49-bd0c-e4e313f1a2ca reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7663a7ba-12cd-4e6a-b67e-4fbcb2e4320c reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=6a8477bc-0880-4518-aacf-dfdf12b490ba reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=94dd1a45-4733-4e6b-a6ce-45f935426416 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=df85c657-ba35-4db3-b7cf-19e7878c5cb7 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=61f033a9-9eee-4793-8c89-53100b932a07 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=9f13046c-c471-4f76-84f6-83bec4228ea9 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=9ecced89-c7a7-47ac-bda7-8449551296c9 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c1a20545-91df-4b27-97f4-1abe06de12cd reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a846301a-344b-4859-91a6-54d92e0ae0e2 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=0b897c83-026b-4581-97f4-4b0ad780d06c reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3175011e-571c-4e76-9e64-4d57685064e2 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=fb3d877d-dc3f-4a23-9af2-74342e2f1251 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b57d45d5-5abb-4c93-90c0-18414bbe06f8 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=358295ab-0b38-4405-91f6-b429cd5002e6 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=6e11085c-bd7e-4bb2-803a-9c12aec6c395 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=bcc5533d-d46f-460e-a10b-37fb497c2867 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4583ae30-41d8-4abf-9acf-e2fbc2457ca8 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=a79d852c-726a-4a3b-88c9-0a925da2f40e reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1cd2bccd-b752-4529-b3b3-d8cf865ed6a9 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=1baaec15-381d-41f4-b438-5141782b81a5 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ece11545-701b-4c4d-a176-09cb5ba54886 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=27199397-a53a-4bac-b4ef-5c0c74925f84 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3f6f0126-3b81-4037-a4e0-e1fb4a3cf928 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=dde4a302-7936-4158-96da-878b2e7dc4ca reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4ddc61e3-2e38-4d9a-a9f2-858c077ca74e reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=1f0a8ddf-73d6-4578-8a9f-fda1bcd9e586 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=48f412cd-3e70-493f-a7d4-ec471172c494 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=4bdf1fd2-d496-432c-91ba-1941fc2b504a reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=221d4c0a-50f8-4f07-8e91-6375e09c6b69 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=4122c2f0-e2c3-4ff4-8702-ac773f43b619 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1a20d41a-0c63-47cd-9de3-bf8d82c3ecba reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=be68921d-33d2-45ad-b1ca-a660585c5632 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=0eee2a0e-6884-499c-9204-afc1a5efdad7 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=0c121852-000f-4cbe-9697-7a5d6e078ed0 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a7ba6bf8-01eb-4301-8dd0-a044acd57653 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=8a56a5c2-3af0-4264-8939-ba2806e4efb4 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=fe10b88c-983e-40a3-ba35-42b410c9de48 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=739f6593-ecaa-44ef-a44c-2bf8b02a304e reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a7246c43-5d32-47c7-9855-3fc861bb311e reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=c86475fb-10fd-49f2-8836-c61acf20757b reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=fcecaac6-c89e-4b7a-8667-47311cb3cca5 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=fc1b3d81-102b-42ee-bbb2-46646ae0f7a0 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dedceff3-5961-498f-8092-03e99464d169 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=eeca77eb-27a7-4f46-9d14-485570c2bc12 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=292f0a8c-8496-4d8f-bd4d-d2dd3bbe0d6b reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=d5258493-67f6-4d4b-afec-3daf59732965 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2c126aa5-50b5-4b1a-b316-41cfaca2a7e8 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=94fec56d-9206-46fe-90e0-6353b2af0787 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ee0df4a6-7a58-4396-9354-141b026e30c3 reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=bb007cc7-6902-4d05-84e5-cb9b9d235089 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=aa2bcdd0-bab2-4bb7-89d4-3dff3a42dabe reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=b5134213-3192-418d-ac96-c8b1d81a1beb reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=27a886c5-841b-42fa-a736-0f0054aee62e reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=381768dc-78ef-41eb-ad9f-f68fbd29ea7e reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4bc4bb1a-ecf0-47bc-8b4d-d47854c6867d reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=37147897-91ce-40b1-a492-fe4619de6ca8 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7b5359e5-c79a-417f-a747-de73fe5b54ec reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=1a47f57d-5c89-432f-9d3e-e7f566a29b01 reason=INVALID_JSON order_id=None
 [AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ed4a30a0-40a9-4942-b986-016672e80f7d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=47b7c7ec-1a67-4557-80ce-4123a5edd927 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=379093fe-4f92-4617-b68d-bce993525265 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=78fe9c50-71a9-477b-951f-d0f60e38af1e reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=604e206c-47d2-4150-be13-a6241bec8471 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7ea30a71-1955-4b46-854f-c60d8503d015 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b66ce56e-5a48-4d4b-86b1-bc41b3057f24 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=711cd6fa-9e5f-4f03-b56d-3eec859a97ae reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e5b066b0-b402-4d5a-bd02-5213c2809671 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=76d987b0-8be4-4b13-8b0e-44a85ac239c8 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f14a94e5-ce37-4c42-b794-c39cfa2ad81c reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e1ab77e6-8fb1-4187-b0de-6923ea184e43 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dbdabc7d-8b47-417b-ab64-db5d4154ea94 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f7f97f58-ada4-48ac-bd3c-a5c05043e58e reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=5bebd620-f1c1-4b3f-a5df-319908c455a2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=431344b3-9bb8-4f67-80d7-60ed1a3432a2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=62b29583-194a-4479-9d0e-e72f5930ca72 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dafd7037-e080-4f11-90c2-f465647bdd8b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=da96f4dc-8082-4287-addd-5e61b36edd16 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=6bdca83a-cf8d-4899-b225-6b7e36eb6685 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a12b44c3-b84a-4e2b-8987-f96d638f2d4b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4d26a84d-2191-445a-8e7e-0ce1dd65a9e8 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=19f7b5d3-3bbc-4e90-81a5-b216fe22342c reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=79af71ba-44b1-43ee-88ba-8f8adb4bc9bd reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2b181bd7-2536-4b5b-8f42-2553d56e0ae1 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c9570e98-6937-416d-8f62-fdcfb3b404a2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e5e9a7c4-05c8-44af-8018-8b9c6b092586 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2bb600d2-6f64-4595-891d-efc1b5846880 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=38d69f19-ca8b-43bb-a346-d465b6ee1913 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=532fa3e9-89f2-4aa2-a476-a958d75a15d7 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=9089531f-4f64-49ce-a0e5-b95518fd8f6c reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3f53ed6c-247c-4b6a-9fcc-feae93ffef7d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=008b305f-518f-487a-a415-746a65e19b7d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=11380ff1-f085-4b61-b763-a94d4ef59d7a reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=132212b0-01ab-4735-ad2b-24a2cc16b000 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=580711d5-a6dc-4748-b645-c05672459fa0 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=80b5c4b3-6f08-4a27-a789-2eb757ec8654 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=37307f03-92b2-4e42-8a7d-129903b8a1c8 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=82df68fc-6a53-4200-8570-ce88f6035307 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3d41469b-3cac-46dd-8261-2b9d47d2b7b3 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=784e7558-eeeb-4f69-a606-2d784445e07b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=68a62e73-a80f-465c-a917-6225fa283657 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f1260fc5-4ada-4abf-ad57-579fddcd2d69 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b4c327c1-79ed-4f7f-be45-75215a494178 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dad8c537-1132-4f1e-863c-a37a1f35fe87 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=769cbdb4-c732-4894-9059-4838e6642c71 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b560decc-92c9-400e-a3c8-541190bb9900 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4bd3b635-d88f-4789-9841-bf26acae4511 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=9281e44d-71bf-4725-a761-7b3afb8ad866 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f5953b7b-027f-4c75-9b1c-359119dad9ce reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=291a07b3-da61-4199-ae43-ef6c3acb2999 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7ee6917a-8652-4afc-8ebd-652af3d885fe reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=b347c9c0-3336-4d58-b93a-6d57549151fe reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=06c997f6-c846-40c9-9a75-bec65f3e1f2f reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1b23a6d4-6e5f-4a81-bb4a-d3fec6eabd9a reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=0a538aca-127c-4a58-a96d-67bd2e6eb82f reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e715281b-668f-4a7c-8eec-bfe08049a1c6 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e53c43d4-6b5e-4d70-bb14-f8629970915b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ba50f39a-b6c6-405b-8efc-b5e6d5911d66 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=d77a4e5c-e418-471f-b2e0-d8abc8971d9d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=046461a0-93ed-43f6-97bd-563437f471fd reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=678108bc-1375-48fb-8408-8411d89ba8b9 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=8a338b3e-8fa7-4a7d-84fd-e788ee2ce9f2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f6daa306-77c5-4b4e-9d68-ff0dafb47b05 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7cdad988-96b0-4683-a30d-a22f8293a41c reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=8e2e299d-9367-4bdb-8923-29b0ca000435 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=37659612-54ef-41a7-865c-831820744559 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=af28be97-2d1c-404e-a32b-d38c67c7ce7f reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1752ee7d-0201-47b8-941f-ca8204df7b50 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=4175eaf3-a72b-49c7-8e5b-eaa417f7dcd4 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=e5621164-bccc-4b3b-955c-4758f3fe0c56 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=7fb28354-b38a-4f5d-b9e1-ff6c75b305e3 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dc545bdb-38a5-46ed-bd6e-ad3fda1c6b62 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=03f6c9dc-1862-48b9-9143-bcccd8e72829 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=29a5b0f0-fb83-4277-8673-b519d3a17402 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=dbcc62a3-c955-436c-890c-ec69d1c6b74b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ae8dad88-722f-4260-9cbf-bc7ae0ce1ad2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=8e4a73d9-ad2c-4bbe-8b9f-2549b3849392 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3863111a-9c8c-4ba9-a1c8-46099cc64d4e reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=8efb51b6-3f13-4fa9-9a9e-fff3b5f048ed reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=d7ec4cc8-8f98-45c6-b566-a0e4544904be reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f110181a-e835-4926-8bf1-4eff93d4e004 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f19f3406-2650-41c1-b06e-f6aab64429e2 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=77927544-0f92-4a00-8b87-2bec72bc7f9f reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=af705634-aee9-4569-9430-c7d3e6ba62c8 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=bd5e5595-64fb-4eb4-ad71-9d59b154484b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c7c437b4-d2af-46f0-a710-7cc226d16154 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=20c651bf-103f-4def-b5bc-bac23c13ce73 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ec1b4742-6b0d-4788-bf78-9b00303f48d6 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=0445ef50-ef24-4705-b0b2-8c75c3f7d3df reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ac3038fa-a764-4937-a496-9c471f0b16ae reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=77882a62-0a9e-4596-b3de-04af6cb5000e reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=181ca132-18f9-4f21-9426-9f50cc758fdf reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=fad28376-7c27-49fa-842f-4336b4c7ab99 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=2a7e045a-5e64-4e19-b2e2-ae362e0b821a reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=314ea449-7335-4898-86a0-20b2946cf6cf reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=3c259711-a552-4f1b-bfff-06f6852653a4 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=c6226a23-8beb-4456-9be2-022c68ef1ec8 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=0487e984-271d-41cb-ba57-4a6307cc27c5 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a11c6d95-5a9c-49ec-8466-cbc30b8d73ec reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=61b292fb-688c-458e-90c4-ae11141c8adf reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=cd3e0928-6f8b-4f5f-a749-57ffb813c5fd reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=65672ae7-a939-4e12-9d15-e3d04486fa18 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1e57b5e3-92dd-446f-80d9-a5852ff1ed3d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=a2bfa57f-7d93-40c1-9976-a8343ccbfa3b reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=16378a6c-6e73-489e-b170-26d91c8f1bdf reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=568d3869-8a59-444a-a6d7-0b437644b3c9 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=f9a099a4-9931-488e-82df-8f6f6656b03e reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=ef45d8d9-58a3-43d1-914c-2722e7a30534 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=88519a1b-c302-4b70-952a-d8aa5a8d084f reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=1e404bc8-2cab-4215-a514-983d069b243d reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=9c8be11d-dc7d-420f-b2b5-b5654648a144 reason=INVALID_JSON order_id=None
-[AUDIT-DLQ] Received message on partition 0
-[AUDIT-DLQ] Persisted event_id=0e1ac0aa-d584-4443-81fd-c47ba56cc05c reason=INVALID_JSON order_id=None
+[AUDIT-DLQ] Persisted event_id=b15600b3-883f-446a-9af0-57abc22400ec reason=INVALID_JSON order_id=None

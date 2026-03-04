@@ -1,8 +1,6 @@
 
-      Welcome to Streamlit!
+  You can now view your Streamlit app in your browser.
 
-      If you'd like to receive helpful onboarding emails, news, offers, promotions,
-      and the occasional swag, please enter your email address below. Otherwise,
-      leave this field blank.
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.31.169:8501
 
-      Email: [0m

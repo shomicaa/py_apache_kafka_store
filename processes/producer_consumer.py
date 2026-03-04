@@ -11,10 +11,12 @@ BOOTSTRAP = os.getenv("BOOTSTRAP")
 TOPIC_ORDERS = os.getenv("TEE_ORDERS")
 TOPIC_INVENTORY = os.getenv("TEE_INVENTORY")
 TOPIC_DLQ = os.getenv("TEE_DLQ")
+STOCK_NUMBER = float(os.getenv("STOCK_NUMBER"))
 
+# initializing consumer to read orders and a producer to store inventory events
 consumer = Consumer({
     "bootstrap.servers": BOOTSTRAP,
-    "group.id": "inventory",
+    "group.id": "inventory", # consumer group
     "auto.offset.reset": "latest"
 })
 
@@ -22,7 +24,7 @@ producer = Producer({"bootstrap.servers": BOOTSTRAP})
 
 COLORS = ["black", "white", "red", "pink"]
 SIZES = ["S", "M", "L", "XL"]
-stock = {f"{color}_{size}": 50 for color in COLORS for size in SIZES}
+stock = {f"{color}_{size}": STOCK_NUMBER for color in COLORS for size in SIZES}
 
 print("[PRODUCER-CONSUMER] Inventory service started.")
 print("[PRODUCER-CONSUMER] Initial stock:", stock)
@@ -54,13 +56,15 @@ def send_to_dlq(reason: str, raw_value, order_id: str = None):
 
 
 while True:
-    msg = consumer.poll(1.0)
+    msg = consumer.poll(1.0) # waiting up to a second for a message
     if msg is None:
         continue
 
     print(f"[PRODUCER-CONSUMER] Received message on partition {msg.partition()}")
 
     raw = msg.value()
+
+    # MULTIPLE VALIDATIONS
 
     if not raw:
         send_to_dlq("EMPTY_VALUE", raw)
@@ -82,6 +86,8 @@ while True:
     except (KeyError, ValueError):
         send_to_dlq("MISSING_OR_BAD_FIELDS", raw, event.get("order_id"))
         continue
+
+    # VALIDATION PASSED, checking availability
 
     stock_key = f"{color}_{size}"
 

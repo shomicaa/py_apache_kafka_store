@@ -15,7 +15,7 @@ TOPIC_DLQ = os.getenv("TEE_DLQ")
 
 con = psycopg2.connect(
     host=os.getenv("DB_HOST", "localhost"),
-    port=int(os.getenv("DB_PORT", 6111)),
+    port=int(os.getenv("DB_PORT", 5432)),
     dbname=os.getenv("DB_NAME", "postgres"),
     user=os.getenv("DB_USER", "postgres"),
     password=os.getenv("DB_PASS", "postgres")
@@ -24,7 +24,7 @@ con.autocommit = False
 
 consumer = Consumer({
     "bootstrap.servers": BOOTSTRAP,
-    "group.id": "orders-db",
+    "group.id": "orders-db", # consumer group
     "auto.offset.reset": "earliest"
 })
 
@@ -37,7 +37,7 @@ def on_assign(consumer, partitions):
     for p in partitions:
         print(f"[CONSUMER] Assigned partition {p.partition} of topic '{p.topic}'")
 
-
+# consumer subscribing to inventory topic
 consumer.subscribe([TOPIC_INVENTORY], on_assign=on_assign)
 
 
@@ -67,6 +67,7 @@ while True:
 
     raw = msg.value()
 
+    # VALIDATION
     if not raw:
         send_to_dlq("EMPTY_VALUE", raw)
         continue
@@ -90,6 +91,8 @@ while True:
         continue
 
     reason = payload.get("reason")
+
+    # for good input, writing to datatables respecting ACID rules
 
     try:
         with con.cursor() as cur:
