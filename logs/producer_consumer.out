@@ -1,1599 +1,487 @@
 [PRODUCER-CONSUMER] Inventory service started.
-[PRODUCER-CONSUMER] Initial stock: {'black_S': 50, 'black_M': 50, 'black_L': 50, 'black_XL': 50, 'white_S': 50, 'white_M': 50, 'white_L': 50, 'white_XL': 50, 'red_S': 50, 'red_M': 50, 'red_L': 50, 'red_XL': 50, 'pink_S': 50, 'pink_M': 50, 'pink_L': 50, 'pink_XL': 50}
+[PRODUCER-CONSUMER] Initial stock: {'black_S': 15.0, 'black_M': 15.0, 'black_L': 15.0, 'black_XL': 15.0, 'white_S': 15.0, 'white_M': 15.0, 'white_L': 15.0, 'white_XL': 15.0, 'red_S': 15.0, 'red_M': 15.0, 'red_L': 15.0, 'red_XL': 15.0, 'pink_S': 15.0, 'pink_M': 15.0, 'pink_L': 15.0, 'pink_XL': 15.0}
 [PRODUCER-CONSUMER] Assigned partition 0 of topic 'tee.orders'
 [PRODUCER-CONSUMER] Assigned partition 1 of topic 'tee.orders'
 [PRODUCER-CONSUMER] Assigned partition 2 of topic 'tee.orders'
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d87a7771-f0fa-4d97-96f2-78aa3599f440 red/S qty=3 stock_after=47
+[PRODUCER-CONSUMER] ORDER OK order_id=a1b9a802-f104-4028-94b8-5121ee28c997 black/S qty=2 stock_after=13.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8704d403-ef65-4feb-ac50-9c8509f415c0 red/S qty=1 stock_after=46
+[PRODUCER-CONSUMER] ORDER OK order_id=706c5022-310a-44e8-9555-a64dba149403 white/L qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2f64d875-4d5b-484c-ba18-77d5859b4b1a pink/S qty=2 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f70ecb82-9d2e-49f6-b097-cf2398e0b5d8 red/M qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f04d3251-17ce-4ee2-b860-542e8cef245c black/XL qty=3 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2f448719-7332-44c3-b97a-927d96c24e46 red/XL qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=64ab23c0-ca7f-44fe-b345-27785575ca2b white/L qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9306cee1-d079-4c90-896f-6fa76806f9ce red/S qty=3 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b3094f72-c5c8-473e-a013-955a68d6b642 black/S qty=2 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0011cf1c-4c5c-4a0a-80b2-ce4e4ef3319d white/S qty=3 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=fb9ec28e-dd2c-4776-9594-995778ef4f67 red/XL qty=3 stock_after=46
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=bf06ec37-e9c8-437f-ac02-99bda2217a98 black/M qty=3 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ebaf467c-621f-4508-940f-00138fcb77a5 black/M qty=2 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0f929cc6-b275-4fe5-aed3-ef578d174a13 black/L qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c4147bbe-bbbe-41a7-97b9-15e731286fb6 red/S qty=2 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d34725d8-e50c-4afb-9768-5579840fdb32 pink/L qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=1e79b955-0b9d-4b45-9917-caaa36a5736b black/M qty=2 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e5f0ead9-ae18-4e9e-b5cb-0eed2af49305 red/L qty=3 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3aae4cdb-a6c5-4bea-805c-4ae0c3e14749 black/S qty=3 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6fad56fa-48b6-44c1-b98a-32d7cdd09bc3 red/S qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=da6ef04e-d704-4bb5-b01f-29cc406c9ca2 white/XL qty=2 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e284b084-e106-481f-888b-ec6753920089 black/M qty=3 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5c4145da-c663-44c3-bbcd-c3048371bf20 pink/L qty=1 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8dc64b97-8a19-43f1-b7b2-bfd9d8a7ff48 pink/S qty=3 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=31b40614-1209-494e-8736-c9c1c34d6b19 black/M qty=2 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=75f316e5-8eb9-484c-80f5-9b83f0baac03 black/S qty=3 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=823f28ee-925c-4523-9e73-c153ea900a93 pink/L qty=1 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f9e8a476-3524-420e-bfc8-3a627a2d26eb black/XL qty=1 stock_after=46
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6939fa64-2154-484e-9763-9613ec38c4cc white/L qty=3 stock_after=46
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a1248192-fd83-4c2b-9f8f-4ee3af23dfab pink/M qty=3 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9880cd06-321a-4588-8fb8-73a6094973be black/L qty=2 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=39f79438-0c37-4e17-af8a-504caf9daf17 red/M qty=1 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e8e23c92-686f-4542-9fa8-fcda47528d18 white/M qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=714a4f11-4bfb-416e-a58e-def088cbbf70 pink/XL qty=1 stock_after=49
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ed7c231f-7941-4621-b1ba-f55a657b520f red/L qty=3 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5ac03d33-e685-48ea-b67a-6a7190f60aef red/M qty=1 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=bc0da2ff-520d-4724-9633-40c79037a72d pink/XL qty=1 stock_after=48
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d0b15a11-eaa0-4f44-afce-0407b1a7de6d pink/S qty=3 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6660d808-0091-4da1-a61d-1ec61d6d37df black/L qty=3 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=4a6822ff-2ccd-4e56-a067-90f8d59100a5 white/L qty=1 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9dfadb76-01a5-4f2f-871f-5c608ea17d13 white/M qty=2 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c96e279b-0b70-4261-9cec-1ac77474137a pink/L qty=3 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=34c8cdbc-7356-4f8c-9bea-67c44913ae43 white/M qty=1 stock_after=46
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c7f639f6-99f9-459a-8f52-608f00e7457a white/XL qty=2 stock_after=46
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=fe645681-51e8-4c75-8224-c20650c1d2e0 pink/M qty=2 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=71387e04-ac13-417b-a4f8-6c8cb88f9519 black/L qty=3 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3fe36c11-96e3-4c6d-9947-9b9c7090f3c9 black/S qty=1 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8848dce3-973a-46ab-a046-1cea8820f971 black/M qty=1 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=465fc690-d49a-4a32-aa66-ef728ab8b7ee black/S qty=3 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b3a76ef8-5b8e-4c94-b77a-ab083b7618b1 red/L qty=3 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=449abdbd-1cee-4d43-a8ec-ab6921d748c5 red/L qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ec2bc28f-4873-4cb9-83a5-bbcd859fe47f black/M qty=1 stock_after=36
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6ec66bd1-8a36-4cb5-b658-864f47c748a7 black/M qty=2 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=cade8650-3e98-41bb-a0c4-5863747fe3f1 white/S qty=2 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b0a58136-d675-49f1-87d5-311fc4aef065 white/M qty=3 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b82c0e50-2e2a-4a1c-b1f3-07271a4903d9 black/XL qty=1 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0c9342af-934a-4548-a9ce-7fd8df8a18a3 black/S qty=3 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3a84cc00-3f84-47d0-a034-5700c284815d pink/S qty=2 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0fcfa1bf-d2ad-4874-ae0b-9090ac3de3ed pink/XL qty=1 stock_after=47
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=56bd39ab-0eed-4f07-8f20-d6867168fc8d black/M qty=2 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e49c32fd-6710-46e8-af18-db49f754925e pink/S qty=3 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e5a2ba57-65a7-4d82-ad9f-fb2bce9e2273 white/S qty=1 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f7532123-e02c-4fc1-82a3-1aaefab006bb black/M qty=3 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=01b0bfd7-f367-4f6e-984f-6cb4963e23c0 red/S qty=1 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=81c8ac22-eff7-4bf9-9393-617d48f1abbf black/XL qty=1 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c71ca6fd-2ec8-4d7e-b027-0ed02abe7df2 red/XL qty=3 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a06182b8-27dc-4de0-922d-b51b27c5b406 white/M qty=1 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e941c2ef-98b1-46f2-acec-251a3333cf74 red/S qty=2 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=23802d97-eb25-4f75-9186-54051ac42071 black/S qty=3 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6ad9916a-838e-44de-916a-e8809fcc0329 white/L qty=3 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=fc1666a4-f4d5-4030-8944-ae136b2d1683 white/M qty=1 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=77b74b77-4a4f-4fb3-99d8-4da4f30c2eb1 pink/S qty=2 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0a93d1fd-a492-46a3-8923-d08777d8509b pink/S qty=1 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c92a0754-3b67-4219-8126-e50241128005 black/L qty=3 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8cf6c89a-d4f3-4aeb-9b23-53d8f10fff81 black/M qty=1 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5ed8f2c3-2fd9-4d9d-acb3-4655473f0030 white/L qty=3 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=438351dd-d1b3-485e-940a-1a612f162ddf red/L qty=2 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2fd92d2a-0600-4d08-808a-966d34ec6ad0 pink/S qty=3 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=1e451892-56b8-48e7-a581-de7c0b406876 black/L qty=3 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5febb2c9-740a-48e3-aa54-908826d64871 red/L qty=3 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b2f63519-41ee-48cb-8425-4c1bd303595e red/M qty=2 stock_after=45
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=544f70b9-900d-4f45-8fe4-bf09e9988553 pink/M qty=2 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3393ffa0-9f26-42d5-a771-bfb408392aa0 red/S qty=3 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=15deb46a-9aac-4749-8b34-d65282692b4e red/L qty=2 stock_after=33
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=123081e7-625c-4f04-827f-2687b1e1e73c red/S qty=3 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=4d2d70f6-3f4d-4ad9-a77f-662be6a642e7 pink/L qty=1 stock_after=43
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=598c75fe-78c5-4e9f-9b14-5dfd4389be47 red/L qty=1 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ef67d607-73e1-4e73-bdb4-b8f7d141de05 white/M qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f21e19bf-d963-4581-848b-4ec4c1c24a98 black/M qty=2 stock_after=26
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=49bcae0e-6284-40a6-85f0-3d4d1480f8d9 black/XL qty=2 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=299facbe-e4f3-4367-85be-2da23054d135 white/S qty=3 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a9c39391-e613-4143-9cd8-70b9c54ab70e pink/M qty=2 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=1e2bb301-fdc1-4340-a5cd-ffc7c1ed5c1d red/S qty=3 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ebdfa14b-3a49-4037-a458-e59a957d982b black/L qty=1 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9c6fbba6-216b-4677-b790-46f2cae874f3 white/S qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3579f769-962b-404e-a821-14916c986d5e pink/L qty=2 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=601a736a-1df6-474c-9673-a585ed762670 pink/S qty=2 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d673823b-ccd0-45dc-95ad-9ec91d520353 red/M qty=3 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=35b817f5-dd47-4cd8-a7ab-ba5246f8b36d white/M qty=1 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=3a35a8bb-9837-4d9a-8c38-fe999b6d1de7 white/S qty=2 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=bb708104-0761-4fe2-8705-cc141a33752d red/XL qty=3 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f82870e0-df17-4e9d-85f6-6205e7e58e9b red/S qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ae3aa63a-ae8c-4328-823f-3442ba3716a3 white/L qty=1 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=7a2f4cf1-1aee-49c9-96e6-dea4a396c41e red/S qty=1 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d4b1b224-5ce2-4981-b42d-a56769179e93 black/M qty=3 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8169003b-33b3-4e13-98ba-38b7f426a11a red/M qty=3 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=7592861f-87b2-411d-b043-58a6619dabb0 red/L qty=3 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=14afae55-87d6-41c5-b37b-61e056c8db8a red/L qty=3 stock_after=26
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8b0ac79b-9668-4c28-9cc9-380eaa7f7ebb black/M qty=1 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=ecd75548-1347-417d-bf87-534a1deafd42 black/S qty=2 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2861ad40-9955-498b-8b65-9ab4ae7f43f1 red/M qty=2 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=25d66cb7-29d9-4009-b98f-5a45cfbaa077 red/S qty=3 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=aa7a2fac-52f0-48cb-b79d-9f431a6b8175 red/L qty=3 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=55e77e11-9260-48d0-b3d9-112a399e59f2 red/M qty=3 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=535f2918-0d95-4f38-946d-3d9fe44f1cc2 white/S qty=2 stock_after=36
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=e53bdb2b-2776-4f8e-a000-f77999d1432c white/S qty=2 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=395c8fd5-24f1-4b2a-9e12-f220f601e9f4 red/S qty=1 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2a9ec509-9482-48ca-8fa4-97c6d0f9b450 black/L qty=2 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8c81d3f8-e83f-4ae6-882e-cbede32dc04e black/XL qty=1 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=2d076310-fb5e-4a21-9f82-b193016da8c7 red/S qty=3 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8bae2cb8-c794-4a11-bfdd-a7eba286cde6 black/S qty=2 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d39fd07e-d07d-40ea-a61e-13d8c00419df red/S qty=2 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=17d492d8-a62d-48e6-94f0-51504d0aae71 white/XL qty=2 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d704aaed-2243-463c-bac1-be7708aa4bba black/XL qty=2 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d26d6f8f-4219-4187-8fd6-b41564a5c883 red/L qty=1 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f0a10fb2-070b-460e-b32a-a4ac59e68dda red/XL qty=2 stock_after=38
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8ed965a0-fef8-42e4-b5e4-4ba4b53ae75b red/M qty=2 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a7c93bbe-e0e9-4e45-8b45-3e6f33b43315 pink/XL qty=3 stock_after=44
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=85cec64e-a48d-4c26-b194-ff804649d2a8 red/XL qty=2 stock_after=36
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=c9741fab-e6d9-422e-afa4-4935b6bd4cef black/L qty=2 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5f03aba7-4596-4882-ae3d-b5aad3dc64fd pink/XL qty=2 stock_after=42
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=38fbb602-8f4d-4404-a363-8ca43efa43dd red/S qty=2 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a8269ea0-a109-452e-b03a-ec5e80a71a24 pink/S qty=1 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9d3f4686-c9bb-4432-8d97-904d3f0f9f07 pink/M qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=74fc0498-edfd-4825-965c-7f0cf97f6123 pink/S qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=7dade50c-5954-4950-888b-253dea03a4ae white/M qty=3 stock_after=36
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=5c391e6a-a659-41e0-9331-886a5df8e1d8 black/S qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=bad2e92c-445f-4992-9f97-a1f92bd368b0 pink/L qty=1 stock_after=40
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b1ad3735-2698-4465-806b-81f4d5e224de white/L qty=3 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a3069d92-e57b-4ba2-a653-6a7f2a32face pink/L qty=3 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=73b39fda-646c-4f4a-9606-2c3108d3f5c8 red/M qty=1 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=50aff97b-4694-4113-949b-e7f665dcea1b white/S qty=2 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6a97d060-a648-4762-a0f5-973a2fcdc218 red/L qty=3 stock_after=19
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=4cbc9dc2-e078-418a-9353-3e82cbb0de1a pink/S qty=3 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=7f76aa46-0ecd-42f7-8437-b4641b1d9f76 black/M qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=470dbcf2-211f-4101-9f0a-1a009683e140 red/S qty=2 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=86e8d256-b915-4c68-9e29-8d744691ab9f red/L qty=3 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=bb8fafae-3e52-4f8d-8265-a299c9d4dde6 white/S qty=1 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=808d53d5-3eba-49d7-9841-472d5a52a598 black/S qty=3 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=1af61591-336d-41d8-aaee-5e1d47fdca25 pink/L qty=3 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=1d6d1037-3089-4bc3-aee4-9430fabe71ff black/L qty=1 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=8ae2f6ab-2d9c-4095-905c-db4669a8ab63 pink/XL qty=3 stock_after=39
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9b3b6504-55df-4c83-8fdc-d34e35cfef2a red/L qty=3 stock_after=13
+[PRODUCER-CONSUMER] ORDER OK order_id=ec32845e-48ae-4eb6-b3a1-2a8863f7bd9c black/M qty=2 stock_after=13.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d71e7f9e-71dd-4e9b-ace6-688ea1a45ea2 pink/S qty=2 stock_after=20
+[PRODUCER-CONSUMER] ORDER OK order_id=1dd1523b-3e4a-41b7-941f-e3d101dd48c3 white/L qty=3 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=06b949ee-b62f-4191-a154-a860311cb989 red/XL qty=2 stock_after=34
+[PRODUCER-CONSUMER] ORDER OK order_id=0c008c38-86c5-4977-b2b9-b1d7f25dd0d7 red/XL qty=2 stock_after=13.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=108089c1-d5ee-40e4-b8ea-05cef8e20aed red/M qty=1 stock_after=30
+[PRODUCER-CONSUMER] ORDER OK order_id=db801472-b288-4774-bed3-8f2737b8690b white/L qty=1 stock_after=10.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=91b2a860-7d49-4dd9-8165-910c9bec8856 black/L qty=2 stock_after=27
+[PRODUCER-CONSUMER] ORDER OK order_id=458b451e-af7f-4a2d-87ca-80dd5b46b4bf black/XL qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=a45da13f-7ec4-48eb-9f81-cf9360f465ed black/L qty=3 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6969954a-b093-46db-994b-8fcec64d3ebb red/S qty=1 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=190b4e68-fb85-4af5-8f6f-fd1b19d5f909 red/S qty=3 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=29b2bee5-4b4b-4465-8100-ce8ed7d6926e white/XL qty=1 stock_after=43
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=55a382e1-329e-4d28-a5e2-0302814f8f3b pink/XL qty=1 stock_after=38
+[PRODUCER-CONSUMER] ORDER OK order_id=7bd56155-5534-41ce-8d62-b9e9f5f6fe4b red/XL qty=3 stock_after=10.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER OK order_id=dc3d9808-b0eb-46dd-9c8b-74eb4db4249a white/XL qty=3 stock_after=12.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=d2c9f916-baa7-402b-a29e-c7b37955c6c2 black/M qty=2 stock_after=18
+[PRODUCER-CONSUMER] ORDER OK order_id=e9531407-ef36-4717-ad95-7b4f69cdc4e3 red/L qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=4171bc5e-4d1c-4176-ad44-b8c884a07836 pink/M qty=1 stock_after=39
+[PRODUCER-CONSUMER] ORDER OK order_id=7fda2d3c-f17a-4921-adb1-f76274380ad2 black/XL qty=3 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=4bcda88f-df1c-4351-b89f-e0ce9b1dd4b4 pink/M qty=3 stock_after=36
+[PRODUCER-CONSUMER] ORDER OK order_id=ce743816-09a7-436e-9eaa-b46adb25347e red/L qty=1 stock_after=13.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b24c76e4-daf1-4589-9d77-5a38faede3f5 white/S qty=2 stock_after=29
+[PRODUCER-CONSUMER] ORDER OK order_id=aa925f99-1b6b-43f6-8fae-eb817554d801 black/S qty=2 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6bc1f998-7683-4ded-a254-2df65b88c03d white/M qty=2 stock_after=34
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=7f664092-7d2d-40f5-b7d4-584a9ffeabba red/XL qty=2 stock_after=32
+[PRODUCER-CONSUMER] ORDER OK order_id=e9ca4ec8-f66b-41d1-82a4-c350e54af429 red/M qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6c9414e8-02b5-494c-bc76-a49376076d70 red/S qty=1 stock_after=6
+[PRODUCER-CONSUMER] ORDER OK order_id=50164d99-6c99-4efe-b29d-6ee28620df2a white/S qty=3 stock_after=12.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f51f129e-b0b3-4627-90dd-75f4034d933d pink/L qty=1 stock_after=33
+[PRODUCER-CONSUMER] ORDER OK order_id=1e104d08-1e22-4c26-bd08-f983a753fa03 black/M qty=2 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=62b3f5d3-5454-41d4-903a-d8f57f969151 pink/S qty=1 stock_after=19
+[PRODUCER-CONSUMER] ORDER OK order_id=0a189235-dba7-4ec4-ba17-db5701c3049f red/S qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=6766e469-9b1f-4404-bd14-8cd475816c4c black/M qty=1 stock_after=17
+[PRODUCER-CONSUMER] ORDER OK order_id=1fae2d58-8b42-42ad-85ff-5f4ccda05f65 black/M qty=2 stock_after=9.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=759175c9-c69e-4dc0-bfe2-4540d285247b black/XL qty=3 stock_after=36
+[PRODUCER-CONSUMER] ORDER OK order_id=0ae23c9b-595b-488b-a3e2-dcf2c245e545 pink/M qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=af8c79cf-dac5-4242-a831-8bcb4d08fda3 black/XL qty=1 stock_after=35
+[PRODUCER-CONSUMER] ORDER OK order_id=e5482a3e-f39c-4a22-8976-8bebe741dccf black/S qty=3 stock_after=8.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=28fc0d69-1864-4185-96f5-1047cc070d94 white/S qty=1 stock_after=28
+[PRODUCER-CONSUMER] ORDER OK order_id=81eb1c1d-37fd-48f1-be4d-8ef7bc210cfb black/L qty=1 stock_after=14.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=9b4935ba-fa3a-49f0-a722-ae5e67158aba white/L qty=3 stock_after=32
+[PRODUCER-CONSUMER] ORDER OK order_id=68a0523e-60ab-4d3d-99d5-b3acaf406caf white/S qty=1 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=af8d592b-f3d6-4b8b-b996-bdea166c9e66 black/XL qty=3 stock_after=32
+[PRODUCER-CONSUMER] ORDER OK order_id=7fa3f249-4b64-4aa0-8eb5-4d8accd5c58b black/L qty=3 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER OK order_id=6ffe7ca3-905d-4ad5-9d8d-b84cec581743 red/XL qty=3 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=32f2f567-2755-4141-a7d3-e87d301f18f9 white/M qty=2 stock_after=32
+[PRODUCER-CONSUMER] ORDER OK order_id=e3b1b640-03a4-4416-bad2-c0f16badf1df black/M qty=2 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d21c0c3e-102a-460f-b477-010795f0a6cf black/L qty=2 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0d7d9252-d5c2-4303-a3ef-df005a21e81d red/M qty=2 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=986b40b3-7de3-4f94-92b9-01acbde4a4d4 white/M qty=2 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=62ce7640-2f17-488f-9a9f-a401c19bdeb2 white/S qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=22600ce5-6230-4677-acf8-89e911373d46 black/S qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f2a736f7-13c9-4169-bff9-0c1a03f993c3 pink/M qty=1 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=988c5672-661e-49f7-a9fc-599f9b6b52ee pink/S qty=2 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=52e042bc-69ae-4470-9224-d22ca2f57a56 white/XL qty=2 stock_after=41
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=6d9ba367-e85a-4197-a4d1-7eadb9f67654 pink/M qty=1 stock_after=34
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=48f8536b-3deb-40d6-9c98-984b134f2ecd black/S qty=1 stock_after=19
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f096e4b7-5e8c-473d-b208-58320f8730a2 pink/S qty=2 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e4a1a39e-e6b5-48f0-8202-381228e05f38 pink/M qty=1 stock_after=33
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0395c035-e160-4db7-a8a3-8c2e80b62ddb black/L qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c77d84c4-034a-46e6-b9ea-339b939af600 black/S qty=3 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=15b60e5f-fd0e-47bd-bc22-40d7a86fd41f black/S qty=1 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=318a5174-56d9-4df4-8187-5bf0800a746b white/S qty=1 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c40ab3d9-5207-496b-abca-a94d24b3d027 red/XL qty=1 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=04990b33-c658-4ed3-baf0-a4bf6ec05f65 red/M qty=2 stock_after=26
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=4179f43e-e694-4371-836e-0bb3f743852d black/L qty=2 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=884306be-3252-4385-b5d0-e000be435b38 black/L qty=3 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=011699fe-bf97-4206-809d-387b4e2c6323 pink/L qty=2 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=54c5b5d1-a242-4d0b-9f84-0a5ad2f4f52d white/S qty=1 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=14697918-ec92-4824-871d-18f4e197e82e red/XL qty=2 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=df1ff6a2-afd8-4f52-8dd0-168a003b3ac8 pink/L qty=1 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=89c9dfb3-00f7-4a1b-934f-c63bf66fd2ff white/M qty=2 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=a4779d8f-5386-43e8-93b3-39931328f7d2 white/XL qty=2 stock_after=39
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7e2297cf-4a70-4e58-94b7-faf02b500f92 pink/XL qty=3 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f9937b80-89a0-48b6-9394-a6701ffdf144 black/XL qty=2 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5714d37a-2842-40b8-a8d1-f059b1ea28ad pink/M qty=1 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e62ffad7-5694-4cbb-ba6d-61d70a93e15b black/L qty=2 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=06fff854-2eb2-44f1-9704-ebb8b9aaa3ae black/L qty=3 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=a1d23e81-9dbd-447e-b19b-f536a712a619 pink/S qty=3 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=46b72ba5-05de-4670-8fac-33c124284699 red/XL qty=3 stock_after=26
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7de1cdad-be8c-45f3-95da-d5fbddb1720c white/L qty=1 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=641f8c67-3528-462f-b74f-190c353c1787 white/L qty=2 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=248f6732-c60f-4044-8f18-035b910d9343 white/L qty=1 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d6e39720-a431-4748-bc7c-be063c62c877 red/XL qty=1 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=3b1a70bf-28a0-4caf-8d7b-3b52de37ac0c red/M qty=2 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=63d7ee1b-dabc-4eac-ab69-dd6db7dfd296 black/XL qty=1 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=caa7e40a-d93f-4590-adb4-69ded7f4c909 red/XL qty=1 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=1a21495a-de9e-44a6-9ea6-4d35b2f17a44 red/M qty=2 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=761d83b8-6394-4e7f-809f-9c1092023543 white/L qty=2 stock_after=26
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=faee0020-1252-43a6-953b-0a9752bd7a3c black/M qty=2 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=6a2ee076-3126-418e-b3a6-5e3e37c419f9 red/M qty=1 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=1e409d6e-ce06-4a58-931e-fb0500d57ce6 white/XL qty=2 stock_after=37
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=40433242-5a97-4306-934b-c936e788ceab white/L qty=3 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7332ef52-3c85-4dbe-a2d9-69863841146b pink/XL qty=2 stock_after=33
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=49cb785d-6de4-4867-b1bd-f0d8f34dbfa4 pink/XL qty=2 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=1e200394-964c-4d61-8a0f-91826e729c88 pink/L qty=2 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=ad9828f8-5921-4c8c-95b0-aded3b5af2da black/S qty=3 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=cc319645-a906-45f9-a23d-a814007983ff red/L qty=3 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5b63b272-9a01-4a85-9f9d-ff3504eaeab9 white/S qty=2 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=b2ec4a31-970b-4abb-90e4-e983357785aa red/S qty=1 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5a286425-8d5f-4d73-a412-8541638e9482 red/XL qty=1 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=2f1bbdcb-92b3-45e1-b82a-70ee9e5e5af8 black/S qty=3 stock_after=9
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=49ef8580-5ddc-42eb-ad64-febf157637fb black/S qty=1 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e49ac109-8d59-473e-98a7-c52611ce76f9 red/M qty=3 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=b48f5ec0-e068-477c-ae63-2fb59dfd49b2 black/S qty=1 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=1884b332-627a-4480-bcce-8c268a2f4139 white/L qty=1 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5754fb73-e882-4ac1-a2ca-bd75a35090e2 black/L qty=3 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=b5d54c8c-3be7-4ec0-99e4-8c1f481ba6c3 red/XL qty=3 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=9b4089ab-68aa-4fbe-81df-263c55b7eef9 black/S qty=1 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7c6f8940-b62d-43e6-8c6b-566845ffff03 black/M qty=2 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e410aa12-2847-41b3-8018-f1228165306a pink/L qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=831bc346-919d-48d7-a4c7-960b5ccbf9f7 red/S qty=3 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=3c84c554-934c-4ebf-b15d-aa06510d300f pink/S qty=3 stock_after=9
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e58e490a-0053-427a-bb9f-af33a77a5715 white/S qty=1 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d2054d64-6247-408a-a357-77b78fb558e6 pink/L qty=1 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d896d796-285c-4276-a363-f0c0d01816a7 pink/L qty=1 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=faebc9c0-a57e-404e-bfe8-c641f3e05fdb white/M qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=94c79906-8b62-4658-9c12-f9656a91b34f pink/M qty=1 stock_after=31
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0c57389f-9a19-4863-8256-a54a9b506ab5 white/M qty=2 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=687c9352-d3eb-4991-99ed-8bc7599d7c4d red/S qty=2 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f886b2c8-572b-4100-bbb2-2000157a212e black/M qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=2e0b80fa-48ec-40c3-88e6-3bcc65e129ae red/M qty=1 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=eef24f9e-1c33-4d65-9400-83de97490341 black/L qty=1 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=4643c8d7-49a5-44a4-8c3a-ccd73f5593ec red/L qty=2 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f9927877-4eb6-45b7-b78e-26e11ad62952 pink/S qty=2 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=4d94f4bf-85f1-43d9-b467-28895131b9fb pink/XL qty=1 stock_after=30
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=9fee7b5a-5d4c-4d56-abb7-d683601e6ce3 black/M qty=1 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=497db112-2b55-4a9f-a93b-e59fce68473d white/S qty=3 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=4d125535-6cf4-4c95-bc02-b0b014238b63 pink/L qty=1 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=13f6107f-c82e-4bdf-8f74-b79dbf9b7e02 white/S qty=1 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=fe358103-74e8-43be-a462-7db0cdaa3bb0 black/L qty=3 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=27d0545d-73e9-443a-9954-1fd00456e0ea white/XL qty=2 stock_after=35
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=38bdcbaa-e1ee-4720-9e31-43df178ea6eb black/M qty=1 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f79dc34b-3cd7-43d1-a24e-2df8320fa0c2 pink/L qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f27a3f4f-bbd7-43b2-bb61-7331827b8a3e pink/M qty=2 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=a5a5ac24-b9e7-4d3f-96fd-f5c3de3da5ca white/L qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5abf0a4f-f306-400b-aaed-c409b18ef34c red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=be795ce8-03c3-4753-bf6f-f83cfeb4764d red/XL qty=3 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=6afa6552-d0a3-48af-8ecc-77b00da360aa pink/L qty=3 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a2bab499-120d-4e27-9255-e33d7cb97c5a red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0301ef64-74ed-43af-9348-bb5713a8bbe6 red/M qty=1 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=62104e5a-4bfb-4494-9215-d8c96735ef29 black/S qty=3 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7b4a4585-f3be-4658-a4a4-ac74a0279238 black/S qty=1 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c11d39b9-4769-4ed7-880d-26821dcd8c21 black/S (OUT_OF_STOCK have=2 need=3)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=78e8c3d7-83c9-4e63-82cf-50b30d97f566 black/M qty=3 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0e4a27c7-2231-4575-8466-e4996dcb0263 white/XL qty=3 stock_after=32
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=008de9a5-62ce-4234-b674-632c5dc161ad black/XL qty=1 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=0b0d89b0-754b-42b3-82c5-fbf19088ad50 red/M qty=3 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=b0f5e9e9-aa33-426c-ad23-cd6b7cca3496 pink/L qty=1 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=cb00c03c-64e5-4957-a9b8-9137dc5db03e pink/XL qty=2 stock_after=28
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=3ffcc037-9466-426a-8a90-2a72a9c8e83b red/L qty=3 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=877ffca9-3914-4b81-bb66-801dd9e61aec black/XL qty=1 stock_after=27
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5c72eac3-f9d8-4560-9a13-4f2776ad0974 pink/M qty=2 stock_after=27
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d8d8fdd2-b10c-4612-b923-9a35cac2dc6d white/XL qty=3 stock_after=29
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=57da74c4-a918-4250-94d6-7b9ed63369d0 red/XL qty=1 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c96a6830-218d-4b8c-93eb-978fce2d701e white/M qty=1 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=4551e8d4-46f4-4515-a3de-b24ca9dc09a8 white/L qty=2 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d526d804-1c65-4093-86db-80d596047280 white/M qty=3 stock_after=19
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=9e5ab0dc-6aec-4ce4-bc60-5ff3d6c19676 black/L qty=2 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e0b553cd-ab18-4aa7-90f3-d4bfa5c0391b red/XL qty=3 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f9400b75-eec2-4a57-9969-2965c3404156 white/XL qty=2 stock_after=27
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=16b48fac-0ac9-4141-8e5f-511e23d65c9f pink/XL qty=3 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=599af0c0-03cd-4f7c-8d52-323077639f8e white/S qty=3 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=24f9610b-1431-4def-bad3-a80a13b185fc pink/XL qty=3 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=ea665972-dbba-498f-9fac-273fc5875add white/XL qty=3 stock_after=24
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=54101b55-7f8f-4f1a-aa26-6f7fb22e7d6e pink/M qty=2 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f896ffae-8db1-4adc-be1c-351037193446 black/M qty=1 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=6863d070-7615-4be4-8c4f-12e0c5fa449f red/XL qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=ba7060d0-b7e9-462b-b8b1-9603942a2ce6 red/M qty=2 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=5b9d821b-387f-49c9-8fde-119d2d65777c red/M qty=3 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c7939038-1b78-404f-aa04-dacfed7f3cbc red/XL qty=3 stock_after=9
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f903d7f7-7fa2-4175-ad3d-253d5f59ca21 pink/L qty=3 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=76ce7460-f31f-4205-9836-c78a55297fc2 red/XL qty=3 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=bc8ff509-317c-444e-a253-054c35b633a4 white/M qty=2 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=3fb1603c-bbd4-43a1-8cd0-1043cef00711 red/M qty=3 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=1447116f-b0c5-4cc6-8717-3f2e965a8834 pink/S qty=3 stock_after=4
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=deb7596a-19f1-4d17-a7de-88933bb0c5e6 pink/L qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d941944e-b35d-4f51-ae73-f47e2890057f pink/L qty=1 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=921b4a7e-6ef2-41b7-b160-5c9426ee9663 pink/XL qty=1 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=fdbd9879-3cad-4bb7-b61a-f2171618e32b black/L qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c9358eee-d884-4f9d-92b0-56a915b334cf red/XL qty=3 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=520a96cc-ced1-468a-a168-410ed45a458d pink/M qty=2 stock_after=23
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7ef2d3fd-65dd-43ff-bef8-b9527ff01e0a black/M qty=3 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=b4f25ade-0130-488e-9037-8d64e1f71d2f white/S qty=3 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c083cc04-ddb9-45c4-8d94-5e29863b8315 pink/S qty=2 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=55bd82ff-f13c-4947-a3a8-a83d63871a61 red/L qty=2 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=e6575299-a1c8-44d4-8bf3-633a37b71fff pink/M qty=2 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=596a6fdb-dacd-4273-b1c2-7228082efc9b black/S qty=1 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c9bd3623-3615-4082-96d1-25c762ff0325 red/M qty=2 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=08da9b21-644c-4db1-8e91-a438b00a4c7a red/XL qty=2 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d2491c46-0ebd-47bb-851f-d4eb2f0578eb white/S qty=2 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=afa9b9c2-a008-4675-b947-179f6ae60ce9 black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=987bed42-f660-40db-a8e7-31fd273171df black/XL qty=2 stock_after=25
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=c3e44fab-75f2-40d2-9b7d-0adbd7ed759c white/M qty=3 stock_after=14
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=7b67f273-6df3-49cd-a50f-be56e5a28189 white/L qty=1 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=63e8dbab-85c4-470d-b1e9-8979faac5ed8 white/S qty=3 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=d04bc18d-295f-4b8f-acc8-7e0891a330ae pink/L qty=3 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=f1415319-2277-4296-a007-ca2d070f6ae5 black/S qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=8f2b3372-cb62-4fd1-bd28-ebbb9400b9c9 red/XL (OUT_OF_STOCK have=1 need=3)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=fdfb0e6b-8635-45d8-8c17-b577c408d1f4 black/M qty=2 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=bac00ef8-a977-4824-9c48-1c132a6e1a4d pink/S qty=2 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=a992b079-f17c-4b03-a60d-ae14e7ce3b2e red/L qty=3 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5092b507-6c0d-4a37-9554-e4092b3259f6 black/M (OUT_OF_STOCK have=1 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=966ab4f9-9dd8-45e7-b670-84dd08228fbc pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=4aa762c2-e0c1-4490-b139-71872e4cdac4 white/XL qty=2 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=0d5088c4-aa1f-4a65-bb7c-182c681177ba pink/L qty=2 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=52035146-0d2c-49f0-a553-53bee6f362af red/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=ae1d4f4d-c349-4ac8-b90e-da4ab6f0eed1 pink/M qty=1 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c2e74576-1cc1-4776-a9d4-539b870758e6 red/XL (OUT_OF_STOCK have=1 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=cc3b5e55-e4d6-45b5-bd3c-eaeb2c8f56c9 black/XL qty=3 stock_after=22
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6be99c08-2ca7-434f-8b6e-8868ebf59875 red/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=baef94e3-e5f1-4e82-a0eb-2700974795fd black/XL qty=1 stock_after=21
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e1795285-5895-45d9-bd98-4ba2abb909c6 red/XL (OUT_OF_STOCK have=1 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=face9e56-aa1a-48bd-82c3-5e109325c762 black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=f374c739-9a74-480d-bb09-d47839e5d0b0 pink/M qty=1 stock_after=19
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=8533460c-c2fc-4efb-8cb9-69c93f1664a8 red/XL qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=db2a33c1-9acb-4af9-bc14-e8f367024130 red/M qty=3 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a195f948-6f03-41ee-bf01-fdd90a6f578e black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=778d6352-69e1-428b-a9a3-1c23e45a1d4c black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=32cca131-7cbd-4ddb-b07d-29aa935f2667 pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=e806763d-9090-44c4-8f3d-afdff93aa0e7 black/XL qty=1 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=9ab7e6ef-8788-49e0-a3bd-081414278b9c pink/M qty=2 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=5a6658ae-2dec-4075-bcb9-2429acffd9e8 pink/XL qty=1 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=55952b93-7d9a-4c52-8de9-0a9c8d771c4c black/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7e01177d-aca7-403e-9f21-b6589e9fc616 pink/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=bf9fbed7-8d90-4303-ad7d-1401ef05c8f1 red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=7376f255-8ca1-4496-b812-5c7c5b0fd33b black/XL qty=2 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=977f884a-0af4-432f-8dfe-025be935027f black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=70a53e86-d775-4aaf-b52b-16501997db15 black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=55777b06-3133-46aa-b7d4-852d41d1aa98 white/M qty=3 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5cd46ba8-a0cb-46c5-8d74-4c7bb29635a7 pink/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=d86824db-81da-4fbd-a91c-e37796385a18 white/M qty=3 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d356a570-6714-4780-8fb6-69bcdd80990f red/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a3351ab7-bdcc-4917-9ae4-2b69017af14f red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=693a85c5-05c0-440a-bbe1-5137e364c889 white/S qty=1 stock_after=4
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0e503b17-b4c5-4d83-9cee-873b30025142 black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=55195afb-6e35-40c3-933d-61e1d4d3c632 pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d24b2b26-e4ba-4a61-9728-6f34fd3638ec pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7afc6108-a049-4247-9a6c-56b867e967f7 black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a96c1aa2-8ffc-43e8-8b34-d39e36477dc6 red/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=ab245c65-7e0f-4aa4-a6af-2024d07cc7d9 white/L qty=3 stock_after=14
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=0bea5061-5e3a-4e53-ab55-c1b12393c1b0 white/S qty=1 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=851fba89-5a08-40d9-afad-178c3da5d945 pink/L qty=1 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=8efb9644-ff7c-4cc8-a6b2-a2952e9b902d pink/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=86e9acf5-b496-4b90-b1a0-84feb40c089f pink/M qty=3 stock_after=14
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c4fb2da4-06e9-4a96-9b6f-3b6c2920f116 red/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=b747106f-567b-436c-9e90-49c4bab50971 white/XL qty=2 stock_after=20
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=55c0b98d-135a-4a15-9353-c50415991b56 pink/L qty=3 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=20234c52-50fb-4a0a-b039-e6e3d50f4ba5 white/S qty=1 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=3a7295ec-e0ec-4622-b284-00d0f81cc90d black/M qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=bcc9406a-cf3c-48b5-9436-e5075892a488 black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=85167be7-9aad-4aa1-8659-83cb8c6c664f white/XL qty=2 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=01aa658a-5a63-4dce-889b-9a54d650a13f black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=d209cb55-3c6e-477c-ade6-19a34354d44a pink/M qty=3 stock_after=11
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=69d49d27-a075-434a-9315-5a3e74602d1e pink/XL qty=2 stock_after=18
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=111bec91-cde6-4aa5-9dae-384cc23ed715 pink/L (OUT_OF_STOCK have=2 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=adf6b112-8f24-471d-826c-6f737b2f47c6 pink/XL qty=1 stock_after=17
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=48df4acb-d4e8-490a-9fc9-da087ad20487 red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=a94ff0b3-69be-49c2-ad51-57a10b3ff13c pink/M qty=1 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1cc0d7d3-9914-47f8-9cea-a3b01e9bfabb pink/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2fa6b459-db8b-4d41-98e0-5104fba2c921 pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=de8e8864-931f-46f8-9ce9-e1714071298f red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=59019658-4b33-410c-b845-4479a40bf779 red/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=ecccfbc8-4983-42e4-8c24-247b3a6b465c white/L qty=1 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=b27d9bb9-40b1-4f0c-aa00-8c3fc115ffff pink/XL qty=1 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=959e9897-d080-48ac-8306-830ea5eb654e black/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ba83f234-4ed2-453e-b6cb-826990935afb black/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=068d53fc-bd5a-463b-86b0-688179a15d57 pink/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=4e90e052-857f-473f-a76e-764faa8182b8 red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=588ca485-ac12-448f-8a91-5038bc0b9503 white/M qty=1 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=cdaafda9-76b4-4f6a-9f59-32b0d95aa52b white/XL qty=3 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=9a1545f3-7716-44fd-bf93-7cbcd1cc1d04 white/L qty=3 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=64f8fff5-6f72-49d6-a1c4-c602e0ad1d33 black/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e962ced3-35a7-4f93-8122-c2269e3c69f2 black/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=5a2c5c5a-6797-4e67-95f9-e258bfd678c1 white/L qty=1 stock_after=9
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=cca788bd-d0f8-4850-a4c2-03b1ccd3cb71 pink/XL qty=1 stock_after=15
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=04150b8b-7d8d-4b69-8621-20d6e61664c6 black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f74c1685-ad62-4171-aabf-300876e8b660 red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=1370c996-00d4-4377-8bb7-1ce4269e7b2a white/M qty=1 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER OK order_id=696d78da-1cb7-480c-b6f6-952128cdb5db pink/M qty=2 stock_after=12.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=627a574e-dbd0-45f7-ac2d-0229202308af pink/XL qty=2 stock_after=13.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=a6417a31-519d-4aa8-a589-d399b630a5fb red/XL qty=1 stock_after=6.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=0e28e829-1650-4d29-ad3a-898c7f9520d7 black/XL qty=1 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=32225f31-14d4-4e9f-ac65-8bf2b3c11965 pink/XL qty=3 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=9e87b5ee-4a0f-44c1-9301-23044087a379 white/L qty=1 stock_after=9.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=8744c281-a6cc-456c-aefd-83d047b18529 pink/S qty=3 stock_after=12.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=5d2665d2-56b2-4e4e-b956-73a5aac76353 black/S qty=1 stock_after=7.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=466fc72a-5d41-4279-a735-fff38a7a6434 red/L qty=3 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=d55c6b22-0244-4ef1-bd61-024aa408174b black/XL qty=2 stock_after=16
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=b6d66a1c-9881-4c86-b1fe-b2db511ea220 white/L qty=2 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=588a1c94-7cd1-44ca-b2bf-4adad680d702 white/XL qty=2 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=28c387bf-3ce6-4704-9703-6dba104e29db pink/XL qty=2 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=2b1620d9-257c-4b17-be22-f2a4ee2a92be pink/M qty=3 stock_after=7
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=1bdfc681-e200-423b-9c1b-0bbe2eba8380 white/L qty=1 stock_after=6
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=ca88799f-44e3-48db-8761-65a2acf9a82b pink/M qty=2 stock_after=5
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=0aefdeeb-b691-47e5-ac50-5823777cae36 pink/XL qty=1 stock_after=9.0
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2a878695-929e-4e54-8b16-fb88cd3f973a black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=e26194b2-bbae-4418-80c8-65d79a62c2d8 white/M qty=3 stock_after=12.0
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b38f22d3-c051-4900-abe6-0709c970ea83 red/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=95347b81-1815-4fca-8353-26effdb10358 black/M qty=2 stock_after=5.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=b7817153-402b-40f5-ab35-f7ba640ff2de black/L qty=1 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=8a908982-71fc-4143-8b64-dd4a17c76fa9 red/M qty=2 stock_after=12.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=5dd5255c-d725-4a59-be6f-af8df3bc8d51 pink/S qty=3 stock_after=9.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=639478f7-03e6-480e-aaea-d57c01bf75c7 red/XL qty=1 stock_after=5.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d3edd486-d237-4c5d-b690-60efcdd1873d red/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=bccac305-4aa9-4c9e-a00f-58e22163dea0 black/XL qty=3 stock_after=13
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=4bd57106-8c67-4342-b019-03686917708f white/M qty=3 stock_after=3
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5ec0c30b-8536-4ca0-8d1e-c67b0c587795 red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0dbdd8d7-33e8-4789-92a7-bd49290c3b06 pink/L (OUT_OF_STOCK have=2 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=c5d6f201-3bf4-41f0-9317-9b40f0198686 white/M qty=3 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=45f46673-3081-4cb3-a73c-9059ae7e0d16 pink/M qty=2 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=66c8d782-0a79-4c76-89a6-12458a9e7393 pink/XL qty=3 stock_after=6.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=af53fd05-19d5-4f5f-895a-4a4b979fbbbf white/M qty=1 stock_after=11.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=f4daebc6-df29-400a-a00d-4dcac8ba5ab8 white/M qty=1 stock_after=10.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=33fa6a36-a045-456f-a8fb-f7524ea8006c black/XL qty=2 stock_after=8.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=46c04bad-a227-4e4f-bde3-f5fe8b33d700 red/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=a07187fb-c5be-4e13-ad7d-7df8290ad9cd pink/M qty=2 stock_after=8.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=2f303ef8-77b1-4306-9871-a40016030e8a black/S qty=2 stock_after=5.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=bc3bc8f4-9197-4555-b5c8-88867606ecce pink/M qty=1 stock_after=4
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ea90ab66-f7e7-488d-b9e9-2ffa30a6325a black/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=446d23c5-63c3-482e-9249-bc1b991ed3fd white/XL qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=488e0eb0-2774-4515-a9b6-e443bb03be6f black/XL qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=991ab516-3e0c-4bd0-8910-19ced511c2df red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=cda16c24-c79e-4bcd-8801-a6591aa3fd7c white/XL qty=2 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=0240681b-a8dd-4094-8403-f5a9099a275b pink/L qty=2 stock_after=13.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=4ff76fd1-7d30-4e51-a8b4-4dfe3eefc7dc white/S qty=2 stock_after=9.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=21e23cd3-0fa2-4c02-8e10-c7bf38bce546 white/L qty=2 stock_after=7.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=b3dadffb-6cac-41cd-a18b-35bd5d4c3c57 red/M qty=1 stock_after=11.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=41196eb9-0b64-410b-ac99-868b3994ef6e white/S qty=3 stock_after=6.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=0f06b830-032e-4d70-b2f6-b25b414d2780 white/L qty=3 stock_after=4.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=f9780d30-8b43-4eb5-a2d8-682db5352e64 pink/XL qty=3 stock_after=3.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=26733ad9-aa99-41c6-ad6c-14751bd5ca4e pink/XL qty=3 stock_after=0.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=c4e54079-ef8e-41fc-a38d-753fe824d823 black/XL qty=3 stock_after=5.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=1e7ca84c-2608-4e87-8c50-39d3bf804258 pink/XL (OUT_OF_STOCK have=0.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=be585c2d-59fc-4959-ac2f-b96278856d4f black/S qty=2 stock_after=3.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=9873e443-6631-427c-a0a7-45a8fd7dd08b black/M qty=2 stock_after=3.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=092f88bb-e8aa-4c8a-977d-6a319d69e1ba black/M qty=2 stock_after=1.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=3be1e155-8f59-4bd9-965d-a8af68efee26 red/L qty=3 stock_after=7.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=58fa7957-fd2f-4843-9476-246ccc8b45c9 pink/XL (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=a5043c45-4ef7-46d3-abf9-877d6f45ff5b black/S qty=1 stock_after=2.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=b9f65811-1857-4a86-9503-ab68cebbfc24 white/L qty=3 stock_after=1.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=59180003-b045-4b79-a4d6-fabb3a47ae7a red/XL qty=3 stock_after=2.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=410f6ecb-02f3-4b15-a97d-a7f6cc44c966 pink/XL (OUT_OF_STOCK have=0.0 need=1)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=e9a80aeb-afc0-49a9-bf24-a3bf51cea450 black/S (OUT_OF_STOCK have=2.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=287c1eed-96b5-4ab3-9901-7210e9d2443b white/XL qty=3 stock_after=9.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=88659719-6e75-4919-87df-38407c56df4a pink/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=763b0f85-e343-491f-bea7-9603ae436987 pink/L qty=2 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=2dd6e2d8-3afb-4dec-a9dd-c0776b30f764 pink/XL qty=1 stock_after=12
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1e7d2dcd-a55d-4ac0-ac70-225de690f827 pink/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=033d4180-c737-4c0d-b506-4efb995b4d14 white/S qty=1 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=db10e5d5-f245-453b-a05f-c1c2fcccf5a9 pink/L qty=2 stock_after=11.0
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=543e4e05-fda5-44e3-beb1-30a5d35a1e7e black/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=25077d94-df51-4ac6-abc7-b9c8c32f6679 black/XL qty=2 stock_after=10
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=bad0e375-f2e4-4f9e-bc17-1d4dcef1e174 red/XL qty=1 stock_after=1.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=92cd5717-d9b4-40d3-8fe8-ec87261d8f14 red/XL qty=1 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=03087b6f-1194-4ed1-b4e3-c4227d5e6fb4 white/S (OUT_OF_STOCK have=1 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=3cec50c5-191e-4e1d-8c23-7ebbbe9e6ce0 pink/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d6368636-6dc0-4dd7-8c6a-6f53a423ce7e black/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=7dd06942-5f6f-4f49-bea0-a510925ac5b5 red/L qty=1 stock_after=6.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=9898e950-d689-4809-aca4-0e2cf3f8c7de black/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=118432a6-1aa7-4325-9ea7-fb79599efae8 white/S qty=3 stock_after=3.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c156717c-36e9-422b-bf8f-790792707acd red/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=3fd066e6-9bb1-429d-bb8a-9d36c03403ab black/XL qty=2 stock_after=3.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=d360aac0-d727-4cd7-9036-febfbe3d5f4f black/XL qty=2 stock_after=8
+[PRODUCER-CONSUMER] ORDER OK order_id=ab8ee6dd-215d-45e6-8c5b-38a60b95a90f white/XL qty=3 stock_after=6.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=318f8f18-dba5-499b-b58b-81a8f74d0d78 red/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=e6b5ecc2-7722-4f57-aa5b-9d341fd131e4 red/S qty=3 stock_after=11.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e49f97d4-5ffd-40a1-ba2f-3ce9c38fc9d3 white/S (OUT_OF_STOCK have=1 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f430010c-9d11-45f2-99d0-a3488f7c0172 red/XL (OUT_OF_STOCK have=0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=647fde1d-70f7-4f01-b775-509828c0ce63 white/XL qty=1 stock_after=9
+[PRODUCER-CONSUMER] ORDER OK order_id=7cc2aa0d-7b63-4740-837a-ab1bf6e358ad black/XL qty=1 stock_after=2.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=2a9177df-8225-435e-a12b-4769e855d63a black/XL qty=3 stock_after=5
+[PRODUCER-CONSUMER] ORDER OK order_id=253ea5c9-2c4f-44ac-8202-c30cb24a59b9 white/M qty=3 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5c2e6310-fc7d-490f-b020-3fa9205ab8c3 red/XL (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=91e1656e-083c-4549-82bd-0d7eac9a5d35 black/XL qty=1 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f3f0ed55-2af7-4b76-af5b-9137692ad916 red/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=89bcd1ae-571a-423b-aa3d-2a63cdcd4570 black/XL (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=cd6d3dfe-5772-4fcb-9fc2-75e16b9a502a black/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=8b009f0c-3f34-4f73-a9c5-8ad17e5a09ed pink/L qty=2 stock_after=9.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=3b557471-c652-4288-a49d-d86e9ce0c09d black/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=56a73ec0-b189-4e21-934f-85b7d1f04a1c black/S qty=2 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=fdac978e-6e28-4700-87c4-c2bb466ced39 white/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=8c48fc60-d77d-4fd2-9c48-005db785804b red/M qty=2 stock_after=9.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=2454bd86-d141-447a-9fa5-3fbd4c0dbaed black/XL qty=2 stock_after=3
+[PRODUCER-CONSUMER] ORDER OK order_id=ce400da3-4ab2-47cb-8434-48e91ec8d741 red/S qty=1 stock_after=10.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7c79357a-7d76-4150-88a1-789d28a7d053 pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=711b6e5e-8910-4f47-bb7c-49d67ba1fca1 black/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0b82c06f-42a1-4a71-822a-990207cc1bb5 red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=3052e20f-930a-4764-94ba-7209dffbd719 black/XL qty=1 stock_after=2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=0e77ffed-6ea6-4ccf-81ff-3db1f382d173 black/S (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=fe3c667a-e166-44b4-99f2-3c746f966c95 white/L qty=1 stock_after=5
+[PRODUCER-CONSUMER] ORDER OK order_id=05b08e42-449d-44a0-8533-27d463670bb5 red/M qty=2 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f7b3067e-3e83-41a2-abf2-d89dfc32bba8 red/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ebc582f6-01c2-49b2-a10e-8a3ef082f7ea pink/XL (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d49eefdf-81a7-4b56-ae65-e0f4618ea634 black/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=916f23e6-3e6c-4919-a4da-914f30960c4b white/S qty=3 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER OK order_id=541b5f57-f6d8-401b-be84-5f1907decdb5 red/L qty=1 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=5e067630-eb28-4e06-bf7d-78b4fafa6215 white/L qty=1 stock_after=4
+[PRODUCER-CONSUMER] ORDER OK order_id=aa035ade-dacf-42a2-83e9-8a7c1061b7ef pink/M qty=1 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ebac4387-9c70-4a00-af17-eb8732e0b0a1 pink/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=0b5e335e-96f8-4e50-9a5e-86fa98cfb395 black/L qty=2 stock_after=8.0
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d993d35f-7e2d-487c-963f-30cc08edc40f black/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f03a555e-85dd-4e2a-a674-f6d344a7929f white/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=92aedcf4-9632-4824-b881-0aaa880abf1b red/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=94b40b25-ed34-42ab-9f84-8a93cb492d8b red/L (OUT_OF_STOCK have=0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=11dc2d05-f8de-4347-8413-5fa98c2bdb01 red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=4fbe292b-bd12-4f49-8e60-18f7a213d4ec red/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=3c9a84f1-709b-4786-bbc7-f3ce4daf6001 white/L qty=3 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=24a599e7-5437-448a-82d5-ed89aab7a3f1 pink/S (OUT_OF_STOCK have=0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=59a4d010-eae3-4eab-9d8f-adb136396c78 pink/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=2306e916-655e-4eef-b4da-b3349877a7ac black/L qty=3 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=75a664e8-a3be-4ed1-937c-cedd673edf8f red/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=b88fff8e-03d6-4326-9158-d36f9a5e13e0 red/L qty=3 stock_after=2.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0e22442c-4e38-4815-b50b-b4c9a8aa0a91 white/S (OUT_OF_STOCK have=1 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=b39587a3-0d06-4074-a8a2-270fccd8afeb black/XL qty=1 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=153c15a0-4197-42b8-91c9-071f6ae1750e red/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=fc8737c0-e47b-4878-a2b0-3ffc8d6268c3 white/M qty=3 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=dc06552a-0c1b-4266-b026-2b750b4f707d black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2104b4ee-3a60-4c4a-86ec-e7e882d13f1a pink/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e71f17fb-be63-4285-a520-381439182e2e black/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ad6eebde-0343-438d-8994-e149355e4b0c white/M (OUT_OF_STOCK have=0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=9ab0cb48-90e7-437c-a942-7127269f16e2 red/XL (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER OK order_id=dd87ee0e-8c81-41c4-a5b4-1710a670fb4c red/M qty=3 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c52f4edb-b151-43bf-afdb-e5543ef517fc black/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=18c36d38-8ca2-4b73-9eb6-b35174ee74c9 pink/L qty=1 stock_after=8.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=69b0cd58-622c-4e7c-a1df-366f0bb67f7d black/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d634e613-165d-480c-aee8-5793f01cf6a5 white/L (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=dd0efc39-bcab-4356-a01f-b728de2b48b8 red/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=8e67a679-5eef-44ad-9c1b-dcd77fb895ef black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=127f7527-89c8-4dcd-8f7a-ccdb0f3e089c white/L qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=24a79682-836c-468d-8133-7ea44e82ca6c white/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=30b7eeb5-98ef-49a4-b456-bc3420918a3f red/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a207ffe7-2389-4684-a7b1-527abefadd2e pink/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e85d588a-f6e2-420a-a893-fab5a4b83a08 pink/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=335533e7-2fa2-4619-86be-9f9d56dc201b black/XL (OUT_OF_STOCK have=2 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e08ea5db-a713-4635-b246-2cce9c71e959 white/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7987aece-7c62-4856-b43a-c31ac094d072 red/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=afc736c6-ce5b-4453-aa9b-4c54f8ca6af9 red/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=41e67005-7926-44a0-956a-fc13c28df93d white/XL qty=2 stock_after=7
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e45422b6-7f6d-4377-b633-8cd1cc58c3f4 red/XL (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=bca492bb-3892-448a-9428-2f564d4a37fa black/S (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=9ebd0bf5-5009-4f7f-a128-a915b758721b black/S (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=7479f3f6-6412-4862-8ade-6802b30cf070 white/L (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f294d485-52cf-4e15-80ed-80b9f5c97e0e red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ba7bdd02-93c6-4186-9b85-92e9a6088fe1 red/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=48e530e9-2ea4-4ee5-9e20-2ba33c576d08 black/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=054b42ef-92de-4307-9ef8-0300e21782f0 black/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=54a7975c-6d9c-49f3-b9ca-099705658f4e pink/XL qty=1 stock_after=11
+[PRODUCER-CONSUMER] ORDER OK order_id=de179f6b-c4ad-4a90-b83b-7efb3e64cf70 white/M qty=2 stock_after=2.0
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=0ef37d66-fd5f-4a1b-9f97-f309cd63197a red/S qty=2 stock_after=8.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=5b87ef8a-e694-4ed3-965a-75bb5de2a0c6 red/S qty=2 stock_after=6.0
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=47f71045-cc7d-49c5-9faf-ba869fc9c9de black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f4b08cce-e000-4f11-807e-8de3e7e9cc3d black/S (OUT_OF_STOCK have=0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a4f0d81c-a631-4b3a-972f-9f6a50774d2f black/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=64db0ffb-2f76-4242-82b5-b214ccf67c3a pink/M qty=2 stock_after=2
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=a687077d-f69b-402a-b6da-94e7fd810d31 white/XL qty=3 stock_after=4
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=ff54bba3-5f77-4fe6-b444-ce299247f0fe white/XL qty=3 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=0146d362-bc2d-4a42-8d47-e671e5272344 pink/XL qty=1 stock_after=10
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c21cf610-3c04-4df7-be5e-8851bb593bc1 red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a1e779a5-d30d-4c4c-92bc-ae0af3d3c3ca white/S (OUT_OF_STOCK have=1 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6a14425f-6185-4fe3-b5ee-58c1d74548e9 red/S (OUT_OF_STOCK have=0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6a285e74-d1c2-4917-8bb9-c7f8a7beb953 red/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=6e094e63-cf69-468e-8b32-7b4552c03df7 black/XL qty=2 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=8852c421-2046-49ea-92e8-3f6c85ad989b pink/XL qty=2 stock_after=8
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b1d1a013-a546-433a-b2e4-48282a85a975 red/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5a42787e-767f-4af1-94e1-e33a9e1b1f95 black/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=339ace27-81f3-4c6c-93e0-05da81be38e4 pink/M qty=2 stock_after=0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=6a42e04b-77f6-4dc3-a473-71353186053d red/XL (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c8450ea7-d977-4a5d-80a0-b5e90b092753 white/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=28c50606-6d71-4c19-bc20-645ac21128ea white/XL (OUT_OF_STOCK have=1 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=b2a5ddcb-de5d-4724-af0b-75f8dfa69edb black/S (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=83fb2b7a-f398-4951-9722-bf883622175a red/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=e6d033d7-b075-4723-81eb-4e77a588a14e black/S (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=2f560e0e-f375-48cb-8590-40bda1d4064a black/M (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f6e60851-bb17-4333-9737-1b358c72e56c black/XL (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=a45cdf69-274f-4f35-a45e-fd9a37efc62a pink/L qty=3 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=0e292b02-ae12-4614-bd60-6740b259ac08 white/XL qty=1 stock_after=0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a41a720a-fcee-4d44-b9c0-8cb2ff0d30b7 red/L (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=fa5f8902-e125-4f8e-b3d4-3466a724116c black/M (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=45614bc8-a2a5-4ec2-b033-db651b57d72d black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=81ad8929-0eb2-4ef7-9a4c-5f4a13048f8b pink/XL qty=3 stock_after=5
+[PRODUCER-CONSUMER] ORDER OK order_id=6585ad0d-5aa3-4df2-9096-d81d97040b46 red/S qty=1 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=3b93e833-037c-41f2-9da2-cfa3db729527 black/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=234db73f-7645-4d34-ad4e-3df59d0c45e5 red/L (OUT_OF_STOCK have=2.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1bdc73d8-19e7-4745-ab86-ae23c3d91786 white/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=702d94d5-70d9-4971-9caf-2332275b647e white/XL qty=2 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER OK order_id=e7fff3d6-d4ae-44dc-852c-f1e2ac66f37c pink/XL qty=1 stock_after=4
-[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b762e83b-1b38-4ef0-a931-600f20e9bcc7 black/S (OUT_OF_STOCK have=0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=39f944dc-f20f-456c-8c42-4870ae0c1c53 black/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=51f53b65-0e10-443f-a5f7-7de60d71b0e6 white/S (OUT_OF_STOCK have=1 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=5ac67d93-d271-4959-846a-dd2aabede3d1 red/L qty=1 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=571203d3-c72f-430b-b3f4-a25e5fdc6f9d red/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=7c946336-b931-435b-a013-f61bab781ac9 red/M qty=1 stock_after=3.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=473c0570-523f-4a16-8fb5-3e5e33034a98 red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=63805f43-1946-49cc-929b-8471220ae635 pink/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=abfbb29c-c5e0-4c95-a574-d61e442d3de9 black/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=b8f52bf3-8983-4a1d-b650-9c61ef9caf08 pink/XL qty=3 stock_after=1
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=395632f0-d2cd-4eb0-a68d-a480949579aa black/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=eeead16d-66af-4742-b147-3c659b20b9b9 black/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0f0a057f-0232-4738-ab5c-c88215ba9c0d red/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d0daa22d-0f3c-49d8-8988-42cb717d5607 white/S (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1a93293f-0ee6-4cdc-8ce5-2f72223fe7bd black/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7a2beac1-c34d-49ac-94b6-32b4f5191f37 red/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e5bf2a71-df0d-490f-986a-489ce0330293 red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2dc096c7-25c1-45ac-9b79-8bde702e420f white/S (OUT_OF_STOCK have=1 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a12c3fff-883b-4da2-8cb3-e52b7ef7ca44 red/XL (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ab268413-196f-41f4-80fe-ff355f877d54 pink/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=92b05177-2f49-48f1-96a5-ee03f037cd0f pink/M qty=2 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6c897d52-46db-4d4b-87a2-fc4533232b46 pink/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=5854477c-8a6b-4c3e-ae06-d4b318c64723 red/S qty=1 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a9fa0d8d-417b-4e7c-b3af-86e56b974032 pink/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=b0ac6489-2781-455b-b12b-aedf161b9406 black/M (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=2d30b42e-23bc-4f9f-b3e3-d485be4a58cc pink/XL (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER OK order_id=f23b1493-7d98-4119-a7c3-6b0d0e4384fc pink/XL qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER OK order_id=2c9e3535-b5cb-4143-bb2d-69f377bbc76e white/S qty=1 stock_after=0
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=4192ad91-d5b4-4147-9693-cff8e8444a29 black/XL (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6c7a5405-a3b0-4317-a109-959a208b83ee black/S (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2a5ee42f-1224-4ab3-92aa-fd27a845aa91 white/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=7c7f95e2-4fbe-4d1b-98b6-77b2fca0f2c6 black/L qty=1 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=b6d686c5-8394-4b1d-9540-d5f70c73a3ad red/L (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=e52d4cee-aa95-4e9f-9859-e9961cf2d001 black/S (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=c869be65-05b5-44e6-9f57-2884a0033b2d pink/S qty=2 stock_after=7.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5e2b029f-088b-4b43-85b6-0202ed7c3267 pink/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=3f9b9410-e09e-4808-ab92-fcc932406b67 red/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1c2e833f-4966-4751-8eaf-69eb543f4474 white/S (OUT_OF_STOCK have=0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=3f31bd30-e143-42bc-aea1-3aab4d1bc7a9 red/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=72aefcd6-7d3b-48a6-9062-cf03f08b9e15 red/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0da57315-9f19-4dfa-a06a-1c6163dbd7f2 pink/L (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1f325e89-6957-49c2-a779-0389f1a71196 pink/XL (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=8f999dc3-c1ae-4793-9125-2ce107391fbb white/M qty=2 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=8552938e-f494-41d0-b595-5472ae985d82 red/M (OUT_OF_STOCK have=0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=32ed8fbc-7c93-4b26-aa50-795cba3eaba4 red/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ae9d769b-c0ae-4d21-b59a-04c43d93606d black/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1c44499e-b2f0-476a-b05c-40dd90fe70dd red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b381ab8c-9272-47f1-8ba9-60e44082a62b pink/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=852aab97-81eb-4fc8-92c8-44a62740e0dd red/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=11cdb6fc-0b33-4285-88b2-a55cb5f7224a black/XL (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1dd73652-9245-4505-95d8-09d3a5439817 pink/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=16d2175c-e75d-41ce-ae33-085227eba482 red/S qty=2 stock_after=2.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d87d33e7-035d-4073-8f7c-ff68204b7ef7 red/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=0dfc9576-9834-4f41-aa29-abd8cf452adf pink/S qty=2 stock_after=5.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=eb2f8e8c-0c3f-4179-b648-bf17d2607e28 pink/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d6f527cf-ef6f-4658-9256-1366f59291d2 black/S (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f35ffd5f-1921-49a5-842a-b9aed6941bc2 black/XL (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=57953e56-7c33-42e6-8f86-dc71ffa600f6 pink/L qty=1 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2b650973-b586-4ac7-9ae3-aa5623b698c0 pink/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=0e32576a-480c-4bc4-838d-99eeea888d89 pink/M qty=1 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=664bf00d-8cae-416c-b89a-eb4848cf1254 pink/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=fdbe1061-89ac-4ade-82e3-d309e0185506 red/M qty=3 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=eb1066d7-493d-4740-8dda-c598db719789 white/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=7fabfe2a-6ae4-4451-872a-a02f601f8d8e pink/XL (OUT_OF_STOCK have=0.0 need=1)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=bb9e3d54-c186-45a9-8d8f-b13f705c4fb6 black/M (OUT_OF_STOCK have=1.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER OK order_id=89c6fd60-43f0-4881-b27e-639578c7216c pink/S qty=1 stock_after=4.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d20ef83f-b930-47fa-8c0d-82bb951a6077 black/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=3d5cac24-56f9-43f2-8a26-fe467e8087a5 red/M (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2df511c7-a370-4738-86c0-5bad3e30dd64 pink/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0c1e15cb-fa31-42d8-8c6b-19dcf900c976 red/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=77b83515-9e22-4bbd-a557-12979db32d1a red/L (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=7bc68a6b-54e7-425b-ba56-7b11a4ac397e white/M (OUT_OF_STOCK have=0.0 need=1)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER OK order_id=74855eba-4239-4061-8306-1c2f204bd1bb red/L qty=1 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=faba8fb3-8450-4617-9633-a45ccb059bbf black/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER OK order_id=a4167045-3e1f-44c4-a924-ac38e962e777 red/S qty=1 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=4203ba5d-8fea-4b70-aa38-ca0a9e34d70d red/S (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=39fc58da-0ad1-4ebe-9d21-8c40c5640fc9 white/XL qty=1 stock_after=3.0
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5093af03-da97-4fd2-9012-3325e77f259c black/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=865844da-d5ee-44ed-a330-42c868e85b62 red/S (OUT_OF_STOCK have=0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b18ad2ee-95d3-40c6-be94-d6de49b9aa4d red/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=c51376b4-386e-4a78-a23d-e345546f8c4b pink/S qty=1 stock_after=3.0
 [PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=80333a31-8526-4069-8bd1-9bef9c9fd64c white/L (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=0395229c-f8e6-49be-b62e-b02af80ba068 black/M (OUT_OF_STOCK have=1.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f91bbd27-468f-4f51-81bd-8aba938ec536 red/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=b5053e64-163a-48bd-8521-e68638b6bce0 black/M qty=1 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=75fbfb7c-06dc-42e3-a064-e697d9d0368a red/XL (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5f9fc27d-c252-4c1e-9a13-9433dbb2e295 black/XL (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=7c211cac-f04a-4ae6-88f7-99d679a7e9f2 red/S (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=17e25556-971d-4ac1-8f68-45acd36ac0fa red/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER OK order_id=bd8b77c3-72e3-46e1-bf79-a1dd118dc5a3 pink/L qty=3 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=14fb5c47-33f1-4eb4-93f4-1253536c4369 pink/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=0908609f-08ad-444e-a08d-47da5e792448 white/L (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=da733d65-5079-45a3-8ea8-bf8ad235aed9 black/L qty=3 stock_after=1.0
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER OK order_id=0a3da0f6-1548-465b-9242-afa362924bbb pink/M qty=3 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=ace4518e-1706-4de8-974a-b8c4ef0b16be pink/XL (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER OK order_id=581fd4bc-91cd-4beb-aae1-838ba3047b8d white/XL qty=2 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ee819611-c156-4245-8677-60bd6cad4fcf white/M (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 1
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=aaba637a-b38f-43b8-803b-b8c4b39d806d white/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=11651344-29ed-43ef-81f5-95556c449ab7 pink/M (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2c2a950f-2998-456e-b23d-121146ef0b63 black/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=4770bdbe-8650-4ecd-8d1c-03747a8e2fa0 white/L (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=65fc3a74-372d-4f33-b630-c7d7b80035b3 white/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=834cce15-477d-4751-94c4-7c762a9b2ec5 white/M (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=5904dafe-94db-45be-8b52-2ca79c309235 black/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=263e6a68-0eeb-4df3-87cc-54ce6d4e3014 black/S (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=9ca351e4-4017-4be6-ad61-6c498dc9f57e red/M (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ef23f7f0-3979-4eeb-bd37-8eab88e0770c white/M (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=354380c6-5108-4d62-9c48-e37e9bc61a86 red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1bb285c0-9995-4fc9-bebe-71cc5434cbd2 white/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=20e22d7f-1d61-49de-874f-e3a26935a8f4 red/M (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e25925ca-230e-41a8-a2bc-92541395511d pink/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=93be37a9-fb5f-46ae-b92d-8315f071eda4 red/M (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=80b14a7f-a2d2-47e2-8626-3f76e27cedec pink/S (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=5abfefde-5b3b-4686-82ce-09ec22b4b4eb white/XL (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=3a85723e-f11e-478b-b67f-d6e816ae2c12 black/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d613ac81-3ba3-46a0-bc1d-7347dcead4a2 white/M (OUT_OF_STOCK have=0.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ae884a51-c99d-46e9-8351-380feb15435f pink/XL (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6c17c4c7-44d4-417b-855a-294c066cfaec black/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=0a6eaa57-f4a2-4126-9956-feba9b1fabae black/M (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=4a18d799-7050-4864-81e0-cdc622e0c827 white/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=1549ba12-3eee-4fe0-aedd-ba56d35631c8 black/M (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER OK order_id=dbfa9f61-6ea4-49c7-90c7-e33e04eea992 pink/S qty=2 stock_after=1.0
 [PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=4b3a0661-beaa-46c2-970d-9643bd3170e5 black/S (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0ac68458-becf-4fb6-b27d-9cedd2fd3d1e red/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=36e6c1c1-25ed-4ec8-a981-7e0556e85f3f pink/S (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=443d2704-eaf6-4549-a81a-60ef5aa820d9 black/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b4d0f80c-d993-427b-841c-e217f3a1e470 white/S (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=bac1f83e-96df-4fb7-88a4-36ca0654eec9 white/L (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1a64af9f-9dc7-404a-b5ca-226573fa6fb7 red/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=91d76869-6b41-4d6f-96e3-b537b0c1a52e red/L (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] ORDER FAIL order_id=4d3a2975-6d29-4044-9112-1a73c20fa393 white/XL (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=5138a3b4-89ae-42e0-92dc-8651f4c2240d pink/L (OUT_OF_STOCK have=1.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=ef98260c-baf9-455d-b92e-e0fa22d610bd red/S (OUT_OF_STOCK have=1.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=91bc7034-3459-4b9a-beaf-e33391263216 black/L (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=e535c65b-af2e-4f53-a929-dbd1f344c736 red/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=1674c720-4035-4014-94e5-039fdbff3dea red/L (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=60b5295c-747e-4f8f-93cb-50657b149a95 white/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=bbe54372-16e7-4e54-988e-9367e170e820 pink/XL (OUT_OF_STOCK have=0.0 need=2)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=96590db2-2412-4926-abd2-a9d14181629a red/L (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d30f8dcd-66de-4c66-a0b4-799c6ccbffbe red/S (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=55a66588-aa5c-4829-8fea-e7103d546f04 pink/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=cf736223-90a4-4daf-b66d-d2679d865327 black/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=e03bf185-ab04-4047-96a0-1626a99be23f white/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0144a828-e637-4261-aeae-2c326a9ceca6 red/S (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=14c18f3a-de14-4f95-8296-d0c86066c649 red/S (OUT_OF_STOCK have=0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=df4d53be-29cb-4ff8-b960-eb4ec92c12b8 black/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=2745895c-6aa4-487d-8f4c-77e04d70dda4 red/M (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=1d7a3671-e3fc-49d1-8a68-750ed1774470 pink/XL (OUT_OF_STOCK have=0.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d38de4b1-6455-4488-857e-cdf079b60ae6 white/XL (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=29e27d38-bd16-4015-8fd7-7b947630134d red/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=299c34bb-12ef-488f-82c6-c1d4ad24a979 pink/L (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=bd181e6f-3298-44b8-84ac-0e6e6bd66d42 pink/S (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=b26b7f71-d7c9-4234-8ec1-aeb3d3103a08 red/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=a0d23772-c9ff-441b-a460-c91af848fee5 black/XL (OUT_OF_STOCK have=0.0 need=2)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=f06e5271-e827-4837-bae8-c53592392781 white/S (OUT_OF_STOCK have=0 need=3)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=d6429499-3229-401e-b540-c2546693f18b pink/L (OUT_OF_STOCK have=1.0 need=3)
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=6e09c758-1fe4-4082-9152-7327f56c4e47 white/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0e12264b-c09b-43fa-b6dc-d59984856e4e black/XL (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=c33a1903-ae45-402f-a28a-4237d365a6db black/M (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=1c25f835-2197-41b8-b9a4-9a1bf22c9226 red/XL (OUT_OF_STOCK have=0.0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=4aa250f5-4cd6-4210-95a2-af4cf7a5861d white/XL (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=68f517da-c0f3-48d4-b5c6-83af8988665c black/M (OUT_OF_STOCK have=0 need=2)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=a39239f8-4e53-455a-8905-d1a0b72c4bc8 red/M (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0f761888-dee6-4d5f-8117-ee76bfb8ac1f white/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 0
 [PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=7b5d4998-480e-4a0c-8205-720858b551a6 black/L (OUT_OF_STOCK have=0 need=1)
 [PRODUCER-CONSUMER] Received message on partition 2
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0ca1faab-194c-4ff5-889c-c824016d8ff9 black/M (OUT_OF_STOCK have=0 need=1)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=0e93eefb-8681-4bd3-8eff-c2d07da6745a black/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=45d54d2c-6797-49df-8aea-504927a8269b white/XL (OUT_OF_STOCK have=1.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER OK order_id=000ddea5-eb33-4a11-a610-17403f30a3b0 white/L qty=1 stock_after=0.0
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=96f1d9f5-baba-4712-ab29-fedb088cd40a red/L (OUT_OF_STOCK have=0 need=3)
-[PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=fa064069-aa49-457a-8b1a-4e16aea89106 black/M (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=6b24ed0c-1799-4062-96bd-38d728afc6b0 red/L (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 1
-[PRODUCER-CONSUMER] ORDER FAIL order_id=d2787787-a08e-4faa-be9e-c8179c0a082e white/XL (OUT_OF_STOCK have=0 need=2)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=5535511a-7b09-45e5-9001-68a0e8f02cb6 black/M (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 1
+[PRODUCER-CONSUMER] ORDER FAIL order_id=344718b6-3a21-4ca1-97ac-1429abfcbd7b pink/XL (OUT_OF_STOCK have=0.0 need=1)
+[PRODUCER-CONSUMER] Received message on partition 0
+[PRODUCER-CONSUMER] ORDER FAIL order_id=6b2ad2e4-6031-4d35-90bf-f7e5dff1ae7d pink/XL (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] ORDER FAIL order_id=cc25ea4d-86c4-4ab5-80e1-11bf67a02f94 white/L (OUT_OF_STOCK have=0.0 need=3)
+[PRODUCER-CONSUMER] Received message on partition 2
+[PRODUCER-CONSUMER] -> DLQ reason=INVALID_JSON order_id=None
 [PRODUCER-CONSUMER] Received message on partition 0
-[PRODUCER-CONSUMER] ORDER FAIL order_id=8dbdff70-d57a-465d-b3b0-d59dae9f608e white/L (OUT_OF_STOCK have=0 need=1)
+[PRODUCER-CONSUMER] ORDER FAIL order_id=95da349c-cbd1-43b5-b949-4d91eed40c9a black/L (OUT_OF_STOCK have=1.0 need=2)

@@ -1,9 +1,4 @@
--- PostgreSQL schema for the Shirt Store Kafka event-driven system
--- Automatically executed by Postgres on first container start via
--- /docker-entrypoint-initdb.d/schema.sql
-
-
--- ---------------------------------------------------------------------------
+- ---------------------------------------------------------------------------
 -- TABLE: inventory_events
 -- Written by: reporting_consumer.py
 -- Purpose: Full append-only log of every inventory outcome event consumed

@@ -9,23 +9,30 @@ from confluent_kafka import Producer
 
 load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".env"))
 
-producer = Producer({"bootstrap.servers": os.getenv("BOOTSTRAP")})
-
 TOPIC_ORDERS = os.getenv("TEE_ORDERS")
+SLEEP_TIME = float(os.getenv("SLEEP_TIME"))
+BOOTSTRAP = os.getenv("BOOTSTRAP")
 
+# plan is to have 4 types of t-shirts in stock, in 4 different sizes, f'{STOCK_NUMBER}' shirts in each color and size each
 COLORS = ["black", "white", "red", "pink"]
 SIZES = ["S", "M", "L", "XL"]
+
+
+# initializing producer which simulates customer t-shirt orders
+producer = Producer({"bootstrap.servers": BOOTSTRAP})
 
 while True:
     order_id = str(uuid.uuid4())
 
+    # creating bad event payload to simulate bad input in 20% of the cases
     if random.random() < 0.2:
         producer.produce(TOPIC_ORDERS, key=order_id, value="NOT A JSON")
         producer.flush()
         print(f"[PRODUCER] Sent invalid message order_id={order_id}")
-        time.sleep(0.001)
+        time.sleep(SLEEP_TIME)
         continue
 
+    # regular randomized input
     event = {
         "event_id": str(uuid.uuid4()),
         "event_type": "ORDER_CREATED",
@@ -50,4 +57,4 @@ while True:
           f"color={event['payload']['color']} size={event['payload']['size']} "
           f"qty={event['payload']['quantity']}")
 
-    time.sleep(0.001)
+    time.sleep(SLEEP_TIME)

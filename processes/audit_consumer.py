@@ -34,6 +34,7 @@ def on_assign(consumer, partitions):
         print(f"[AUDIT] Assigned partition {p.partition} of topic '{p.topic}'")
 
 
+# subscribing to events within these topics
 consumer.subscribe([TOPIC_ORDERS, TOPIC_INVENTORY], on_assign=on_assign)
 
 while True:
